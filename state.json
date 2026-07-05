@@ -1,1 +1,41 @@
-{"sent_at": null, "items": {}}
+{
+  "sent_at": "2026-07-05T17:55:43.667756-04:00",
+  "items": {
+    "1": {
+      "title": "Shootings in Nine States Mar Fourth of July Celebrations",
+      "link": "https://www.nytimes.com/2026/07/05/us/shootings-fourth-of-july-weekend.html",
+      "summary": "Shootings occurred across the country, including in New York, Florida, Texas, Illinois and Tennessee. More than 50 people were shot, and at least five people have died.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "Trump Asked FIFA to Review U.S. Player’s Suspension. Now He’s Eligible to Play.",
+      "link": "https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html",
+      "summary": "The reversal of Folarin Balogun’s World Cup suspension is highly unusual. It was the first time since 1962 that FIFA has nullified a suspension for a red card received during the World Cup.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Trump Administration Rolls Back Dozens of Gun Regulations",
+      "link": "https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html",
+      "summary": "Critics say the administration is weakening public safety. Proponents say regulations would be where they were before President Joseph R. Biden took office.",
+      "source": "NYT"
+    },
+    "4": {
+      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+      "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+      "source": "BBC"
+    },
+    "5": {
+      "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The plane had 52 passengers and six crew onboard. No injuries were reported.",
+      "source": "BBC"
+    },
+    "6": {
+      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+      "source": "BBC"
+    }
+  }
+}
