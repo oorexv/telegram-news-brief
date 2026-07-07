@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-07T15:07:19.832369-04:00",
+  "sent_at": "2026-07-07T18:07:12.713622-04:00",
   "items": {
     "1": {
-      "title": "Lawsuit Alleges Trump Administration Gave Iran Details on Asylum Seekers",
-      "link": "https://www.nytimes.com/2026/07/07/us/politics/trump-lawsuit-iran-asylum.html",
-      "summary": "A new lawsuit filed in the District of Columbia states that the administration allowed Iranian officials to “select” which Iranians seeking refuge in the United States would be expelled.",
-      "source": "NYT"
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
+      "source": "BBC"
     },
     "2": {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/07/07/us/charlie-kirk-shooting-hearing/heres-the-latest",
-      "summary": "(No summary available from the source feed.)",
+      "title": "Utah Moves to Close Teen Treatment Center Accused of Abusing Girls",
+      "link": "https://www.nytimes.com/2026/07/07/us/utah-boarding-school-abuse-paris-hilton.html",
+      "summary": "Paris Hilton helped lead a campaign to shut down the Provo Canyon School, where she said she was beaten and spat on when she was 17.",
       "source": "NYT"
     },
     "3": {
-      "title": "The World Cup Stood as a Break From U.S. Politics. Then Trump Got Involved.",
-      "link": "https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html",
-      "summary": "The president’s call to the head of FIFA underscores that he has yet to find an area of American, or even global, life where he is unwilling to assert himself.",
+      "title": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins",
+      "link": "https://www.nytimes.com/2026/07/07/us/idaho-twins-death-shaw-vaccines-murder.html",
+      "summary": "A lawsuit filed by Children’s Health Defense, an organization founded by Robert F. Kennedy Jr., claims that vaccines caused the twins’ deaths. But a grand jury in Idaho has indicted her on charges of suffocating them.",
       "source": "NYT"
     },
     "4": {
-      "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-      "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
       "source": "BBC"
     },
     "5": {
-      "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
-      "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
-      "source": "BBC"
-    },
-    "6": {
       "title": "Le Pen Says She Will Run for Presidency After Court Lifts Ban",
       "link": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html",
       "summary": "An appeals court confirmed Marine Le Pen’s embezzlement conviction, but shortened a ban on her eligibility for elected office. That means the French far-right leader can run for president in 2027.",
       "source": "NYT"
+    },
+    "6": {
+      "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
+      "link": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
+      "summary": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
+      "source": "BBC"
     }
   }
 }
