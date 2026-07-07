@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-07T07:07:12.961541-04:00",
+  "sent_at": "2026-07-07T11:07:16.850323-04:00",
   "items": {
     "1": {
-      "title": "Did USA team fall short in World Cup? Here's what pundits think",
-      "link": "https://www.bbc.co.uk/news/articles/c20y4pnz2n4o?at_medium=RSS&at_campaign=rss",
-      "summary": "After weeks of excitement ended with a defeat to Belgium, Americans have a sense of gratitude but also a missed opportunity.",
-      "source": "BBC"
+      "title": "U.S. Loss to Belgium Is Gut Punch, but Bright Future Remains for Soccer Here",
+      "link": "https://www.nytimes.com/2026/07/06/us/world-cup-usmnt-soccer.html",
+      "summary": "While the team failed to meet the hopes of many fans, this World Cup highlighted the game’s decades-long climb into the national consciousness. What comes next?",
+      "source": "NYT"
     },
     "2": {
+      "title": "Did USA team fall short in World Cup? Here's what pundits think",
+      "link": "https://www.bbc.co.uk/news/articles/c20y4pnz2n4o?at_medium=RSS&at_campaign=rss",
+      "summary": "After weeks of excitement ended with a defeat to Belgium, there's gratitude and a sense of an opportunity missed.",
+      "source": "BBC"
+    },
+    "3": {
       "title": "Trump’s Tenuous Relationship With NATO Allies",
       "link": "https://www.nytimes.com/video/us/100000011005338/trumps-tenuous-relationship-with-nato-allies.html",
       "summary": "At this year’s NATO summit in Turkey, President Trump is arriving with his own priorities — and, as Tyler Pager, The Times’s White House correspondent, explains, they do not necessarily align with those of other NATO leaders.",
       "source": "NYT"
     },
-    "3": {
-      "title": "Trump Expected to Tell Turkey He Is Ready to Restore Access to F-35 Jets",
-      "link": "https://www.nytimes.com/2026/07/06/us/politics/trump-turkey-f35.html",
-      "summary": "The president, who is headed to a NATO summit in Ankara this week, had imposed the ban himself amid concerns that giving Turkey the jets could allow Russia to learn about their stealth technology.",
+    "4": {
+      "title": "Court Upholds Le Pen’s Conviction, but Leaves a Path to Presidency",
+      "link": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html",
+      "summary": "An appeals court confirmed Marine Le Pen’s embezzlement conviction, but shortened a ban on her eligibility for elected office. That could let the French far-right leader to run for president in 2027.",
       "source": "NYT"
     },
-    "4": {
+    "5": {
+      "title": "U.K. Live Updates: Farage Resigns and Says He Will Run Again in Special Election",
+      "link": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk",
+      "summary": "Nigel Farage, leader of the populist right-wing party Reform U.K., has come under increasing pressure after a series of revelations about undisclosed gifts and donations.",
+      "source": "NYT"
+    },
+    "6": {
       "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
       "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
-      "source": "BBC"
-    },
-    "5": {
-      "title": "Explosions injure 18 in Damascus during Macron's visit",
-      "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
-      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
-      "source": "BBC"
-    },
-    "6": {
-      "title": "Zimbabwean football star survives gun attack in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
-      "summary": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
       "source": "BBC"
     }
   }
