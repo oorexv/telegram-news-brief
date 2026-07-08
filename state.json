@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-08T15:07:12.828139-04:00",
+  "sent_at": "2026-07-08T18:07:14.714442-04:00",
   "items": {
     "1": {
+      "title": "Judge Hannah C. Dugan Faces Fine But No Prison Time",
+      "link": "https://www.nytimes.com/2026/07/08/us/hannah-dugan-judge-sentencing-milwaukee.html",
+      "summary": "The former Wisconsin judge, Hannah C. Dugan, was accused of ushering an undocumented immigrant out a side door as federal agents waited for him near her Milwaukee courtroom.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "Vance, in Wisconsin, Highlights Twin Fights, Against Fraud and Democrats",
+      "link": "https://www.nytimes.com/2026/07/08/us/politics/vance-wisconsin-visit-fraud.html",
+      "summary": "The vice president called Democrats “a party that is fighting for fraud,” even as he highlighted the case of a woman who was first indicted under the Biden administration.",
+      "source": "NYT"
+    },
+    "3": {
       "title": "What We Know About Immigration Officers Shooting at People in Vehicles",
       "link": "https://www.nytimes.com/2026/07/08/us/immigration-agent-shootings-vehicles.html",
       "summary": "Federal agents have fired on at least 21 people, many in their cars, as part of President Trump’s deportation crackdown. At least five people were killed, including three U.S. citizens.",
       "source": "NYT"
     },
-    "2": {
-      "title": "As U.S.-Iran Cease-Fire Frays, Trump Faces a Muddled War and Unpalatable Options",
-      "link": "https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html",
-      "summary": "The president appears to be confronting the consequences of a cease-fire deal cobbled together in haste, with little movement toward resolving the key issues driving the conflict.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "Judge orders Trump's $5m damages be released to E Jean Carroll",
-      "link": "https://www.bbc.co.uk/news/articles/c05yq5nmqvno?at_medium=RSS&at_campaign=rss",
-      "summary": "The Supreme Court declined to hear his appeal of the case, but Trump still sought to delay the payment.",
-      "source": "BBC"
-    },
     "4": {
-      "title": "Internal File Finds I.C.C. Prosecutor Engaged in Sexual Harassment",
-      "link": "https://www.nytimes.com/2026/07/08/world/europe/internal-file-finds-icc-prosecutor-engaged-in-sexual-harassment.html",
-      "summary": "The confidential report will be considered by International Criminal Court members as they vote on whether to remove the top official.",
-      "source": "NYT"
-    },
-    "5": {
       "title": "Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies",
       "link": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
       "summary": "Though President Trump assailed partners for not joining the war in Iran, he said he would grant Ukraine long-sought authority to make the Patriot defense system.",
       "source": "NYT"
     },
-    "6": {
-      "title": "Iran War Live Updates: Trump Casts Doubt on Future of Cease-Fire After Exchange of Strikes",
+    "5": {
+      "title": "Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
       "link": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
-      "summary": "“I think it’s over,” President Trump said of the preliminary truce, threatening to strike Iran again. Iran accused the U.S. of violating provisions of the cease-fire as hard-line voices there called for it to be torn up.",
+      "summary": "U.S. Central Command said on social media that it was protecting shipping in the Strait of Hormuz. President Trump said earlier that he thought a three-week-old cease-fire was “over.”",
       "source": "NYT"
+    },
+    "6": {
+      "title": "US launches more strikes on Iran with blasts reported in south of country",
+      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+      "source": "BBC"
     }
   }
 }
