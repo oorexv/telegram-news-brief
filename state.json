@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-08T13:07:14.892488-04:00",
+  "sent_at": "2026-07-08T15:07:12.828139-04:00",
   "items": {
     "1": {
-      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-      "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-      "summary": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
-      "source": "BBC"
+      "title": "What We Know About Immigration Officers Shooting at People in Vehicles",
+      "link": "https://www.nytimes.com/2026/07/08/us/immigration-agent-shootings-vehicles.html",
+      "summary": "Federal agents have fired on at least 21 people, many in their cars, as part of President Trump’s deportation crackdown. At least five people were killed, including three U.S. citizens.",
+      "source": "NYT"
     },
     "2": {
-      "title": "Family of Man Fatally Shot by ICE Agent Calls for Independent Inquiry",
-      "link": "https://www.nytimes.com/2026/07/08/us/houston-ice-shooting.html",
-      "summary": "The man killed, Lorenzo Salgado Araujo, was mourned by his sons as a father, husband and business owner, and said he was shot inside his car. Details of the encounter remain unclear.",
+      "title": "As U.S.-Iran Cease-Fire Frays, Trump Faces a Muddled War and Unpalatable Options",
+      "link": "https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html",
+      "summary": "The president appears to be confronting the consequences of a cease-fire deal cobbled together in haste, with little movement toward resolving the key issues driving the conflict.",
       "source": "NYT"
     },
     "3": {
-      "title": "Navy Identifies Crew Member Lost in Arabian Sea Helicopter Crash",
-      "link": "https://www.nytimes.com/2026/07/08/us/politics/missing-navy-sailor-identified.html",
-      "summary": "Cmdr. Gabriel Edwards was declared missing after what the Navy said was an emergency water landing during a routine patrol.",
-      "source": "NYT"
+      "title": "Judge orders Trump's $5m damages be released to E Jean Carroll",
+      "link": "https://www.bbc.co.uk/news/articles/c05yq5nmqvno?at_medium=RSS&at_campaign=rss",
+      "summary": "The Supreme Court declined to hear his appeal of the case, but Trump still sought to delay the payment.",
+      "source": "BBC"
     },
     "4": {
-      "title": "Live Updates: Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies",
+      "title": "Internal File Finds I.C.C. Prosecutor Engaged in Sexual Harassment",
+      "link": "https://www.nytimes.com/2026/07/08/world/europe/internal-file-finds-icc-prosecutor-engaged-in-sexual-harassment.html",
+      "summary": "The confidential report will be considered by International Criminal Court members as they vote on whether to remove the top official.",
+      "source": "NYT"
+    },
+    "5": {
+      "title": "Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies",
       "link": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
       "summary": "Though President Trump assailed partners for not joining the war in Iran, he said he would grant Ukraine long-sought authority to make the Patriot defense system.",
       "source": "NYT"
     },
-    "5": {
-      "title": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes",
-      "link": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
-      "summary": "“I think it’s over,” President Trump said, referring to the preliminary truce, and threatened to strike Iran again. The two sides traded attacks as their truce appeared to edge closer to collapse.",
-      "source": "NYT"
-    },
     "6": {
-      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-      "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-      "summary": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
-      "source": "BBC"
+      "title": "Iran War Live Updates: Trump Casts Doubt on Future of Cease-Fire After Exchange of Strikes",
+      "link": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+      "summary": "“I think it’s over,” President Trump said of the preliminary truce, threatening to strike Iran again. Iran accused the U.S. of violating provisions of the cease-fire as hard-line voices there called for it to be torn up.",
+      "source": "NYT"
     }
   }
 }
