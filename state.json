@@ -1,22 +1,22 @@
 {
-  "sent_at": "2026-07-09T15:07:13.626500-04:00",
+  "sent_at": "2026-07-09T18:07:16.712308-04:00",
   "items": {
     "1": {
-      "title": "Former Olympian Pleads Not Guilty to Damaging Reflecting Pool",
-      "link": "https://www.nytimes.com/2026/07/09/us/david-hearn-olympian-reflecting-pool.html",
-      "summary": "David Hearn is one of at least four people accused of vandalizing the Lincoln Memorial Reflecting Pool that has been plagued with challenges.",
+      "title": "Can Trump’s Arch Be So Tall? A Panel Led by His Allies Tentatively Says Yes.",
+      "link": "https://www.nytimes.com/2026/07/09/us/politics/trump-arch-height-approval.html",
+      "summary": "The proposed 250-foot arch would violate a height limit on Washington structures under the traditional reading of the law. But a planning commission gave it preliminary approval anyway.",
       "source": "NYT"
     },
     "2": {
-      "title": "Between Trump and Pope, an Ambassador Is Clear About His Allegiance",
-      "link": "https://www.nytimes.com/2026/07/09/us/pope-leo-brian-burch-vatican-ambassador.html",
-      "summary": "Ambassador Brian Burch must navigate the relationship between the two most prominent American men in the world. His priority is the one in Washington.",
+      "title": "Inside the Implosion of Graham Platner’s Maine Senate Campaign: ‘A Slow-Rolling Disaster’",
+      "link": "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html",
+      "summary": "Graham Platner’s bid for the Senate inspired progressive Democrats. But the campaign, which he suspended Wednesday, was messy, disorganized and ultimately doomed by a steady drip of scandal.",
       "source": "NYT"
     },
     "3": {
-      "title": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
-      "link": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "A former US Olympian canoeist denies accusations that he deliberately damaged the lining of the refurbished Lincoln Memorial Reflecting Pool.",
+      "title": "Tehran launches more strikes after second round of US attacks in southern Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
       "source": "BBC"
     },
     "4": {
@@ -26,16 +26,16 @@
       "source": "NYT"
     },
     "5": {
-      "title": "Sifting Through Venezuela Earthquakes’ Rubble, and the Ashes of a Revolution",
-      "link": "https://www.nytimes.com/2026/07/09/world/americas/jacqueline-zuniga-venezuela-earthquakes-socialist-revolution.html",
-      "summary": "The devastation of Jacqueline Zúñiga’s city in Venezuela follows the demise of her political project. The revolution is over, but the human ties that help her cope remain.",
-      "source": "NYT"
-    },
-    "6": {
       "title": "Final Stage of Ayatollah Ali Khamenei’s Funeral Begins After Delay",
       "link": "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html",
       "summary": "Thousands gathered for the procession in Mashhad for the supreme leader, who was killed in the first U.S.-Israeli attacks of the war. Hours earlier, the United States and Iran traded strikes.",
       "source": "NYT"
+    },
+    "6": {
+      "title": "Tehran launches more strikes after second round of US attacks in southern Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+      "source": "BBC"
     }
   }
 }
