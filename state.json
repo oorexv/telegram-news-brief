@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-10T13:07:15.105958-04:00",
+  "sent_at": "2026-07-10T15:07:19.846445-04:00",
   "items": {
     "1": {
-      "title": "Witnesses of ICE Killing in Houston Dispute the Official Account",
-      "link": "https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html",
-      "summary": "The agency said a Mexican immigrant driving a van tried to ram agents before they shot him dead. A lawyer for three passengers said that was untrue.",
-      "source": "NYT"
-    },
-    "2": {
       "title": "Trump Is Promoting ‘Freedom Fuel’ for $3.47 a Gallon. Who’s Behind It?",
       "link": "https://www.nytimes.com/2026/07/10/us/freedom-fuel-gas-stations.html",
       "summary": "The president has praised a network of 25 recently rebranded gas stations in the Philadelphia region that have been selling gas for considerably less than the national average.",
       "source": "NYT"
     },
+    "2": {
+      "title": "ICE Deports Immigrant Who Was Pardoned for Sex Abuse Conviction",
+      "link": "https://www.nytimes.com/2026/07/10/us/politics/ice-deports-immigrant-pardoned-minnesota.html",
+      "summary": "Minnesota state officials had granted a pardon to Tou Lue Vang, a Hmong man, drawing criticism that Democratic leaders were thwarting efforts to expel criminals.",
+      "source": "NYT"
+    },
     "3": {
-      "title": "Ghanaian Influencer Is Extradited Over Romance Scam Targeting Older Americans",
-      "link": "https://www.nytimes.com/2026/07/10/us/ghana-romance-scam-us-extradition-abu-trica.html",
-      "summary": "Prosecutors accused Frederick Kumi of running a scheme that defrauded Americans out of $8 million. He was flown to the United States on Thursday, his lawyer said.",
+      "title": "Witnesses of ICE Killing in Houston Dispute the Official Account",
+      "link": "https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html",
+      "summary": "The agency said a Mexican immigrant driving a van tried to ram agents before they shot him dead. A lawyer for three passengers said that was untrue.",
       "source": "NYT"
     },
     "4": {
-      "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
-      "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
-      "source": "BBC"
+      "title": "Can Hungarian Holocaust Survivors Find Justice in the U.S.?",
+      "link": "https://www.nytimes.com/2026/07/10/world/europe/hungarian-holocaust-us-lawsuit.html",
+      "summary": "For more than a decade, a group of survivors have fought a legal battle to get American courts to hear their suit against Hungary’s national railroad over its role in the atrocities.",
+      "source": "NYT"
     },
     "5": {
-      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
-      "source": "BBC"
+      "title": "At Least 12 People Die in Southern Spain Wildfire",
+      "link": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+      "summary": "The blaze in Andalusia, one of the deadliest on record in the country, also left more than 20 people missing. Many of the victims were foreign tourists, the Spanish authorities said.",
+      "source": "NYT"
     },
     "6": {
-      "title": "Zulu king expresses regret after video captures tirade against his wife",
-      "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+      "title": "Superb Sinner ends Djokovic's latest bid for history",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jannik Sinner produces a devastating display to end Novak Djokovic's latest bid for history and set up a Wimbledon final against Alexander Zverev.",
       "source": "BBC"
     }
   }
