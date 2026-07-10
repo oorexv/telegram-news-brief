@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-10T11:07:14.855836-04:00",
+  "sent_at": "2026-07-10T13:07:15.105958-04:00",
   "items": {
     "1": {
-      "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
-      "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
-      "source": "BBC"
-    },
-    "2": {
       "title": "Witnesses of ICE Killing in Houston Dispute the Official Account",
       "link": "https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html",
-      "summary": "The agency said a Mexican resident driving a van tried to ram agents before they shot him dead. A lawyer for three passengers said that was untrue.",
+      "summary": "The agency said a Mexican immigrant driving a van tried to ram agents before they shot him dead. A lawyer for three passengers said that was untrue.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "Trump Is Promoting ‘Freedom Fuel’ for $3.47 a Gallon. Who’s Behind It?",
+      "link": "https://www.nytimes.com/2026/07/10/us/freedom-fuel-gas-stations.html",
+      "summary": "The president has praised a network of 25 recently rebranded gas stations in the Philadelphia region that have been selling gas for considerably less than the national average.",
       "source": "NYT"
     },
     "3": {
-      "title": "Trump Says He Won’t Sign Housing Bill, in Protest Over Stalled Voting Measure",
-      "link": "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html",
-      "summary": "The president did not say he would veto the housing legislation, so it would still become law unless he does. But his pronouncement reflects a growing rift between him and Senate Republicans.",
+      "title": "Ghanaian Influencer Is Extradited Over Romance Scam Targeting Older Americans",
+      "link": "https://www.nytimes.com/2026/07/10/us/ghana-romance-scam-us-extradition-abu-trica.html",
+      "summary": "Prosecutors accused Frederick Kumi of running a scheme that defrauded Americans out of $8 million. He was flown to the United States on Thursday, his lawyer said.",
       "source": "NYT"
     },
     "4": {
-      "title": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
-      "link": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html",
-      "summary": "Days of strikes by the two countries have given way to an uneasy pause as Qatari mediators in Iran seek to salvage the tattered truce.",
-      "source": "NYT"
+      "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
+      "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
+      "source": "BBC"
     },
     "5": {
-      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
       "source": "BBC"
     },
     "6": {
-      "title": "At Least 12 People Die in Southern Spain Wildfire",
-      "link": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
-      "summary": "More than 20 people were still missing after the blaze in Andalusia, one of the deadliest on record in the country. Many of the victims were foreign tourists, the Spanish authorities said.",
-      "source": "NYT"
+      "title": "Zulu king expresses regret after video captures tirade against his wife",
+      "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+      "source": "BBC"
     }
   }
 }
