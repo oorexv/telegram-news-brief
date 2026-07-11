@@ -1,5 +1,5 @@
 {
-  "sent_at": "2026-07-10T18:07:17.848329-04:00",
+  "sent_at": "2026-07-10T21:07:15.574096-04:00",
   "items": {
     "1": {
       "title": "Graham Platner Files Paperwork to Withdraw From Maine Senate Race",
@@ -8,34 +8,34 @@
       "source": "NYT"
     },
     "2": {
-      "title": "The Platner Drama Is Reviving Debate Among Democrats Over a Double Standard",
-      "link": "https://www.nytimes.com/2026/07/10/us/politics/platner-democrats-women-double-standard.html",
-      "summary": "His candidacy stoked tensions among Democrats over gender and how to win back working-class voters.",
-      "source": "NYT"
-    },
-    "3": {
       "title": "As the World Cup Wraps in L.A., the 2028 Olympics Beckon",
       "link": "https://www.nytimes.com/2026/07/10/us/world-cup-los-angeles-olympics.html",
       "summary": "Hundreds of thousands of people took public transit to World Cup events in car-crazy Los Angeles, a hopeful sign for officials planning the Summer Games.",
       "source": "NYT"
     },
+    "3": {
+      "title": "Democrats Haunted by Biden-Harris Switch as They Replace Platner in Maine",
+      "link": "https://www.nytimes.com/2026/07/10/us/platner-replacement-maine-biden-harris.html",
+      "summary": "The last-minute scramble to name a replacement reminds some in the party of the challenges they faced in 2024.",
+      "source": "NYT"
+    },
     "4": {
-      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-      "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
       "source": "BBC"
     },
     "5": {
-      "title": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
-      "link": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
-      "summary": "Friday’s visit to King Charles and Queen Camilla signaled a détente in relations with Prince Harry and his wife, who stepped down from royal duties and moved to the United States in 2020.",
-      "source": "NYT"
+      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
+      "source": "BBC"
     },
     "6": {
-      "title": "Can Hungarian Holocaust Survivors Find Justice in the U.S.?",
-      "link": "https://www.nytimes.com/2026/07/10/world/europe/hungarian-holocaust-us-lawsuit.html",
-      "summary": "For more than a decade, a group of survivors have fought a legal battle to get American courts to hear their suit against Hungary’s national railroad over its role in the atrocities.",
-      "source": "NYT"
+      "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+      "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "summary": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
+      "source": "BBC"
     }
   }
 }
