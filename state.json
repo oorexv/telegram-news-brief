@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-12T11:07:12.747700-04:00",
+  "sent_at": "2026-07-12T13:07:14.237012-04:00",
   "items": {
     "1": {
+      "title": "Trump Recalls Last Conversation With Lindsey Graham Before His Death",
+      "link": "https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html",
+      "summary": "In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.",
+      "source": "NYT"
+    },
+    "2": {
       "title": "Leaders From Home and Abroad Remember Senator Lindsey Graham",
       "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html",
       "summary": "Mr. Graham’s unexpected death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy.",
       "source": "NYT"
     },
-    "2": {
+    "3": {
       "title": "Lindsey Graham, Republican Senator and Trump Ally, Dies From ‘Sudden Illness’",
       "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
-      "summary": "He died from “a brief and sudden illness” on Saturday evening, his office said. Over more than two decades in the Senate, he consistently pushed for the use of U.S. military power overseas.",
+      "summary": "He died from “a brief and sudden illness,” his office said. Over more than two decades in the Senate, he consistently pushed for the use of U.S. military power overseas.",
       "source": "NYT"
     },
-    "3": {
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-      "source": "BBC"
-    },
     "4": {
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
       "source": "BBC"
     },
     "5": {
-      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-      "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
       "source": "BBC"
     },
     "6": {
-      "title": "U.K. Police Make New Arrest in Killing of Ex-Lawmaker",
-      "link": "https://www.nytimes.com/2026/07/12/world/europe/ann-widdecombe-arrest-uk.html",
-      "summary": "A 28-year-old man was detained on Saturday in connection with the death of Ann Widdecombe, a former Parliament member, the police said. Another man arrested on Friday was later released.",
+      "title": "Inside Herat, Where a Taliban Campaign Targets a Cosmopolitan Outpost",
+      "link": "https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html",
+      "summary": "Afghanistan’s leader has exerted full control over a city that once enjoyed looser social norms, even under Taliban rule.",
       "source": "NYT"
     }
   }
