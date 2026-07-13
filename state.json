@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-12T18:07:13.201764-04:00",
+  "sent_at": "2026-07-12T21:11:41.035720-04:00",
   "items": {
     "1": {
-      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
-      "link": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html",
-      "summary": "The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly ”America First” political orbit.",
-      "source": "NYT"
-    },
-    "2": {
       "title": "Here's what we know about Lindsey Graham’s death",
       "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-final-days.html",
       "summary": "Senator Lindsey Graham died on Saturday night, a day after returning from Ukraine and four months before he was to face re-election.",
       "source": "NYT"
     },
+    "2": {
+      "title": "After Weeks of Silence, McConnell Says He Is Recovering From a Fall",
+      "link": "https://www.nytimes.com/2026/07/12/us/politics/mitch-mcconnell-fall-hospitalized-statement.html",
+      "summary": "The Republican senator denied that he had suffered a heart attack and said he had left the hospital and moved to a physical rehabilitation center. He did not give a timetable for returning to Capitol Hill.",
+      "source": "NYT"
+    },
     "3": {
-      "title": "Lindsey Graham Was Facing Re-election in November. What Happens Now?",
-      "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html",
-      "summary": "South Carolina law suggests his death triggers an Aug. 11 special Republican primary election, and the state’s governor can appoint a replacement to serve out the rest of his term, through early January.",
+      "title": "In Terrifying Seconds, a Bison Charges Campers at Yellowstone",
+      "link": "https://www.nytimes.com/2026/07/12/us/yellowstone-bison-injures-tourist.html",
+      "summary": "A tourist was hospitalized after a visibly agitated bull bison flipped him about eight feet in the air near a campground road.",
       "source": "NYT"
     },
     "4": {
+      "title": "At World Cup Ticket Prices, Even Messi Can’t Fill a Stadium",
+      "link": "https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html",
+      "summary": "The Argentine team and its superstar, Lionel Messi, have been among the biggest draws at the World Cup, but that was not enough to prevent vacant seats at its quarterfinal on Saturday.",
+      "source": "NYT"
+    },
+    "5": {
       "title": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
       "link": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
       "summary": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
       "source": "NYT"
     },
-    "5": {
-      "title": "At least 27 killed in Bangkok bar fire",
-      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
-      "source": "BBC"
-    },
     "6": {
-      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
-      "link": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+      "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health.",
       "source": "BBC"
     }
   }
