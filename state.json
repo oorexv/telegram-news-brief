@@ -1,5 +1,5 @@
 {
-  "sent_at": "2026-07-13T13:07:16.275786-04:00",
+  "sent_at": "2026-07-13T15:07:16.664845-04:00",
   "items": {
     "1": {
       "title": "Judge Denounces Trump’s I.R.S. Suit as Improper Exercise in Self-Dealing",
@@ -8,33 +8,33 @@
       "source": "NYT"
     },
     "2": {
-      "title": "How Lindsey Graham’s Journey From Trump Critic to Ally Made Him a Power Player",
-      "link": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-donald-trump.html",
-      "summary": "He initially called Donald Trump a “kook” who was “unfit for office,” only to join the new president’s Mar-a-Lago circle. “I’m still in the game,” Mr. Graham once explained of his much-analyzed turnabout.",
-      "source": "NYT"
+      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
+      "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+      "summary": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
+      "source": "BBC"
     },
     "3": {
-      "title": "Authorities Investigate Fatal Shooting in Biddeford, Maine, Involving Federal Agents",
-      "link": "https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html",
-      "summary": "The killing occurred in Biddeford, about 20 miles south of Portland. The Trump administration has been conducting a surge of immigration enforcement.",
-      "source": "NYT"
+      "title": "One person killed in shooting involving federal agents in Maine, official says",
+      "link": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes less than a week after a man on his way to work in Houston was shot and killed by an immigration agent.",
+      "source": "BBC"
     },
     "4": {
       "title": "Live Updates: U.S. and Iran Edge Toward War Again",
       "link": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
-      "summary": "After more escalatory rhetoric and attacks, President Trump said the United States was renewing its shipping blockade to and from Iran, and would charge a 20 percent fee on goods passing through the Strait of Hormuz.",
+      "summary": "After more escalatory rhetoric and attacks, President Trump said the United States was renewing its shipping blockade of Iranian ports and would charge a 20 percent fee on goods passing through the Strait of Hormuz.",
       "source": "NYT"
     },
     "5": {
-      "title": "A Robot Army Remakes Ground Warfare in Ukraine",
-      "link": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
-      "summary": "They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing.",
-      "source": "NYT"
+      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+      "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
+      "source": "BBC"
     },
     "6": {
-      "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
-      "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
+      "title": "Trump reinstating naval blockade of Iranian ports",
+      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president also says Washington will charge a 20% toll on all cargo shipped through the Strait of Hormuz.",
       "source": "BBC"
     }
   }
