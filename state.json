@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-14T11:07:17.022701-04:00",
+  "sent_at": "2026-07-14T13:07:16.046738-04:00",
   "items": {
     "1": {
-      "title": "US inflation rate eases to 3.5% as gasoline prices fall",
-      "link": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
+      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+      "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement.",
       "source": "BBC"
     },
     "2": {
+      "title": "In Rare Testimony, Supreme Court Justices Will Ask Congress for Security Funds",
+      "link": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-testimony-security.html",
+      "summary": "Elena Kagan and Amy Coney Barrett, the first justices to appear before lawmakers since 2019, are requesting millions of dollars to address security concerns amid rising threats.",
+      "source": "NYT"
+    },
+    "3": {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/07/14/us/supreme-court-kagan-barrett/heres-the-latest",
       "summary": "(No summary available from the source feed.)",
       "source": "NYT"
     },
-    "3": {
-      "title": "Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’",
-      "link": "https://www.nytimes.com/2026/07/14/us/politics/kagan-house-testimony-supreme-court.html",
-      "summary": "In her prepared remarks, Justice Elena Kagan said the Supreme Court Police estimated a 38 percent increase in threats this year.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "link": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
-      "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
+      "title": "Ann Widdecombe Was Killed in ‘Targeted Attack,’ UK Police Say",
+      "link": "https://www.nytimes.com/2026/07/14/world/europe/ann-widdecombe-targeted-attack.html",
+      "summary": "Counterterrorism police said that they were continuing to interview a 28-year-old man accused of killing Ann Widdecombe, a prominent member of the right-wing Reform U.K. party.",
       "source": "NYT"
     },
     "5": {
-      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-      "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-      "summary": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+      "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement.",
       "source": "BBC"
     },
     "6": {
-      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-      "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-      "source": "BBC"
+      "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+      "link": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+      "summary": "After a fire killed 30 people, the scrutiny has turned to whether the venue used flammable foam on its ceilings and had blocked exits.",
+      "source": "NYT"
     }
   }
 }
