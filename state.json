@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-15T11:07:14.070893-04:00",
+  "sent_at": "2026-07-15T13:07:17.377327-04:00",
   "items": {
     "1": {
-      "title": "Here’s what to know.",
+      "title": "Train 'encased in flames' in Canada wildfire",
+      "link": "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The crew was rescued after the close call. Meanwhile, wildfires in Canada have left Toronto under a haze and sent smoke drifting towards several major US cities.",
+      "source": "BBC"
+    },
+    "2": {
+      "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/07/15/us/todd-blanche-hearing-attorney-general/heres-what-to-know",
       "summary": "(No summary available from the source feed.)",
       "source": "NYT"
     },
-    "2": {
-      "title": "Trump says ICE agents should not give up traffic stops",
-      "link": "https://www.bbc.co.uk/news/articles/cly8yrw597eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's intervention comes after a reported change of course by the agency following fatal shootings in Maine and Texas.",
-      "source": "BBC"
-    },
     "3": {
-      "title": "What to Know About Todd Blanche’s Order Granting Trump Immunity From I.R.S. Audits",
-      "link": "https://www.nytimes.com/2026/07/15/us/politics/trump-irs-lawsuit-immunity-blanche.html",
-      "summary": "Acting attorney general Todd Blanche’s decision to grant President Trump protection from I.R.S. audits is set to be a central issue in his confirmation hearing on Wednesday.",
+      "title": "Trump Pressures ICE to Resume Traffic Stops After They Were Halted Over Fatal Shootings",
+      "link": "https://www.nytimes.com/2026/07/15/us/politics/trump-ice-traffic-stops.html",
+      "summary": "Immigration and Customs Enforcement ordered its officers on Tuesday to halt most vehicle stops across the country after they shot two people over the past week.",
       "source": "NYT"
     },
     "4": {
       "title": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
       "link": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
-      "summary": "The United States launched new attacks against Iranian targets on Wednesday, hours after Iran targeted American military sites in the region. Neither side has shown signs of backing down as they enter a new stage of the war.",
+      "summary": "The United States launched fresh attacks against Iranian targets on Wednesday, hours after Iran targeted American military sites in the region. Neither side has shown signs of backing down as they enter a new stage of the war.",
       "source": "NYT"
     },
     "5": {
-      "title": "As Argentina Tries to Win the World Cup, the Rest of Latin America Cheers Against It",
-      "link": "https://www.nytimes.com/2026/07/15/world/americas/argentina-world-cup-semifinals.html",
-      "summary": "Rather than rally behind the tournament’s last Latin American team, other countries in the region are confronting Argentina’s fraught claims to its own identity.",
+      "title": "Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality",
+      "link": "https://www.nytimes.com/2026/07/15/world/canada/wildfire-smoke-toronto-ontario-northeast.html",
+      "summary": "Air quality in Canada’s largest city was at times the worst in the world on Wednesday, as wildfires across Ontario sent smoke drifting into New York City and beyond.",
       "source": "NYT"
     },
     "6": {
-      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
-      "link": "https://www.nytimes.com/2026/07/15/world/middleeast/israel-us-iran-trump.html",
-      "summary": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
+      "title": "He Has a $25 Million Bounty on His Head but Is Also a U.S. Partner in Venezuela",
+      "link": "https://www.nytimes.com/2026/07/15/world/americas/us-bounty-diosdado-cabello-venezuela.html",
+      "summary": "A list of alleged crimes has not prevented Diosdado Cabello, and other Venezuelan officials, from working with a U.S. government that once hounded them.",
       "source": "NYT"
     }
   }
