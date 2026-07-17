@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-16T21:07:16.069987-04:00",
+  "sent_at": "2026-07-17T07:07:13.067652-04:00",
   "items": {
     "1": {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/07/16/us/trump-speech-election/heres-the-latest",
-      "summary": "(No summary available from the source feed.)",
-      "source": "NYT"
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "source": "BBC"
     },
     "2": {
-      "title": "Multiple Investigations Refuted Trump’s Claims That Fraud Altered the Outcome in 2020",
-      "link": "https://www.nytimes.com/2026/07/16/us/politics/trump-investigations-fraud-claims-2020-election.html",
-      "summary": "Dozens of investigations, audits, recounts and court proceedings examined the 2020 election. None found the widespread voter fraud that President Trump claimed tilted the vote.",
+      "title": "Trump Promised Proof of Election Tampering. His Document Release Fell Far Short.",
+      "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-election-tampering-document-release.html",
+      "summary": "In the end, the documentary evidence that President Trump claimed would prove his case appeared bound to disappoint those who expected bombshell revelations.",
       "source": "NYT"
     },
     "3": {
-      "title": "Kentucky Jury Orders Gun Kit Seller to Pay More Than $100 Million in Teen’s Death",
-      "link": "https://www.nytimes.com/2026/07/16/us/kentucky-ghost-gun-death-settlement.html",
-      "summary": "Lawyers for the family of Henry Coby Willis argued that the online seller failed to verify the buyer’s age or conduct a background check before shipping a pistol-building kit.",
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/07/17/weather/wildfire-smoke-air-quality/heres-the-latest",
+      "summary": "(No summary available from the source feed.)",
       "source": "NYT"
     },
     "4": {
-      "title": "Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz",
-      "link": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
-      "summary": "American forces appeared to be focused on infrastructure, hitting bridges and a railway junction, Iranian state media reported.",
-      "source": "NYT"
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "source": "BBC"
     },
     "5": {
-      "title": "Blasts reported in Iran as US launches new wave of strikes",
+      "title": "US launches new strikes as Iran says civilian infrastructure hit",
       "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.",
+      "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
       "source": "BBC"
     },
     "6": {
-      "title": "At least one dead in Texas floods ravaging same area where campers died",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
-      "source": "BBC"
+      "title": "The 20-Somethings Running Ukraine’s War Machine",
+      "link": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html",
+      "summary": "A new generation has been cutting red tape to speed weapons to the front. But the old guard pushed back, and now Ukraine’s young defense minister is out.",
+      "source": "NYT"
     }
   }
 }
