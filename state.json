@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-17T15:07:13.846661-04:00",
+  "sent_at": "2026-07-17T18:07:12.404071-04:00",
   "items": {
     "1": {
-      "title": "Trump Brings Full Weight of Government to Bolster False Election Claims",
-      "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html",
-      "summary": "Intelligence agencies provided the White House with a trove of declassified documents that President Trump cited on Thursday as evidence of election vulnerabilities.",
+      "title": "Billionaires Prepare $87 Million Ad Campaign to Block California Wealth Tax",
+      "link": "https://www.nytimes.com/2026/07/17/us/california-billionaire-tax-opponents-ad-campaign.html",
+      "summary": "A coalition backed by the Google co-founder Sergey Brin and wealthy tech investors is trying to neutralize a proposed one-time tax on the state’s richest residents.",
       "source": "NYT"
     },
     "2": {
-      "title": "As Floods Begin to Recede, Texans Start to Assess the Destruction",
+      "title": "Trump Endorses Graham for Senate, Scrambling South Carolina Primary",
+      "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html",
+      "summary": "Senator Darline Graham had been seen as a caretaker for her brother’s seat after his sudden death. Now she has the president’s nod in what was shaping up to be a crowded fight to succeed Lindsey Graham.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Deadly Texas Floods Ebb, but Danger Remains: ‘You Could Hear the Water’",
       "link": "https://www.nytimes.com/2026/07/17/us/flooding-texas.html",
       "summary": "At least two people died as waters rose rapidly across the Texas Hill Country, the same area of the state that saw catastrophic flooding last year.",
       "source": "NYT"
     },
-    "3": {
-      "title": "Man Sought in Minnesota Fraud Case Returned From Somalia",
-      "link": "https://www.nytimes.com/2026/07/17/us/minnesota-fraud-extradited-somalia.html",
-      "summary": "Abdikerm Eidleh, whom the authorities sought for nearly four years, faces charges in the state’s sprawling social services fraud case, which has drawn the Trump administration’s attention.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "Iran War Live Updates: Bridges and Water Plants Hit in Latest Escalation",
+      "title": "Iran War Live Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
       "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
-      "summary": "Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has tried to attack similar targets in Gulf countries that host American bases.",
+      "summary": "Overnight and into Friday, Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has targeted similar sites in Gulf countries that host American bases. In the afternoon, the U.S. military announced a new round of attacks on Iran.",
       "source": "NYT"
     },
     "5": {
-      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-      "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
+      "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
+      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
       "source": "BBC"
     },
     "6": {
-      "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
-      "source": "BBC"
+      "title": "The 20-Somethings Running Ukraine’s War Machine",
+      "link": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html",
+      "summary": "A new generation has been cutting red tape to speed weapons to the front. But the old guard pushed back, and now Ukraine’s young defense minister is out.",
+      "source": "NYT"
     }
   }
 }
