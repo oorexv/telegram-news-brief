@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-17T13:07:16.592373-04:00",
+  "sent_at": "2026-07-17T15:07:13.846661-04:00",
   "items": {
     "1": {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/07/17/weather/wildfire-smoke-air-quality/heres-the-latest",
-      "summary": "(No summary available from the source feed.)",
+      "title": "Trump Brings Full Weight of Government to Bolster False Election Claims",
+      "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html",
+      "summary": "Intelligence agencies provided the White House with a trove of declassified documents that President Trump cited on Thursday as evidence of election vulnerabilities.",
       "source": "NYT"
     },
     "2": {
-      "title": "Trump Faces the Limits of U.S. Firepower and the Lessons of Past Wars",
-      "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html",
-      "summary": "Like his predecessors, President Trump has struggled to turn battlefield successes into long-term victories.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "Deadly Texas Floods Ebb, but Danger Remains: ‘You Could Hear the Water’",
+      "title": "As Floods Begin to Recede, Texans Start to Assess the Destruction",
       "link": "https://www.nytimes.com/2026/07/17/us/flooding-texas.html",
       "summary": "At least two people died as waters rose rapidly across the Texas Hill Country, the same area of the state that saw catastrophic flooding last year.",
       "source": "NYT"
     },
+    "3": {
+      "title": "Man Sought in Minnesota Fraud Case Returned From Somalia",
+      "link": "https://www.nytimes.com/2026/07/17/us/minnesota-fraud-extradited-somalia.html",
+      "summary": "Abdikerm Eidleh, whom the authorities sought for nearly four years, faces charges in the state’s sprawling social services fraud case, which has drawn the Trump administration’s attention.",
+      "source": "NYT"
+    },
     "4": {
-      "title": "China hits out at British Steel nationalisation",
-      "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "source": "BBC"
+      "title": "Iran War Live Updates: Bridges and Water Plants Hit in Latest Escalation",
+      "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+      "summary": "Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has tried to attack similar targets in Gulf countries that host American bases.",
+      "source": "NYT"
     },
     "5": {
-      "title": "Andy Burnham Becomes Labour Leader and Is Set to Be Britain’s Prime Minister",
-      "link": "https://www.nytimes.com/live/2026/07/17/world/uk-burnham-starmer-labour",
-      "summary": "Mr. Burnham promised more public control of essential services, a shift of power toward local governments and a push for economic growth.",
-      "source": "NYT"
+      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
+      "source": "BBC"
     },
     "6": {
-      "title": "Iran War Live Updates: U.S. Hits Bridges and a Control Tower in Country’s South",
-      "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
-      "summary": "The U.S. military’s Central Command said the latest round of attacks had “hit dozens of Iranian military targets” but made no mention of civilian infrastructure.",
-      "source": "NYT"
+      "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+      "source": "BBC"
     }
   }
 }
