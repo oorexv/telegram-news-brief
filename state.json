@@ -1,10 +1,10 @@
 {
-  "sent_at": "2026-07-18T11:07:16.705586-04:00",
+  "sent_at": "2026-07-18T13:07:14.429253-04:00",
   "items": {
     "1": {
       "title": "Toronto, New York and Washington top list of most polluted cities as wildfires burn",
       "link": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke.",
+      "summary": "The fires have sparked a spat between the US and Canada, with Trump threatening renewed tariffs over the \"filthy, polluted, and unhealthy air\".",
       "source": "BBC"
     },
     "2": {
@@ -20,22 +20,22 @@
       "source": "NYT"
     },
     "4": {
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
-      "source": "BBC"
-    },
-    "5": {
       "title": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
       "link": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
       "summary": "In the days since the cease-fire unraveled, the United States and Iran have expanded the scope of their attacks, with reports of water facilities and other structures coming under fire.",
       "source": "NYT"
     },
-    "6": {
-      "title": "German politician resigns over surrogacy child controversy",
-      "link": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
+    "5": {
+      "title": "US strikes hit Iran for seventh consecutive night",
+      "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
       "source": "BBC"
+    },
+    "6": {
+      "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
+      "link": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
+      "summary": "London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes.",
+      "source": "NYT"
     }
   }
 }
