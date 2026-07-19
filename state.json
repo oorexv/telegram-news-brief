@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-19T11:07:16.639601-04:00",
+  "sent_at": "2026-07-19T13:07:12.697485-04:00",
   "items": {
     "1": {
-      "title": "D.H.S. Won’t Name Agents Who Kill. Local Police Agencies Are More Open.",
-      "link": "https://www.nytimes.com/2026/07/19/us/dhs-officer-names-shootings.html",
-      "summary": "The department will not name the agent who killed a Colombian immigrant in Maine. Some large police agencies recognize a public right to know the identities of officers involved in violence.",
+      "title": "Man Killed by Truck After ICE Encounter in Florida Was Visiting From Mexico",
+      "link": "https://www.nytimes.com/2026/07/19/us/florida-ice-death-mexico-visit.html",
+      "summary": "A Central Florida nonprofit group identified the man as Juan Jairo Coronilla Durán and said he had planned to return home to his family.",
       "source": "NYT"
     },
     "2": {
-      "title": "Sánchez will attend the World Cup final, and so will his vocal critic, Trump.",
-      "link": "https://www.nytimes.com/live/2026/us/fifa-world-cup/tension-looms-as-trump-and-sanchez-will-attend-the-world-cup-final",
-      "summary": "(No summary available from the source feed.)",
+      "title": "Politicians Are Trying to Change What Chatbots Say About Them",
+      "link": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
+      "summary": "Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.",
       "source": "NYT"
     },
     "3": {
-      "title": "Misery in the Epicenter of Cyclospora: ‘A Baseball Bat to Your Abdomen’",
-      "link": "https://www.nytimes.com/2026/07/19/us/cyclospora-michigan.html",
-      "summary": "The debilitating malady has gripped Monroe County, Mich.",
+      "title": "In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum",
+      "link": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellow-jackson-platner-democrats.html",
+      "summary": "The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.",
       "source": "NYT"
     },
     "4": {
-      "title": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Service Members Killed",
+      "title": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Soldiers Killed",
       "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-      "summary": "The U.S. military said it had targeted Iranian forces that were responsible for an attack on a base in Jordan that left two American service members dead and one missing.",
+      "summary": "The United States was said to be sending more warplanes to the Middle East, a move that was already in the works before Iranian fire killed two soldiers in Jordan.",
       "source": "NYT"
     },
     "5": {
-      "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
-      "summary": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift.",
+      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
       "source": "BBC"
     },
     "6": {
-      "title": "Runners take on 'world's coolest marathon' on drifting North Pole ice",
-      "link": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Organisers say 23 runners from seven countries took part in races at the Arctic's geographic North Pole.",
-      "source": "BBC"
+      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+      "link": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+      "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
+      "source": "NYT"
     }
   }
 }
