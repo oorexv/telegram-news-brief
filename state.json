@@ -1,5 +1,5 @@
 {
-  "sent_at": "2026-07-18T18:07:13.559693-04:00",
+  "sent_at": "2026-07-18T21:07:15.866389-04:00",
   "items": {
     "1": {
       "title": "Two US troops killed and one missing after Iranian attack in Jordan",
@@ -8,21 +8,21 @@
       "source": "BBC"
     },
     "2": {
+      "title": "What to Know About Fires Caused by Lightning in the Pacific Northwest",
+      "link": "https://www.nytimes.com/2026/07/18/us/what-to-know-fires-lightning-pacific-northwest.html",
+      "summary": "Dozens of fires ignited in Oregon and Washington as more than 14,000 lightning strikes hit the region during thunderstorms this week.",
+      "source": "NYT"
+    },
+    "3": {
       "title": "Cindy Burbank, Nebraska’s Democratic Senate Nominee, Files to Withdraw From Race",
       "link": "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html",
       "summary": "The move by Cindy Burbank could clear a path for Dan Osborn, an independent candidate backed by her party’s leadership. But Republicans have cried foul, and her effort could face obstacles.",
       "source": "NYT"
     },
-    "3": {
-      "title": "These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.",
-      "link": "https://www.nytimes.com/2026/07/18/us/politics/aipac-democrats-donations-israel-vote.html",
-      "summary": "Of the 103 Democrats who voted to eliminate aid to Israel, more than a dozen had been endorsed by the pro-Israel lobbying group. AIPAC quickly closed off online donations for them.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "Iran War Live Updates: 2 U.S. Soldiers Killed and 1 Service Member Missing in Iranian Attack on Jordan",
+      "title": "Iran War Live Updates: U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
       "link": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
-      "summary": "The soldiers were the first U.S. troops to die from hostile fire in the region since an early April truce. The deaths came as both sides expanded the scope and intensity of their attacks.",
+      "summary": "The soldiers, killed in Jordan, were the first U.S. troops to die from hostile fire since an April truce. U.S. forces began retaliatory strikes early Sunday.",
       "source": "NYT"
     },
     "5": {
@@ -32,10 +32,10 @@
       "source": "BBC"
     },
     "6": {
-      "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
-      "link": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
-      "summary": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
-      "source": "NYT"
+      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
+      "source": "BBC"
     }
   }
 }
