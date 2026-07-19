@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-19T15:07:20.944739-04:00",
+  "sent_at": "2026-07-19T18:07:15.492043-04:00",
   "items": {
     "1": {
-      "title": "IShowSpeed kicks off World Cup closing ceremony in blaze of colour",
-      "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Another star-studded performance at half-time will include Shakira, BTS, Madonna and Justin Bieber.",
-      "source": "BBC"
-    },
-    "2": {
       "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
       "link": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html",
-      "summary": "Troy Jackson, a progressive, solidified his edge over his rivals in an abbreviated nominating contest to replace Graham Platner. Shenna Bellows, another candidate, bowed out.",
+      "summary": "Troy Jackson, a progressive, solidified his clear edge in the contest to replace Graham Platner, as Shenna Bellows and Nirav Shah are dropping their bids.",
       "source": "NYT"
     },
+    "2": {
+      "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+      "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
+      "source": "BBC"
+    },
     "3": {
-      "title": "In Arizona’s Primaries, Democrats Fight Over a House Seat They Need Badly",
-      "link": "https://www.nytimes.com/2026/07/19/us/elections/arizona-democratic-primary-shah-galan-woods.html",
-      "summary": "Democrats have a chance to flip a competitive battleground district in and around Scottsdale, but the winner of Tuesday’s primary will emerge bloodied and broke.",
+      "title": "At World Cup Final, Trump Seeks to Bask in Another Sports Championship",
+      "link": "https://www.nytimes.com/2026/07/19/us/politics/trump-world-cup-final.html",
+      "summary": "The president flew in Marine One over MetLife Stadium on Sunday ahead of his arrival. It was the second time recently that he sought to seize the spotlight at a major sporting event.",
       "source": "NYT"
     },
     "4": {
-      "title": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Soldiers Killed",
+      "title": "Iran War Live Updates: Another U.S. Service Member Is Killed as Two Sides Edge Toward Wider War",
       "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-      "summary": "The United States was said to be sending more warplanes to the Middle East, a move that was already in the works before Iranian fire killed two soldiers in Jordan.",
+      "summary": "The Pentagon said a service member was killed in northern Iraq on Saturday while troops disposed of an Iranian drone. It also said “unidentified remains” had been found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
       "source": "NYT"
     },
     "5": {
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+      "source": "BBC"
+    },
+    "6": {
       "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
       "link": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
       "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
       "source": "NYT"
-    },
-    "6": {
-      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
-      "source": "BBC"
     }
   }
 }
