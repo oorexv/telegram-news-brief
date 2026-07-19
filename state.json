@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-19T07:07:12.022627-04:00",
+  "sent_at": "2026-07-19T11:07:16.639601-04:00",
   "items": {
     "1": {
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
-      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-      "source": "BBC"
-    },
-    "2": {
       "title": "D.H.S. Won’t Name Agents Who Kill. Local Police Agencies Are More Open.",
       "link": "https://www.nytimes.com/2026/07/19/us/dhs-officer-names-shootings.html",
       "summary": "The department will not name the agent who killed a Colombian immigrant in Maine. Some large police agencies recognize a public right to know the identities of officers involved in violence.",
       "source": "NYT"
     },
+    "2": {
+      "title": "Sánchez will attend the World Cup final, and so will his vocal critic, Trump.",
+      "link": "https://www.nytimes.com/live/2026/us/fifa-world-cup/tension-looms-as-trump-and-sanchez-will-attend-the-world-cup-final",
+      "summary": "(No summary available from the source feed.)",
+      "source": "NYT"
+    },
     "3": {
-      "title": "Politicians Are Trying to Change What Chatbots Say About Them",
-      "link": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
-      "summary": "Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.",
+      "title": "Misery in the Epicenter of Cyclospora: ‘A Baseball Bat to Your Abdomen’",
+      "link": "https://www.nytimes.com/2026/07/19/us/cyclospora-michigan.html",
+      "summary": "The debilitating malady has gripped Monroe County, Mich.",
       "source": "NYT"
     },
     "4": {
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
-      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-      "source": "BBC"
-    },
-    "5": {
-      "title": "U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
-      "link": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
-      "summary": "The soldiers, killed in Jordan, were the first U.S. troops to die from hostile fire since an April truce. U.S. forces began retaliatory strikes early Sunday.",
+      "title": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Service Members Killed",
+      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+      "summary": "The U.S. military said it had targeted Iranian forces that were responsible for an attack on a base in Jordan that left two American service members dead and one missing.",
       "source": "NYT"
     },
+    "5": {
+      "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+      "summary": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift.",
+      "source": "BBC"
+    },
     "6": {
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+      "title": "Runners take on 'world's coolest marathon' on drifting North Pole ice",
+      "link": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Organisers say 23 runners from seven countries took part in races at the Arctic's geographic North Pole.",
       "source": "BBC"
     }
   }
