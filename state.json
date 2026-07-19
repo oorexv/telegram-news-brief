@@ -1,22 +1,22 @@
 {
-  "sent_at": "2026-07-19T13:07:12.697485-04:00",
+  "sent_at": "2026-07-19T15:07:20.944739-04:00",
   "items": {
     "1": {
-      "title": "Man Killed by Truck After ICE Encounter in Florida Was Visiting From Mexico",
-      "link": "https://www.nytimes.com/2026/07/19/us/florida-ice-death-mexico-visit.html",
-      "summary": "A Central Florida nonprofit group identified the man as Juan Jairo Coronilla Durán and said he had planned to return home to his family.",
-      "source": "NYT"
+      "title": "IShowSpeed kicks off World Cup closing ceremony in blaze of colour",
+      "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Another star-studded performance at half-time will include Shakira, BTS, Madonna and Justin Bieber.",
+      "source": "BBC"
     },
     "2": {
-      "title": "Politicians Are Trying to Change What Chatbots Say About Them",
-      "link": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
-      "summary": "Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.",
+      "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
+      "link": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html",
+      "summary": "Troy Jackson, a progressive, solidified his edge over his rivals in an abbreviated nominating contest to replace Graham Platner. Shenna Bellows, another candidate, bowed out.",
       "source": "NYT"
     },
     "3": {
-      "title": "In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum",
-      "link": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellow-jackson-platner-democrats.html",
-      "summary": "The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.",
+      "title": "In Arizona’s Primaries, Democrats Fight Over a House Seat They Need Badly",
+      "link": "https://www.nytimes.com/2026/07/19/us/elections/arizona-democratic-primary-shah-galan-woods.html",
+      "summary": "Democrats have a chance to flip a competitive battleground district in and around Scottsdale, but the winner of Tuesday’s primary will emerge bloodied and broke.",
       "source": "NYT"
     },
     "4": {
@@ -26,16 +26,16 @@
       "source": "NYT"
     },
     "5": {
-      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
-      "source": "BBC"
-    },
-    "6": {
       "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
       "link": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
       "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
       "source": "NYT"
+    },
+    "6": {
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+      "source": "BBC"
     }
   }
 }
