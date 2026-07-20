@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-20T13:07:17.940427-04:00",
+  "sent_at": "2026-07-20T15:07:18.303280-04:00",
   "items": {
     "1": {
+      "title": "Judge Tosses Justice Department Challenge to Minnesota Immigration Laws",
+      "link": "https://www.nytimes.com/2026/07/20/us/minnesota-immigration-lawsuit.html",
+      "summary": "The Trump administration, which flooded Minnesota with immigration agents this year, argued that policies limiting cooperation with ICE were unconstitutional.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress",
+      "link": "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html",
+      "summary": "Republicans now face a worst-case political scenario of being asked to fund an unpopular war over which they have exercised little oversight.",
+      "source": "NYT"
+    },
+    "3": {
       "title": "Pentagon Identifies 2 U.S. Soldiers Killed in Jordan During Iran Strike",
       "link": "https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html",
       "summary": "Both were active-duty soldiers, the Defense Department said. They were killed in action after an Iranian strike on a U.S. base on Friday.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-      "summary": "Known as \"El Mayo\", he helped found the Sinaloa Cartel and admitted to sending vast amounts of cocaine and other drugs to the US.",
-      "source": "BBC"
-    },
-    "3": {
-      "title": "Denise Oliver-Velez, a Powerful Voice of the Left, Dies at 78",
-      "link": "https://www.nytimes.com/2026/07/20/us/denise-oliver-velez-dead.html",
-      "summary": "She became the highest-ranking female member of the Young Lords in New York, where she pressed for women’s rights, and later joined the Black Panthers.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "Aiming for My Fastest Marathon, I Turned to Distance Running’s Mecca",
-      "link": "https://www.nytimes.com/2026/07/20/world/africa/kenya-iten-marathon-training.html",
-      "summary": "A New York Times reporter’s quest to beat the personal best he set 14 years ago took him to a Kenyan village, where the biggest benefit he got was not what he expected.",
+      "title": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
+      "link": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html",
+      "summary": "Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.",
       "source": "NYT"
     },
     "5": {
-      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
-      "source": "BBC"
+      "title": "In Venezuela’s Rubble, a Search for the Family Pets",
+      "link": "https://www.nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html",
+      "summary": "Volunteers are reuniting pets with families, offering Venezuelans comfort amid loss and devastation.",
+      "source": "NYT"
     },
     "6": {
-      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
-      "source": "BBC"
+      "title": "Another U.S. Service Member Is Killed as Iran War Expands",
+      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
+      "source": "NYT"
     }
   }
 }
