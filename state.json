@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-21T13:07:13.666936-04:00",
+  "sent_at": "2026-07-21T15:07:12.294246-04:00",
   "items": {
     "1": {
+      "title": "Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote",
+      "link": "https://www.nytimes.com/2026/07/21/us/politics/senate-panel-jay-clayton-spy-chief.html",
+      "summary": "Assuming he is confirmed by the full Senate as expected, Mr. Clayton will take command of the Office of National Intelligence from Bill Pulte, a housing official with little national security experience.",
+      "source": "NYT"
+    },
+    "2": {
       "title": "Trump Officials Withhold $1 Billion in Medicaid Funds From California and Minnesota Over Suspected Fraud",
       "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html",
       "summary": "The administration accused California and Minnesota of fraudulent activity in their public health insurance programs.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Hegseth and Caine Will Appear Before Senators to Seek More Money for Iran War",
-      "link": "https://www.nytimes.com/2026/07/21/us/iran-war-funding.html",
-      "summary": "The Pentagon seeks an additional $80 billion to cover the costs of the conflict and replenish depleted weapons stocks.",
+    "3": {
+      "title": "Roger Rogoff Files Suit Challenging Trump’s Power to Fire Him",
+      "link": "https://www.nytimes.com/2026/07/21/us/roger-rogoff-doj-lawsuit.html",
+      "summary": "In the first lawsuit of its kind, Roger Rogoff argues that the Trump administration cannot fire him as U.S. attorney without first winning Senate approval for another candidate.",
       "source": "NYT"
     },
-    "3": {
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-      "source": "BBC"
-    },
     "4": {
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-      "source": "BBC"
+      "title": "The Teenage Boys In Search of Their Mother After the Venezuela Earthquake",
+      "link": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
+      "summary": "After Venezuela’s devastating earthquakes, Winder and Deivi Delfín dug every day for 26 days to find the bodies of their mother, brother and grandmother.",
+      "source": "NYT"
     },
     "5": {
-      "title": "Two French firefighters die tackling blaze near Bordeaux airport",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The blaze close to the parking lots at Bordeaux-Mérignac Airport is said to have originated from a brush fire.",
+      "title": "Row escalates in Ukraine over army chief's future",
+      "link": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
       "source": "BBC"
     },
     "6": {
-      "title": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
-      "link": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
-      "summary": "The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation.",
+      "title": "France Joins a Global Move Toward Restricting Social Media for Children",
+      "link": "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html",
+      "summary": "Its new law, the first of its kind enacted by a European country, will ban access to some accounts for anyone under 15.",
       "source": "NYT"
     }
   }
