@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-20T18:07:13.279881-04:00",
+  "sent_at": "2026-07-20T21:07:15.624356-04:00",
   "items": {
     "1": {
-      "title": "Trump imposes 50% tariff on Canadian imports",
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
       "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
+      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
       "source": "BBC"
     },
     "2": {
-      "title": "Pentagon Identifies 2 U.S. Soldiers Killed in Jordan During Iran Strike",
-      "link": "https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html",
-      "summary": "Both were active-duty soldiers, the Defense Department said. They were killed in action after an Iranian strike on a U.S. base on Friday.",
+      "title": "Tate Brothers to Stay in Jail as New Details About Charges Emerge",
+      "link": "https://www.nytimes.com/2026/07/20/us/andrew-tristan-tate-brothers-hearing.html",
+      "summary": "In court documents unsealed on Monday, British prosecutors accused the “manosphere” influencers of choking women, sometimes until they passed out, and then raping them.",
       "source": "NYT"
     },
     "3": {
-      "title": "5 Found Dead in Ohio After Child Tells Driver His ‘Family Was in the River’",
-      "link": "https://www.nytimes.com/2026/07/20/us/scioto-river-drowning-ohio.html",
-      "summary": "Two women and three men were pulled from the Scioto River, outside Columbus.",
-      "source": "NYT"
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "source": "BBC"
     },
     "4": {
-      "title": "Trump imposes 50% tariff on Canadian imports",
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
       "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
+      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
       "source": "BBC"
     },
     "5": {
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "source": "BBC"
+    },
+    "6": {
       "title": "Trump Says Netanyahu Will Not Be Arrested in the U.S.",
       "link": "https://www.nytimes.com/2026/07/20/world/middleeast/israel-un-mamdani-netanyahu-arrest.html",
       "summary": "New York’s mayor, Zohran Mamdani, told The New York Times, he was looking into whether he could arrest Prime Minister Benjamin Netanyahu when he comes to New York for the U.N. General Assembly.",
       "source": "NYT"
-    },
-    "6": {
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
-      "source": "BBC"
     }
   }
 }
