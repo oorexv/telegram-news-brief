@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-22T13:07:16.230633-04:00",
+  "sent_at": "2026-07-22T15:07:13.896283-04:00",
   "items": {
     "1": {
-      "title": "'Devastated' Millie Bobby Brown leads Kaylee Hottle tributes",
-      "link": "https://www.bbc.co.uk/news/articles/cm2glm5r185o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 18-year-old Godzilla vs Kong actress died in a car crash in the US.",
-      "source": "BBC"
+      "title": "Intimidation Charges Dismissed Against Louisiana Attorney General",
+      "link": "https://www.nytimes.com/2026/07/22/us/louisiana-indicment-liz-murrill-new-orleans.html",
+      "summary": "Liz Murrill, a Republican, was indicted after sending warning letters to New Orleans’ Democratic leaders. The dispute was one of the latest flare-ups in a long conflict between the city and state.",
+      "source": "NYT"
     },
     "2": {
-      "title": "Cause of Nolan Wells' death still unknown, initial results of independent autopsy show",
-      "link": "https://www.bbc.co.uk/news/articles/cgr7njdxxp9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Wells' family are seeking answers after the teenager was found dead in Mississippi waters earlier this month.",
-      "source": "BBC"
+      "title": "Widow of Malcolm-Jamal Warner Sues His Mother for $1.2 Million",
+      "link": "https://www.nytimes.com/2026/07/22/us/malcolm-jamal-warner-wife-family-dispute-lawsuit.html",
+      "summary": "Tenisha Delilah Warner said in a lawsuit filed in Georgia that she was entitled to the money according to a premarital agreement.",
+      "source": "NYT"
     },
     "3": {
-      "title": "Mamdani U-turn on threat to arrest Netanyahu citing lack of authority",
-      "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
-      "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
-      "source": "BBC"
+      "title": "What to Know About the Death of Nolan Wells in Mississippi",
+      "link": "https://www.nytimes.com/2026/07/22/us/nolan-wells-death-mississippi-horn-island-autopsy.html",
+      "summary": "Nearly three weeks after the 18-year-old was found dead off an island near the Mississippi coast, there have been no conclusive answers as to what happened.",
+      "source": "NYT"
     },
     "4": {
+      "title": "Police formally investigate woman after Brit stabbed to death in French village",
+      "link": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
+      "summary": "Karen Carter was found with stab wounds in the Dordogne village she had lived in for over a decade.",
+      "source": "BBC"
+    },
+    "5": {
       "title": "Iran War Live Updates: Trump Threatens Retaliation Against Civilian Targets if Iran Strikes in Strait",
       "link": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
       "summary": "President Trump said the United States would target a bridge or power plant, including in or near the Iranian capital, if Iran fired on the Strait of Hormuz. Secretary of State Marco Rubio earlier suggested that Tehran was “not serious” about diplomacy.",
       "source": "NYT"
     },
-    "5": {
-      "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
-      "link": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
-      "source": "BBC"
-    },
     "6": {
-      "title": "Mamdani U-turn on threat to arrest Netanyahu citing lack of authority",
-      "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
-      "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
+      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
       "source": "BBC"
     }
   }
