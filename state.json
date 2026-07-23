@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-22T18:07:15.713312-04:00",
+  "sent_at": "2026-07-22T21:07:13.616711-04:00",
   "items": {
     "1": {
-      "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
-      "link": "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html",
-      "summary": "Republican leaders muscled through resistance in their own ranks to approve the budget blueprint for the war and other measures, but its prospects were far dimmer in the Senate.",
+      "title": "Massachusetts House Passes Bill That Would Loosen Late-Term Abortion Rules",
+      "link": "https://www.nytimes.com/2026/07/22/us/massachusetts-late-term-abortion-rules.html",
+      "summary": "The bill would leave it to physicians to decide if an abortion is necessary after 24 weeks of pregnancy. Current law allows such abortions only under certain circumstances.",
       "source": "NYT"
     },
     "2": {
-      "title": "House Republicans Pass Stock Trading Bill Tied to SAVE Act and Voter ID Measure",
-      "link": "https://www.nytimes.com/2026/07/22/us/politics/house-bill-stock-trades-congress.html",
-      "summary": "The measure has drawn bipartisan backing amid a public outcry against the practice, but Democrats opposed it after Republicans added a voter ID requirement.",
-      "source": "NYT"
-    },
-    "3": {
       "title": "U.S. Signs Deal to Help Saudis Obtain Nuclear Power",
       "link": "https://www.nytimes.com/2026/07/22/us/trump-saudi-nuclear-deal.html",
       "summary": "The accord is intended to further bind the United States with the Saudi government as the war with Iran strains the relationship.",
       "source": "NYT"
     },
+    "3": {
+      "title": "With Saudi Deal, Trump Loosens Nuclear Standards for One Close Ally",
+      "link": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html",
+      "summary": "Nuclear experts say it throws fuel on the smoldering fire of atomic proliferation, creating a destabilizing situation that could raise the risk of nuclear war.",
+      "source": "NYT"
+    },
     "4": {
       "title": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
       "link": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
-      "summary": "President Trump said the United States would target a bridge or power plant if Iran fired on ships in the Strait of Hormuz. Iran’s foreign minister repeated his nation’s position of an “eye for an eye.”",
+      "summary": "Early Thursday in the Middle East, the U.S. Central Command said it was carrying out a new wave strikes on Iran, a 12th consecutive day of attacks. Iranian state media said the province that is home to Iran’s only operating nuclear power plant had been hit in a missile strike.",
       "source": "NYT"
     },
     "5": {
-      "title": "Israeli Banks Threaten to Cut Off Palestinian Economy",
-      "link": "https://www.nytimes.com/2026/07/22/world/middleeast/israeli-banks-palestinian-economy.html",
-      "summary": "Two Israeli financial firms have long served as partners to Palestinian banks, handling transactions that make possible the West Bank’s imports and exports.",
-      "source": "NYT"
-    },
-    "6": {
       "title": "US signs landmark nuclear deal with Saudi Arabia",
       "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+      "source": "BBC"
+    },
+    "6": {
+      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+      "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
       "source": "BBC"
     }
   }
