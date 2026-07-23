@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-23T11:07:15.820581-04:00",
+  "sent_at": "2026-07-23T13:07:12.353579-04:00",
   "items": {
     "1": {
-      "title": "House Again Rebukes Trump on Iran War Powers Vote",
-      "link": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html",
-      "summary": "For the second time, a few Republicans joined Democrats to back a measure calling on the president to seek authorization for the conflict.",
-      "source": "NYT"
-    },
-    "2": {
       "title": "As Part of Nuclear Deal, Trump Demands Saudi Arabia Join the Abraham Accords",
       "link": "https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html",
       "summary": "The president’s new condition could create a roadblock to the agreement his administration announced this week.",
       "source": "NYT"
     },
+    "2": {
+      "title": "Secret Service Agent in JD Vance’s Detail Under Investigation",
+      "link": "https://www.nytimes.com/2026/07/23/us/politics/vance-secret-service.html",
+      "summary": "The Secret Service said that a member of Vice President JD Vance’s team was accused of “compromising operational and information security.”",
+      "source": "NYT"
+    },
     "3": {
-      "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-      "link": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
-      "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
-      "source": "BBC"
+      "title": "Supreme Court Turbocharges Presidential Power",
+      "link": "https://www.nytimes.com/2026/07/23/us/politics/the-docket-presidential-power-trump.html",
+      "summary": "A pair of decisions reshaped the structure of the federal government.",
+      "source": "NYT"
     },
     "4": {
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
-      "source": "BBC"
-    },
-    "5": {
       "title": "Iran War Live Updates: Attacks in Red Sea Send Oil Prices Over $100 a Barrel",
       "link": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
       "summary": "The price of Brent crude soared after Iran’s Houthi allies in Yemen claimed strikes on two Saudi tankers. The House cast a second vote to rein in President Trump’s war powers, with four Republicans joining Democrats to rebuke the president.",
       "source": "NYT"
     },
+    "5": {
+      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
+      "source": "BBC"
+    },
     "6": {
-      "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
-      "link": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html",
-      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
+      "title": "‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo",
+      "link": "https://www.nytimes.com/2026/07/23/world/africa/ebola-camps-congo-water-aid.html",
+      "summary": "There are a million people displaced by violence in the epicenter. They live in dangerous conditions and are fighting the virus with very little clean water.",
       "source": "NYT"
     }
   }
