@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-22T21:07:13.616711-04:00",
+  "sent_at": "2026-07-23T07:07:14.094626-04:00",
   "items": {
     "1": {
-      "title": "Massachusetts House Passes Bill That Would Loosen Late-Term Abortion Rules",
-      "link": "https://www.nytimes.com/2026/07/22/us/massachusetts-late-term-abortion-rules.html",
-      "summary": "The bill would leave it to physicians to decide if an abortion is necessary after 24 weeks of pregnancy. Current law allows such abortions only under certain circumstances.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "U.S. Signs Deal to Help Saudis Obtain Nuclear Power",
-      "link": "https://www.nytimes.com/2026/07/22/us/trump-saudi-nuclear-deal.html",
-      "summary": "The accord is intended to further bind the United States with the Saudi government as the war with Iran strains the relationship.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "With Saudi Deal, Trump Loosens Nuclear Standards for One Close Ally",
-      "link": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html",
-      "summary": "Nuclear experts say it throws fuel on the smoldering fire of atomic proliferation, creating a destabilizing situation that could raise the risk of nuclear war.",
-      "source": "NYT"
-    },
-    "4": {
-      "title": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
-      "link": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
-      "summary": "Early Thursday in the Middle East, the U.S. Central Command said it was carrying out a new wave strikes on Iran, a 12th consecutive day of attacks. Iranian state media said the province that is home to Iran’s only operating nuclear power plant had been hit in a missile strike.",
-      "source": "NYT"
-    },
-    "5": {
       "title": "US signs landmark nuclear deal with Saudi Arabia",
       "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
       "source": "BBC"
     },
-    "6": {
-      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-      "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
+    "2": {
+      "title": "How Trump Is Getting Richer as President",
+      "link": "https://www.nytimes.com/video/us/100000011038989/how-trump-is-getting-richer-as-president.html",
+      "summary": "Since he came back to office, President Trump has made huge amounts of money from cryptocurrency and foreign investments, posing the question of whether he is using his power as president to enrich himself. Andrea Fuller, a Times data journalist, explains.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Gunman Faces Prison Sentence for Shooting Minnesota Lawmakers",
+      "link": "https://www.nytimes.com/2026/07/23/us/vance-boelter-murder-sentencing.html",
+      "summary": "The Minnesota man who attacked state lawmakers in their homes last year was expected to be sentenced to life in prison.",
+      "source": "NYT"
+    },
+    "4": {
+      "title": "Thousands evacuated in France fires",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
       "source": "BBC"
+    },
+    "5": {
+      "title": "A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan",
+      "link": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html",
+      "summary": "The military intelligence officer left the country after The Times reported that he was using the Aeroflot airline office in Tokyo to conduct espionage.",
+      "source": "NYT"
+    },
+    "6": {
+      "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
+      "link": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
+      "summary": "Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.",
+      "source": "NYT"
     }
   }
 }
