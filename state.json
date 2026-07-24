@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-24T07:07:11.976223-04:00",
+  "sent_at": "2026-07-24T11:07:16.126193-04:00",
   "items": {
     "1": {
-      "title": "Using a bathroom 20 times a day - life in the middle of US cyclospora outbreak",
-      "link": "https://www.bbc.co.uk/news/articles/c8dn92m0mqjo?at_medium=RSS&at_campaign=rss",
-      "summary": "A historic cyclospora outbreak spreading across the US is causing havoc in pockets of Michigan, the hardest hit state.",
-      "source": "BBC"
-    },
-    "2": {
       "title": "With Hopes High for New H.I.V. Prevention Pill, Merck Takes Steps to Ensure Access",
       "link": "https://www.nytimes.com/2026/07/24/us/politics/merck-hiv-pill.html",
       "summary": "Companies in Africa and India will make generic versions of the pill that could cost as little as $5 per person per year. But access to the drug and other new products in much of Latin America remains uncertain.",
       "source": "NYT"
     },
+    "2": {
+      "title": "Teen Charged in Georgia School Shooting Changes Plea to Guilty",
+      "link": "https://www.nytimes.com/2026/07/24/us/colt-gray-apalachee-high-school-shooting-guilty-plea.html",
+      "summary": "Colt Gray, 16, had been scheduled to go on trial in October. His change of plea took place at a hearing that pivoted immediately to sentencing.",
+      "source": "NYT"
+    },
     "3": {
-      "title": "Man in a Spider-Man Costume Rides to the Rescue in Arkansas",
-      "link": "https://www.nytimes.com/2026/07/24/us/spiderman-wheelchair-jonesboro-arkansas.html",
-      "summary": "Was that Peter Parker helping a man in a wheelchair cross an intersection? No, it was Chris Hellenthal, a college student returning from a summer job.",
+      "title": "Nolan Wells’ Death Rattles Black Parents About All-White Spaces",
+      "link": "https://www.nytimes.com/2026/07/24/us/nolan-wells-black-parents-concerns.html",
+      "summary": "The death of Nolan Wells after he boated with friends to an island party on July 4 has sparked anguish among Black parents about the safety of their children in predominantly white spaces.",
       "source": "NYT"
     },
     "4": {
-      "title": "5 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
-      "link": "https://www.nytimes.com/2026/07/24/world/middleeast/west-bank-shooting-tell-israelis-palestinians.html",
-      "summary": "The authorities said four Palestinians and an Israeli were killed in the incident. The details of events remain unclear, with officials offering differing accounts.",
+      "title": "Iran War Live Updates: Strikes Persist After Iran Is Said to Reject U.S. Proposal",
+      "link": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
+      "summary": "American forces conducted another round of attacks on Iran, which launched drone strikes at U.S. targets in the Gulf. Iran was said to have rejected a cease-fire proposal from President Trump.",
       "source": "NYT"
     },
     "5": {
-      "title": "Tens of thousands evacuated from French tourist spot as wildfires spread",
+      "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
       "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
       "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
       "source": "BBC"
     },
     "6": {
-      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
-      "link": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
-      "source": "BBC"
+      "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
+      "link": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html",
+      "summary": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.",
+      "source": "NYT"
     }
   }
 }
