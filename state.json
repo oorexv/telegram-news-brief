@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-24T15:07:15.739634-04:00",
+  "sent_at": "2026-07-24T18:07:13.784570-04:00",
   "items": {
     "1": {
-      "title": "What We Know About the Police Shooting in Madison",
-      "link": "https://www.nytimes.com/2026/07/24/us/madison-wisconsin-police-shooting.html",
-      "summary": "A Black man was shot and killed by the police on Wednesday, not far from the Wisconsin Capitol. An investigation is underway.",
+      "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
+      "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html",
+      "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.",
       "source": "NYT"
     },
     "2": {
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "title": "Wisconsin officials open investigation into fatal police shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c78ge6z459xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Corey Ruiz, 38, was shot and killed on Wednesday in an altercation with four officers. Police say he resisted arrest and pulled a knife during the incident.",
       "source": "BBC"
     },
     "3": {
-      "title": "Teen Charged in Georgia School Shooting Changes Plea to Guilty",
-      "link": "https://www.nytimes.com/2026/07/24/us/colt-gray-apalachee-high-school-shooting-guilty-plea.html",
-      "summary": "Colt Gray, 16, had been scheduled to go on trial in October. His change of plea took place at a hearing that pivoted immediately to sentencing.",
+      "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
+      "link": "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html",
+      "summary": "Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.",
       "source": "NYT"
     },
     "4": {
+      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+      "source": "BBC"
+    },
+    "5": {
       "title": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
       "link": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
       "summary": "The discussions at the White House came days before a planned meeting with Prime Minister Benjamin Netanyahu of Israel.  Across the region, Iran and the United States continued to trade attacks.",
       "source": "NYT"
     },
-    "5": {
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "source": "BBC"
-    },
     "6": {
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "title": "ICC top prosecutor removed over sexual misconduct allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
       "source": "BBC"
     }
   }
