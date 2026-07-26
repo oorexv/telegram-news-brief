@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-26T15:07:15.838112-04:00",
+  "sent_at": "2026-07-26T18:07:15.582310-04:00",
   "items": {
     "1": {
-      "title": "Seattle Police Search for 2 Men Who Parachuted From the Space Needle",
-      "link": "https://www.nytimes.com/2026/07/26/us/seattle-space-needle-base-jumpers.html",
-      "summary": "The men face criminal trespassing charges after they climbed over the glass wall of the observation deck of the city landmark and jumped from the ledge Friday evening.",
-      "source": "NYT"
-    },
-    "2": {
       "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
       "link": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
       "summary": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
       "source": "BBC"
     },
+    "2": {
+      "title": "Man Convicted of Shoving Flaming Car Into Gully, Igniting Giant Wildfire",
+      "link": "https://www.nytimes.com/2026/07/26/us/man-convicted-arson-park-fire-california.html",
+      "summary": "The 2024 fire in Northern California was one of the state’s largest wildfires ever. The man faces a prison sentence of 25 years to life.",
+      "source": "NYT"
+    },
     "3": {
-      "title": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
-      "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
-      "summary": "In some cases, no direct line can be drawn from the president’s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
+      "title": "Seattle Police Search for 2 Men Who Parachuted From the Space Needle",
+      "link": "https://www.nytimes.com/2026/07/26/us/seattle-space-needle-base-jumpers.html",
+      "summary": "The men face criminal trespassing charges after they climbed over the glass wall of the observation deck of the city landmark and jumped from the ledge Friday evening.",
       "source": "NYT"
     },
     "4": {
-      "title": "Live Updates: Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
+      "title": "Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
       "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
       "summary": "Firefighters are tackling fresh blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe could make conditions worse.",
       "source": "NYT"
     },
     "5": {
-      "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-      "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-      "summary": "German authorities said the main suspect in the crime, which they called a likely act of terrorism, had been killed in a police raid on Sunday evening.",
+      "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+      "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+      "summary": "The confrontation with the suspect in what has been described as a likely act of Islamist terrorism occurred as a large-scale manhunt was underway, the authorities said.",
       "source": "NYT"
     },
     "6": {
-      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
       "source": "BBC"
     }
   }
