@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-26T07:07:12.648909-04:00",
+  "sent_at": "2026-07-26T11:07:16.426805-04:00",
   "items": {
     "1": {
-      "title": "Senate candidate Josh Turek handcycles the Iowa campaign trail",
-      "link": "https://www.nytimes.com/2026/07/26/us/politics/turek-iowa-senate-democrat.html",
-      "summary": "State Representative Josh Turek, the Democrat running to flip Iowa’s open Senate seat, cycled with his hands at an Iowa biking event that took place between two cities nearly 60 miles apart.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
-      "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
-      "summary": "In some cases, no direct line can be drawn from the president’s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
-      "source": "NYT"
-    },
-    "3": {
       "title": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer",
       "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html",
       "summary": "A president who thought there were no limits to his power has discovered several, leaving him more frustrated and erratic.",
       "source": "NYT"
     },
+    "2": {
+      "title": "Senate Candidate Josh Turek Handcycles the Iowa Campaign Trail",
+      "link": "https://www.nytimes.com/2026/07/26/us/politics/turek-iowa-senate-democrat.html",
+      "summary": "State Representative Josh Turek, the Democrat running to flip Iowa’s open Senate seat, cycled with his hands at an Iowa biking event that took place between two cities nearly 60 miles apart.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
+      "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
+      "summary": "In some cases, no direct line can be drawn from the president’s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
+      "source": "NYT"
+    },
     "4": {
-      "title": "Live Updates: Extreme Heat and Strong Winds Fuel Wildfires in France and Spain",
+      "title": "Live Updates: Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
       "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
-      "summary": "Firefighters are tackling new blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe could make conditions worse.",
+      "summary": "Firefighters are tackling fresh blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe could make conditions worse.",
       "source": "NYT"
     },
     "5": {
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
-      "source": "BBC"
+      "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
+      "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
+      "summary": "The Berlin police said they were searching for a 21-year-old man with links to local Islamist groups, and investigating the crime as a possible act of terrorism.",
+      "source": "NYT"
     },
     "6": {
-      "title": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
+      "title": "Officials Call Attack Near Berlin Pride Celebration a ‘Terror Attack’",
       "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-      "summary": "The hunt for a 21-year-old man with links to local Islamic groups began early Sunday. The police said they were investigating the attack as a possible act of terrorism.",
+      "summary": "The hunt for a 21-year-old man began early Sunday, in what officials called a likely act of Islamist terrorism.",
       "source": "NYT"
     }
   }
