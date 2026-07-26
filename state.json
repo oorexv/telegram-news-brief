@@ -1,22 +1,22 @@
 {
-  "sent_at": "2026-07-26T13:07:15.657507-04:00",
+  "sent_at": "2026-07-26T15:07:15.838112-04:00",
   "items": {
     "1": {
-      "title": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer",
-      "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html",
-      "summary": "A president who thought there were no limits to his power has discovered several, leaving him more frustrated and erratic.",
+      "title": "Seattle Police Search for 2 Men Who Parachuted From the Space Needle",
+      "link": "https://www.nytimes.com/2026/07/26/us/seattle-space-needle-base-jumpers.html",
+      "summary": "The men face criminal trespassing charges after they climbed over the glass wall of the observation deck of the city landmark and jumped from the ledge Friday evening.",
       "source": "NYT"
     },
     "2": {
-      "title": "Employers Fear Labor Shortage as Many Immigrants Lose Protected Status",
-      "link": "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html",
-      "summary": "A recent Supreme Court ruling cleared the way for the Trump administration to end a humanitarian program that has allowed about one million immigrants to work legally in the U.S.",
-      "source": "NYT"
+      "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+      "link": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
+      "source": "BBC"
     },
     "3": {
-      "title": "Senate Candidate Josh Turek Handcycles the Iowa Campaign Trail",
-      "link": "https://www.nytimes.com/2026/07/26/us/politics/turek-iowa-senate-democrat.html",
-      "summary": "State Representative Josh Turek, the Democrat running to flip Iowa’s open Senate seat, cycled with his hands at an Iowa biking event that took place between two cities nearly 60 miles apart.",
+      "title": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
+      "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
+      "summary": "In some cases, no direct line can be drawn from the president’s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
       "source": "NYT"
     },
     "4": {
@@ -26,16 +26,16 @@
       "source": "NYT"
     },
     "5": {
+      "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
+      "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
+      "summary": "German authorities said the main suspect in the crime, which they called a likely act of terrorism, had been killed in a police raid on Sunday evening.",
+      "source": "NYT"
+    },
+    "6": {
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
       "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
       "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
       "source": "BBC"
-    },
-    "6": {
-      "title": "E.U. Divided Over Barring Imports From Israeli Settlements",
-      "link": "https://www.nytimes.com/2026/07/26/world/middleeast/eu-debate-about-import-ban-reveals-deep-divides-over-israel.html",
-      "summary": "The discussion about restricting goods from Israeli settlements in occupied territories reflects a European split over whether and how to confront Israel.",
-      "source": "NYT"
     }
   }
 }
