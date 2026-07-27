@@ -1,28 +1,28 @@
 {
-  "sent_at": "2026-07-27T13:07:18.305595-04:00",
+  "sent_at": "2026-07-27T15:07:16.360383-04:00",
   "items": {
     "1": {
-      "title": "Pentagon Changes How It Reports Casualties in Iran War",
-      "link": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
-      "summary": "The changes separated the casualty numbers into two separate web pages, potentially making it more difficult to tally the war’s full toll.",
+      "title": "Comey Seeks Dismissal of Charges Accusing Him of Threatening Trump",
+      "link": "https://www.nytimes.com/2026/07/27/us/politics/comey-seeks-dismissal-of-charges.html",
+      "summary": "The filing focused on the question of whether a photograph of seashells arranged to read “86 47” constituted a true threat under federal law.",
       "source": "NYT"
     },
     "2": {
-      "title": "Shots fired at US consulate in Toronto for a second time this year",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
-      "source": "BBC"
-    },
-    "3": {
       "title": "Bryan Kohberger, Convicted in Idaho College Killings, Seeks to Take Back Guilty Plea",
       "link": "https://www.nytimes.com/2026/07/27/us/bryan-kohberger-idaho-college-deaths.html",
-      "summary": "In an interview from prison, Bryan Kohberger said he had filed a petition to reopen the case. He blamed his guilty plea on ‘false promises’ and wrong information.",
+      "summary": "In an interview from prison, Bryan Kohberger said he had filed a petition to reopen the case. He blamed his guilty plea on “false promises” and wrong information.",
       "source": "NYT"
     },
+    "3": {
+      "title": "How a bridge became a symbol of US-Canada tensions",
+      "link": "https://www.bbc.co.uk/news/videos/cq564e1l6zno?at_medium=RSS&at_campaign=rss",
+      "summary": "The Gordie Howe International Bridge has officially opened to motorists amid a trade row between both countries.",
+      "source": "BBC"
+    },
     "4": {
-      "title": "Wildfires Live Updates: Spain and France Fight to Contain Blazes as Extreme Heat Threatens New Fires",
+      "title": "Wildfires Live Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
       "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
-      "summary": "Firefighters in eastern Spain were working to hold back a worsening wildfire on Monday. The crisis has forced hundreds of thousands to evacuate in central Spain and southwest France.",
+      "summary": "Firefighters and volunteers raced to contain wildfires on Monday. The crisis has forced hundreds of thousands to evacuate in central Spain and southwest France.",
       "source": "NYT"
     },
     "5": {
@@ -32,10 +32,10 @@
       "source": "NYT"
     },
     "6": {
-      "title": "Shots fired at US consulate in Toronto for a second time this year",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
-      "source": "BBC"
+      "title": "Cuba, Lacking Fuel, Relies on Ingenuity to Defy Trump’s Blockade",
+      "link": "https://www.nytimes.com/2026/07/27/world/americas/trump-oil-gas-cuba-havana.html",
+      "summary": "President Trump has tried to strangle Cuba by blocking its oil imports. But six months later, the island is finding ways to endure.",
+      "source": "NYT"
     }
   }
 }
