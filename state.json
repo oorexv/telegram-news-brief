@@ -1,5 +1,5 @@
 {
-  "sent_at": "2026-07-28T11:07:23.512469-04:00",
+  "sent_at": "2026-07-28T13:07:11.498784-04:00",
   "items": {
     "1": {
       "title": "Here Is the Schedule for Lindsey Graham’s Services and Funeral",
@@ -8,34 +8,34 @@
       "source": "NYT"
     },
     "2": {
-      "title": "AFSCME Leader Lee Saunders to Retire as Unions Face New Opposition",
-      "link": "https://www.nytimes.com/2026/07/28/us/politics/lee-saunders-afscme-retirement.html",
-      "summary": "Lee Saunders has led the country’s top union for local public workers at a time of growing public support and official opposition.",
+      "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
+      "link": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html",
+      "summary": "Claude Mythos Preview discovered new attacks in testing against weakened cryptographic algorithms, which protect online financial transactions, private communications and more.",
       "source": "NYT"
     },
     "3": {
-      "title": "Here’s what to know.",
-      "link": "https://www.nytimes.com/live/2026/07/28/us/lindsey-graham-funeral-services/heres-what-to-know",
-      "summary": "(No summary available from the source feed.)",
+      "title": "Aide Who Had Affair With Newsom 20 Years Ago Details Her Experience",
+      "link": "https://www.nytimes.com/2026/07/28/us/gavin-newsom-ruby-rippey-affair.html",
+      "summary": "Ruby Rippey had stayed mostly quiet since her relationship with the San Francisco mayor rocked the city.",
       "source": "NYT"
     },
     "4": {
-      "title": "Live Updates: Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say",
-      "link": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
-      "summary": "Emergency workers were racing to find people and extinguish fires after the 6.8 magnitude quake struck the southwestern prefecture of Kumamoto.",
-      "source": "NYT"
+      "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+      "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
+      "source": "BBC"
     },
     "5": {
-      "title": "Germany’s AfD Opposes Pride Flags but May Win Support After L.G.B.T.Q. Attack",
-      "link": "https://www.nytimes.com/2026/07/28/world/europe/berlin-pride-attack-afd-politics.html",
-      "summary": "Analysts say a recent attack on a Pride celebration is likely to focus fall elections on issues favoring the far-right Alternative for Germany party.",
-      "source": "NYT"
+      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+      "source": "BBC"
     },
     "6": {
-      "title": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
-      "link": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html",
-      "summary": "Faced with massive blazes, firefighters in both countries are using a brief window of opportunity to bring the flames under control before temperatures spike.",
-      "source": "NYT"
+      "title": "French Navy carries out 'shooting drill' mid interview",
+      "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+      "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+      "source": "BBC"
     }
   }
 }
