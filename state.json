@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-27T21:07:14.196696-04:00",
+  "sent_at": "2026-07-28T07:07:23.835963-04:00",
   "items": {
     "1": {
-      "title": "Trump Backs New Talks but It’s Unclear What He Hopes to Achieve This Time",
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+      "source": "BBC"
+    },
+    "2": {
+      "title": "Trump Backs New Iran Talks but It’s Unclear What He Hopes to Achieve This Time",
       "link": "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html",
       "summary": "Iran denied President Trump’s claim that it wants to talk, and gave no sign that it would make concessions or speak directly with U.S. officials.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Seattle Police Search for 2nd Suspect in Deadly Food Festival Shooting",
-      "link": "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html",
-      "summary": "A 15-year-old suspect was in custody, and documents said a second shooter was killed on the scene. Police were looking for at least one more suspect in the attack that left three dead.",
-      "source": "NYT"
-    },
     "3": {
-      "title": "Hiker Trekked 10 Miles to Safety After Impaling Himself on Pole",
-      "link": "https://www.nytimes.com/2026/07/27/us/montana-hiker-impaled-pole.html",
-      "summary": "David Cifaldi was hiking up Granite Peak, Montana’s tallest mountain, last week when he slipped and fell on one of his trekking poles. A wound nurse, he went into survival mode.",
+      "title": "Graham to Be Honored at Funeral Services This Week. Here’s How to Watch.",
+      "link": "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-watch.html",
+      "summary": "Closed ceremonies for the Republican senator, a stalwart ally of President Trump, will be held in Washington on Tuesday before a procession and public funeral in South Carolina the next day.",
       "source": "NYT"
     },
     "4": {
-      "title": "Shots fired at US consulate in Toronto for a second time this year",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
+      "title": "People trapped inside Japan shopping centre after earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some reports say there was an explosion at the Aeon Mall in Kumamoto, following the magnitude 7.1 earthquake.",
       "source": "BBC"
     },
     "5": {
-      "title": "Europe Wildfires Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
-      "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
-      "summary": "Firefighters and volunteers raced to contain wildfires on Monday. The crisis has forced hundreds of thousands to evacuate in central Spain and southwest France.",
+      "title": "Live Updates: 6.8-Magnitude Earthquake Strikes Japan",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
+      "summary": "Fires and injuries were reported after the quake in the southwestern prefecture of Kumamoto, according to Japan’s state broadcaster. A tsunami warning was lifted.",
       "source": "NYT"
     },
     "6": {
-      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-      "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-      "source": "BBC"
+      "title": "Fresh Clashes Erupt in Pakistani Kashmir on First Day of Contested Vote",
+      "link": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html",
+      "summary": "Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police.",
+      "source": "NYT"
     }
   }
 }
