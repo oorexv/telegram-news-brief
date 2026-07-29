@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-29T15:07:19.027826-04:00",
+  "sent_at": "2026-07-29T18:07:11.028564-04:00",
   "items": {
     "1": {
-      "title": "US interest rates held for fifth time in a row",
-      "link": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
-      "source": "BBC"
-    },
-    "2": {
-      "title": "'Blood everywhere' - Clancy's ex-husband testifies in children murder trial",
-      "link": "https://www.bbc.co.uk/news/articles/c77gvj22lz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Patrick Clancy recounts the harrowing details of the day he returned home to find his three children dead.",
-      "source": "BBC"
-    },
-    "3": {
       "title": "With Blanche Nomination at Stake, Payouts to Trump Allies Continue",
       "link": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html",
       "summary": "A seven-figure settlement is announced two days before a scheduled Senate committee vote on Todd Blanche’s nomination to be attorney general.",
       "source": "NYT"
     },
-    "4": {
-      "title": "Iran War Live Updates: New Strikes Engulf More Countries in Conflict",
-      "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
-      "summary": "The U.S. and Saudi Arabia said they had carried out joint airstrikes on Iran-backed militias in Iraq, and Iran targeted U.S. military sites in Jordan.",
-      "source": "NYT"
-    },
-    "5": {
-      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+    "2": {
+      "title": "Meta shares fall as frustration grows over AI spending plans",
+      "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
       "source": "BBC"
     },
-    "6": {
-      "title": "Wildfires Slow in France and Spain, but Worse May Be Ahead",
-      "link": "https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html",
-      "summary": "Firefighters have contained vast wildfires in both countries, but winds are high and temperatures rising. Spain’s prime minister said the next 12 hours would be “decisive.”",
+    "3": {
+      "title": "10 Women Accuse Jared Leto of Sexual Misconduct in BBC Report",
+      "link": "https://www.nytimes.com/2026/07/29/us/jared-leto-sexual-assault-bbc.html",
+      "summary": "The accusations include sex with underage girls and sexually explicit messages. The actor denied the allegations.",
       "source": "NYT"
+    },
+    "4": {
+      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "source": "BBC"
+    },
+    "5": {
+      "title": "Iran War Live Updates: More Countries Pulled Into Conflict With Spate of Attacks",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+      "summary": "The U.S. and Saudi Arabia said they carried out airstrikes on Iran-backed militias in Iraq, Iran targeted sites used by the American military in Jordan and a U.S.-owned ship was hit in an Egyptian port.",
+      "source": "NYT"
+    },
+    "6": {
+      "title": "Four women accuse Jared Leto of criminal sexual conduct",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+      "source": "BBC"
     }
   }
 }
