@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-29T18:07:11.028564-04:00",
+  "sent_at": "2026-07-29T21:07:12.270744-04:00",
   "items": {
     "1": {
-      "title": "With Blanche Nomination at Stake, Payouts to Trump Allies Continue",
-      "link": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html",
-      "summary": "A seven-figure settlement is announced two days before a scheduled Senate committee vote on Todd Blanche’s nomination to be attorney general.",
+      "title": "U.S. Strikes Iran Again, as Trump Encounters a More Determined Adversary in Widened War",
+      "link": "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html",
+      "summary": "The United States is again exchanging strikes with Iran, just days after the president appeared to reject plans to escalate.",
       "source": "NYT"
     },
     "2": {
-      "title": "Meta shares fall as frustration grows over AI spending plans",
-      "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
-      "source": "BBC"
-    },
-    "3": {
-      "title": "10 Women Accuse Jared Leto of Sexual Misconduct in BBC Report",
-      "link": "https://www.nytimes.com/2026/07/29/us/jared-leto-sexual-assault-bbc.html",
-      "summary": "The accusations include sex with underage girls and sexually explicit messages. The actor denied the allegations.",
-      "source": "NYT"
-    },
-    "4": {
       "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
       "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
       "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
       "source": "BBC"
     },
-    "5": {
-      "title": "Iran War Live Updates: More Countries Pulled Into Conflict With Spate of Attacks",
-      "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
-      "summary": "The U.S. and Saudi Arabia said they carried out airstrikes on Iran-backed militias in Iraq, Iran targeted sites used by the American military in Jordan and a U.S.-owned ship was hit in an Egyptian port.",
+    "3": {
+      "title": "Dentists in Brooklyn Exploited Patients in Pain, Lawsuit Charges",
+      "link": "https://www.nytimes.com/2026/07/29/us/dentists-canarsie-brooklyn-insurance-lawsuit.html",
+      "summary": "New York City sued two dental practices, saying they offered patients high-interest loans to pay their bills and often falsely said procedures were not covered by insurance.",
       "source": "NYT"
     },
-    "6": {
-      "title": "Four women accuse Jared Leto of criminal sexual conduct",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+    "4": {
+      "title": "Iran War Live Updates: U.S. Begins New Wave of Attacks on Iran, Military Says",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+      "summary": "U.S. Central Command announced the strikes hours after President Trump vowed to hit Iran “very hard” in response to an attempted Iranian attack on U.S. forces in Jordan.",
+      "source": "NYT"
+    },
+    "5": {
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
       "source": "BBC"
+    },
+    "6": {
+      "title": "BTS Won’t Enter Music From Comeback Album for Grammy Awards",
+      "link": "https://www.nytimes.com/2026/07/29/world/asia/bts-grammys-arirang-boycott-asian-category.html",
+      "summary": "The group announced it would not submit its most recent album, ‘Arirang,’ for consideration a month after the Recording Academy introduced a new category for Asian pop.",
+      "source": "NYT"
     }
   }
 }
