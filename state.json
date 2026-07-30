@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-07-30T07:07:12.109859-04:00",
+  "sent_at": "2026-07-30T11:07:13.880065-04:00",
   "items": {
     "1": {
-      "title": "A Bay Area Pastor Made an A.I. Twin to Talk About God at Any Time",
-      "link": "https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html",
-      "summary": "To meet the growing needs of his church, Justin Lester created an A.I. duplicate of himself. Every day he sees more people using it.",
+      "title": "How Haley Stevens’s Accent Became a Flashpoint in Michigan’s Senate Race",
+      "link": "https://www.nytimes.com/2026/07/30/us/politics/haley-stevens-accent-michigan-senate.html",
+      "summary": "How the politics of raised a’s and disappearing g’s briefly came to dominate the Michigan Senate race.",
       "source": "NYT"
     },
     "2": {
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-      "source": "BBC"
+      "title": "Rescue Boat Crews Show Signs of Brain Injuries, but Coast Guard Isn’t Looking",
+      "link": "https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html",
+      "summary": "Untreated and undiagnosed, the crews that save lives in the roughest seas face the relentless pounding of waves.",
+      "source": "NYT"
     },
     "3": {
-      "title": "Fauci on 'solid legal ground' in face of prosecution threat, lawyer says",
-      "link": "https://www.bbc.co.uk/news/articles/czdmv0vyv4zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US medical expert faces possible contempt-of-Congress proceedings for refusing to answer questions during a hearing on Covid.",
-      "source": "BBC"
+      "title": "U.S. Sees Iran as Likely Behind Cyberattack on Minnesota Water Systems",
+      "link": "https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html",
+      "summary": "Investigators cautioned that the assessment was preliminary. There were no indications that any water supply had been rendered unsafe to drink.",
+      "source": "NYT"
     },
     "4": {
-      "title": "Poland’s Leader Says Russian Missile May Have Struck Its Territory During Ukraine Attack",
+      "title": "NATO Says Russian Missile Hit Poland During Ukraine Attack",
       "link": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
-      "summary": "Russian missiles have briefly entered Polish airspace in the past. Investigators have yet to definitively identify the object that struck Poland overnight.",
+      "summary": "Russian missiles have briefly entered Polish airspace in the past. Investigators have yet to definitively identify the object that struck overnight.",
       "source": "NYT"
     },
     "5": {
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-      "source": "BBC"
+      "title": "Iran War Live Updates: Drone Attack in Egypt Threatens to Expand Fighting",
+      "link": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
+      "summary": "The United States and Iran exchanged strikes overnight, after Saudi Arabia acknowledged direct involvement in the war for the first time.",
+      "source": "NYT"
     },
     "6": {
-      "title": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8",
-      "link": "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html",
-      "summary": "President Volodymyr Zelensky of Ukraine said that a family of five had been killed at home in the latest in a series of large-scale aerial assaults by Moscow.",
+      "title": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
+      "link": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html",
+      "summary": "Greece also worked to contain blazes on Lesbos and in the Peloponnese, where another firefighter died, in the midst of a brutal wildfire season for Europe.",
       "source": "NYT"
     }
   }
