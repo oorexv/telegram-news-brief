@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-07-30T18:08:17.450730-04:00",
+  "sent_at": "2026-07-30T21:07:14.053676-04:00",
   "items": {
     "1": {
-      "title": "Colin Gray, Father of Teenage Shooter in Georgia, Sentenced to 15 Years in Prison",
-      "link": "https://www.nytimes.com/2026/07/30/us/colin-gray-sentencing-apalachee-school-shooting.html",
-      "summary": "Prosecutors argued that Colin Gray bore responsibility for the 2024 shooting because he had given his son a gun and failed to act as the teen’s mental health deteriorated.",
+      "title": "Trump Claims Peace Board Has Plan for Gaza Disarmament",
+      "link": "https://www.nytimes.com/2026/07/30/us/politics/trump-gaza-peace-board-hamas.html",
+      "summary": "There was no immediate comment from Hamas or Israel, and officials gave few details on the plan.",
       "source": "NYT"
     },
     "2": {
-      "title": "Dulles Airport’s Reviled ‘People Movers’ May Be Lurching Into the Sunset",
-      "link": "https://www.nytimes.com/2026/07/30/us/dulles-airport-people-movers-trump.html",
-      "summary": "A $22.5 billion redesign plan eliminates the “mobile lounges,” which were conceived as a way of making air travel more efficient. Many passengers found the opposite to be true.",
+      "title": "Alabama Plans Inmate’s Execution After Supreme Court Blocked Last Attempt",
+      "link": "https://www.nytimes.com/2026/07/30/us/alabama-execution-supreme-court-lee.html",
+      "summary": "The state will try again to execute Jeffery Lee — this time, by lethal injection — after courts said doing so using nitrogen gas was “likely unconstitutional.”",
       "source": "NYT"
     },
     "3": {
-      "title": "T.S.A. Finds 5 Civil War Cannonballs in Passenger’s Luggage in Alabama",
-      "link": "https://www.nytimes.com/2026/07/30/us/tsa-alabama-civil-war-cannonballs.html",
-      "summary": "The inert relics, some as big as a grapefruit, were detected when agents X-rayed checked bags.",
+      "title": "Kennedy Center Halts Free Public Tours After Five Decades of Service",
+      "link": "https://www.nytimes.com/2026/07/30/us/politics/kennedy-center-tours.html",
+      "summary": "The decision to suspend tours indefinitely came after a volunteer tour guide was featured in a Times article detailing President Trump’s dramatic revamp of the Kennedy Center.",
       "source": "NYT"
     },
     "4": {
-      "title": "Iran War Live Updates: Saudis Form Military Alliance to Protect Red Sea Shipping",
+      "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+      "source": "BBC"
+    },
+    "5": {
+      "title": "Saudis Form Military Alliance to Protect Red Sea Shipping",
       "link": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
       "summary": "As the war between the United States and Iran widened, Saudi Arabia joined with over a dozen other countries, including Egypt and Turkey, to form a new defense coalition to stop attacks on shipping in the Red Sea.",
       "source": "NYT"
     },
-    "5": {
-      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
-      "source": "BBC"
-    },
     "6": {
-      "title": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
-      "link": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html",
-      "summary": "Greece also worked to contain blazes on Lesbos and in the Peloponnese, where another firefighter died, in the midst of a brutal wildfire season for Europe.",
-      "source": "NYT"
+      "title": "Anthropic says AI models hacked three firms during tests",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "source": "BBC"
     }
   }
 }
