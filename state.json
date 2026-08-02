@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-08-01T21:07:11.522238-04:00",
+  "sent_at": "2026-08-02T07:07:12.410936-04:00",
   "items": {
     "1": {
-      "title": "Days After Deadly Shooting, Seattle Tightens Security on Festivities",
-      "link": "https://www.nytimes.com/2026/08/01/us/seattle-festival-shooting.html",
-      "summary": "A recent shooting that killed three people at a food festival in Seattle did not deter crowds from the city’s Seafair Weekend Festival.",
+      "title": "Shooting at In-and-Out Burger in Idaho Leaves at Least 3 Dead and 2 Injured, Official Says",
+      "link": "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html",
+      "summary": "A spokesman for Twin Falls cautioned that the number of victims was “expected to be higher.” The police said the shooter was dead.",
       "source": "NYT"
     },
     "2": {
-      "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
-      "link": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html",
-      "summary": "Jeanine Pirro, the U.S. attorney in Washington, blamed shoddy construction, contradicting President Trump’s pet theory. Mr. Trump said he disagreed “100%” with her.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "Wildfires in Spokane, Wash., Force Thousands to Evacuate",
-      "link": "https://www.nytimes.com/2026/08/01/us/wildfires-spokane-washington-evacuations.html",
-      "summary": "The Old Trails fire had grown to about 2,500 acres by Saturday afternoon, propelled by strong wind gusts and high temperatures.",
-      "source": "NYT"
-    },
-    "4": {
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "title": "Washington state wildfires trigger evacuations",
+      "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
       "source": "BBC"
     },
+    "3": {
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "source": "BBC"
+    },
+    "4": {
+      "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+      "link": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+      "summary": "More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable.",
+      "source": "NYT"
+    },
     "5": {
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
       "source": "BBC"
     },
     "6": {
-      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
       "source": "BBC"
     }
   }
