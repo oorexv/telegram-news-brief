@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-08-01T18:07:13.889552-04:00",
+  "sent_at": "2026-08-01T21:07:11.522238-04:00",
   "items": {
     "1": {
+      "title": "Days After Deadly Shooting, Seattle Tightens Security on Festivities",
+      "link": "https://www.nytimes.com/2026/08/01/us/seattle-festival-shooting.html",
+      "summary": "A recent shooting that killed three people at a food festival in Seattle did not deter crowds from the city’s Seafair Weekend Festival.",
+      "source": "NYT"
+    },
+    "2": {
       "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
       "link": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html",
       "summary": "Jeanine Pirro, the U.S. attorney in Washington, blamed shoddy construction, contradicting President Trump’s pet theory. Mr. Trump said he disagreed “100%” with her.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
-      "link": "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html",
-      "summary": "The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.",
-      "source": "NYT"
-    },
     "3": {
-      "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
-      "link": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html",
-      "summary": "The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.",
+      "title": "Wildfires in Spokane, Wash., Force Thousands to Evacuate",
+      "link": "https://www.nytimes.com/2026/08/01/us/wildfires-spokane-washington-evacuations.html",
+      "summary": "The Old Trails fire had grown to about 2,500 acres by Saturday afternoon, propelled by strong wind gusts and high temperatures.",
       "source": "NYT"
     },
     "4": {
-      "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
-      "link": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
-      "summary": "Among the victims of the explosion, which also injured 21 people, were a security guard and a woman who the authorities say had arrived with the suspicious package.",
-      "source": "NYT"
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "source": "BBC"
     },
     "5": {
-      "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
-      "link": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
-      "summary": "Most of those who came to the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.",
-      "source": "NYT"
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+      "source": "BBC"
     },
     "6": {
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
       "source": "BBC"
     }
   }
