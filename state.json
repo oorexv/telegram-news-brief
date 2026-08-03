@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-03T07:07:15.042773-04:00",
+  "sent_at": "2026-08-03T11:07:22.462027-04:00",
   "items": {
     "1": {
-      "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
-      "link": "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html",
-      "summary": "A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "title": "Flight attendants reach 'tentative' deal to end Canada's WestJet strike",
+      "link": "https://www.bbc.co.uk/news/articles/cq568j06zgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The strike at Canada's second-largest air carrier hit travellers on one of the busiest summer holiday weekends.",
       "source": "BBC"
     },
+    "2": {
+      "title": "Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83",
+      "link": "https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html",
+      "summary": "She was the first Republican woman from the state to be elected to the House. It caused a stir in 2024 when she was discovered to be residing in a senior living facility while still in office.",
+      "source": "NYT"
+    },
     "3": {
-      "title": "Blanche formally withdraws Trump fund plan, ahead of AG confirmation vote",
-      "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
       "source": "BBC"
     },
     "4": {
-      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
-      "source": "BBC"
-    },
-    "5": {
       "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
       "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
       "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
       "source": "BBC"
     },
-    "6": {
-      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
-      "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
+    "5": {
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
       "source": "BBC"
+    },
+    "6": {
+      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+      "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
+      "source": "NYT"
     }
   }
 }
