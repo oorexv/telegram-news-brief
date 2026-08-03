@@ -1,10 +1,10 @@
 {
-  "sent_at": "2026-08-03T13:07:12.318174-04:00",
+  "sent_at": "2026-08-03T15:07:16.679495-04:00",
   "items": {
     "1": {
-      "title": "Max Miller, Accused of Abuse, Is Not Stepping Aside. Here’s What We Know.",
-      "link": "https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html",
-      "summary": "The Ohio Republican who is seeking a third term defiantly denied domestic abuse allegations ahead of a deadline to replace him on the ballot.",
+      "title": "Prosecutor in D.C. Moves to Dismiss More Reflecting Pool Cases",
+      "link": "https://www.nytimes.com/2026/08/03/us/reflecting-pool-charges.html",
+      "summary": "After revelations that a botched renovation, not vandalism, had caused the pool’s recent problems, the U.S. attorney’s office has dropped several prosecutions.",
       "source": "NYT"
     },
     "2": {
@@ -14,27 +14,27 @@
       "source": "NYT"
     },
     "3": {
-      "title": "ICE Killed Him. A.I. Helped Turn Him Into a Folk Ballad, Fast.",
-      "link": "https://www.nytimes.com/2026/08/03/us/ai-corridos-song-music-texas-ice-shooting.html",
-      "summary": "Artificial Intelligence is helping people write corridos within hours, accelerating a century-old tradition of memorializing tragedy through song.",
+      "title": "Blanche’s Documents Addressing Trump I.R.S. Deal Leave Loopholes",
+      "link": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-loopholes.html",
+      "summary": "Critics say the written assurances are a political solution to a political problem, rather than a legally binding document.",
       "source": "NYT"
     },
     "4": {
-      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
       "source": "BBC"
     },
     "5": {
-      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
-      "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
-      "source": "NYT"
-    },
-    "6": {
       "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
       "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+      "source": "BBC"
+    },
+    "6": {
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
       "source": "BBC"
     }
   }
