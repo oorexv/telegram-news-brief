@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-03T11:07:22.462027-04:00",
+  "sent_at": "2026-08-03T13:07:12.318174-04:00",
   "items": {
     "1": {
-      "title": "Flight attendants reach 'tentative' deal to end Canada's WestJet strike",
-      "link": "https://www.bbc.co.uk/news/articles/cq568j06zgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike at Canada's second-largest air carrier hit travellers on one of the busiest summer holiday weekends.",
-      "source": "BBC"
+      "title": "Max Miller, Accused of Abuse, Is Not Stepping Aside. Here’s What We Know.",
+      "link": "https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html",
+      "summary": "The Ohio Republican who is seeking a third term defiantly denied domestic abuse allegations ahead of a deadline to replace him on the ballot.",
+      "source": "NYT"
     },
     "2": {
-      "title": "Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83",
-      "link": "https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html",
-      "summary": "She was the first Republican woman from the state to be elected to the House. It caused a stir in 2024 when she was discovered to be residing in a senior living facility while still in office.",
+      "title": "How Democratic Socialists Are Wrestling With Their Next Moves",
+      "link": "https://www.nytimes.com/2026/08/03/us/politics/democratic-socialists-midterms-democrats-republicans.html",
+      "summary": "After notching primary victories, D.S.A. members in Chicago debated whether socialist candidates should be free to distance themselves from goals like abolishing prisons as they chase more seats this fall.",
       "source": "NYT"
     },
     "3": {
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
-      "source": "BBC"
+      "title": "ICE Killed Him. A.I. Helped Turn Him Into a Folk Ballad, Fast.",
+      "link": "https://www.nytimes.com/2026/08/03/us/ai-corridos-song-music-texas-ice-shooting.html",
+      "summary": "Artificial Intelligence is helping people write corridos within hours, accelerating a century-old tradition of memorializing tragedy through song.",
+      "source": "NYT"
     },
     "4": {
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-      "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
       "source": "BBC"
     },
     "5": {
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
-      "source": "BBC"
-    },
-    "6": {
       "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
       "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
       "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
       "source": "NYT"
+    },
+    "6": {
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+      "source": "BBC"
     }
   }
 }
