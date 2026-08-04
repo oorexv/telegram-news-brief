@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-04T15:07:22.455537-04:00",
+  "sent_at": "2026-08-04T18:07:12.133070-04:00",
   "items": {
     "1": {
-      "title": "Max Miller Shrugs Off Trump’s Warning and Pushes Ahead in Ohio",
-      "link": "https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html",
-      "summary": "Republicans hoped a shove from President Trump would persuade the embattled congressman to drop his re-election bid in the face of abuse allegations. It hasn’t happened.",
+      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
+      "link": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html",
+      "summary": "Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.",
       "source": "NYT"
     },
     "2": {
-      "title": "What to Watch in Michigan’s High-Stakes Primary Elections",
-      "link": "https://www.nytimes.com/2026/08/04/us/politics/michigan-primary-election-el-sayed-stevens.html",
-      "summary": "A high-stakes Senate contest and other races will offer fresh indicators of what Democratic voters are seeking.",
-      "source": "NYT"
+      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk's company has struggled to maintain investor enthusiasm that greeted its stock market debut.",
+      "source": "BBC"
     },
     "3": {
-      "title": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders",
-      "link": "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html",
-      "summary": "Iran’s leaders have perplexed several American presidents, perhaps none more than President Trump.",
+      "title": "Missouri Says Voters Cannot Decide on Redrawn Congressional Districts",
+      "link": "https://www.nytimes.com/2026/08/04/us/missouri-redistricting-referendum-result.html",
+      "summary": "Opponents of the new map, which was redrawn to benefit Republicans, had gathered signatures seeking a statewide vote. The issue could now move to the courts.",
       "source": "NYT"
     },
     "4": {
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-      "source": "BBC"
-    },
-    "5": {
       "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
       "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
       "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
       "source": "BBC"
     },
+    "5": {
+      "title": "Projectile sinks Indian-flagged ship off Yemen coast",
+      "link": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
+      "summary": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
+      "source": "BBC"
+    },
     "6": {
-      "title": "More Than 170 Migrants Rescued From Burning Boat in English Channel",
-      "link": "https://www.nytimes.com/2026/08/04/world/europe/english-channel-migrants-rescue.html",
-      "summary": "No deaths or injuries were reported. Many migrants try to reach Britain in small, often unseaworthy vessels.",
-      "source": "NYT"
+      "title": "More than 170 migrants rescued after boat catches fire in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+      "source": "BBC"
     }
   }
 }
