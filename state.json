@@ -1,22 +1,22 @@
 {
-  "sent_at": "2026-08-05T11:07:13.821540-04:00",
+  "sent_at": "2026-08-05T13:07:14.873749-04:00",
   "items": {
     "1": {
-      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
-      "source": "BBC"
+      "title": "Perez Hilton Is Hospitalized After Appearing to Harm Himself on Livestream",
+      "link": "https://www.nytimes.com/2026/08/05/us/perez-hilton-live-stream-tiktok-self-harm.html",
+      "summary": "Law enforcement and emergency workers responded to Mr. Hilton’s house after he appeared to hurt himself on a TikTok stream Tuesday.",
+      "source": "NYT"
     },
     "2": {
-      "title": "Could U.S. Water Systems Be a New Front in the Iran War?",
-      "link": "https://www.nytimes.com/video/us/100000011070404/could-us-water-systems-be-a-new-front-in-the-iran-war.html",
-      "summary": "Dozens of U.S. water systems have been the targets of cyberattacks in the past week. Our reporter Dustin Volz explains how Iranian hackers are suspected, and how President Trump has cast blame elsewhere.",
+      "title": "El-Sayed’s Michigan Senate Primary Win Sets Up the Left’s Biggest Test of the Fall",
+      "link": "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html",
+      "summary": "Abdul El-Sayed’s Senate candidacy poses a critical challenge for  Democrats’ ascendant progressive wing: Can an insurgent candidate, with unabashedly liberal positions, win a general election in a moderate state?",
       "source": "NYT"
     },
     "3": {
-      "title": "Muslim Americans Celebrate Abdul El-Sayed’s Win in Michigan Primary",
-      "link": "https://www.nytimes.com/2026/08/05/us/elections/muslim-reaction-el-sayed-victory.html",
-      "summary": "Muslim voters from across the country said they felt hope and anxiety as Dr. El-Sayed moved closer to becoming the nation’s first Muslim senator.",
+      "title": "New Mexico Sues Trump Administration for Unredacted Epstein Files in Zorro Ranch Investigation",
+      "link": "https://www.nytimes.com/2026/08/05/us/epstein-files-new-mexico-trump-zorro-ranch.html",
+      "summary": "The Zorro Ranch outside Santa Fe, where Epstein victims said they were abused, is at the center of an ongoing feud between the state and federal government.",
       "source": "NYT"
     },
     "4": {
@@ -26,16 +26,16 @@
       "source": "BBC"
     },
     "5": {
-      "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
-      "link": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa",
-      "source": "BBC"
-    },
-    "6": {
       "title": "Drone carrying explosives found at German airport, police say",
       "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
       "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
       "source": "BBC"
+    },
+    "6": {
+      "title": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation",
+      "link": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-lebanon-hezbollah-cease-fire.html",
+      "summary": "At the same time, Israeli and Lebanese negotiators were holding talks in Rome aimed at fostering a long-term diplomatic settlement.",
+      "source": "NYT"
     }
   }
 }
