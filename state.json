@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-05T15:07:13.622987-04:00",
+  "sent_at": "2026-08-05T18:07:14.853811-04:00",
   "items": {
     "1": {
-      "title": "U.S. Cuts Ties With Organ Donor Group After Reports of Abuses",
-      "link": "https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html",
-      "summary": "The federal government is ending its contract with a Kentucky nonprofit that it says pressured medical workers to remove organs from patients who were getting better.",
+      "title": "Trump Said Qatari Jet Was Destined for His Library. That May Change.",
+      "link": "https://www.nytimes.com/2026/08/05/us/trump-air-force-one-qatar-library.html",
+      "summary": "A White House official says no final decision has been made about which plane will go on display at the Trump presidential library. That leaves the fate of the Qatari jet unclear.",
       "source": "NYT"
     },
     "2": {
-      "title": "Why Congress Wants a Closer U.S.-Israel Defense Partnership",
-      "link": "https://www.nytimes.com/2026/08/05/us/politics/congress-us-israel-defense-partnership.html",
-      "summary": "A proposal making its way through Congress would integrate the U.S. and Israeli defense and intelligence apparatuses more tightly. Some worry that it is a bad idea.",
-      "source": "NYT"
+      "title": "Marmots facing money troubles turn to OnlyFans",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywqp5z5yzo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Colorado lab researching the ground-squirrels comes up with an innovative way to raise money after funding cuts.",
+      "source": "BBC"
     },
     "3": {
-      "title": "Perez Hilton Is Hospitalized After Appearing to Harm Himself on Livestream",
-      "link": "https://www.nytimes.com/2026/08/05/us/perez-hilton-live-stream-tiktok-self-harm.html",
-      "summary": "Law enforcement and emergency workers responded to Mr. Hilton’s house after he appeared to hurt himself on a TikTok stream Tuesday.",
+      "title": "Helicopter Carrying Trump Flies Near Passenger Jet in Washington Airspace",
+      "link": "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html",
+      "summary": "Marine One, the helicopter that ferries the president, came within less than a mile of an Envoy Air flight on Tuesday, raising new concerns about air traffic control in the congested area.",
       "source": "NYT"
     },
     "4": {
-      "title": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
-      "link": "https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html",
-      "summary": "Finland, wary of misinformation from Moscow and beyond, has a leg up on other nations in spotting fake news. But A.I. is a whole new challenge.",
-      "source": "NYT"
-    },
-    "5": {
-      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+      "title": "Fifa admits mistakes but Infantino remains president",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
       "source": "BBC"
     },
-    "6": {
+    "5": {
       "title": "Record-Breaking Heat Wave in South Korea Leads to Canceled Baseball Games",
       "link": "https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html",
       "summary": "The country has been gripped by a record-setting heat wave that endangered both players and spectators.",
       "source": "NYT"
+    },
+    "6": {
+      "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+      "source": "BBC"
     }
   }
 }
