@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-05T18:07:14.853811-04:00",
+  "sent_at": "2026-08-05T21:07:16.537029-04:00",
   "items": {
     "1": {
-      "title": "Trump Said Qatari Jet Was Destined for His Library. That May Change.",
-      "link": "https://www.nytimes.com/2026/08/05/us/trump-air-force-one-qatar-library.html",
-      "summary": "A White House official says no final decision has been made about which plane will go on display at the Trump presidential library. That leaves the fate of the Qatari jet unclear.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "Marmots facing money troubles turn to OnlyFans",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywqp5z5yzo?at_medium=RSS&at_campaign=rss",
-      "summary": "A Colorado lab researching the ground-squirrels comes up with an innovative way to raise money after funding cuts.",
-      "source": "BBC"
-    },
-    "3": {
-      "title": "Helicopter Carrying Trump Flies Near Passenger Jet in Washington Airspace",
+      "title": "Helicopter Carrying Trump Flew Near Passenger Jet in Washington Airspace",
       "link": "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html",
       "summary": "Marine One, the helicopter that ferries the president, came within less than a mile of an Envoy Air flight on Tuesday, raising new concerns about air traffic control in the congested area.",
       "source": "NYT"
     },
+    "2": {
+      "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
+      "link": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
+      "summary": "The task force will allow the spy agency to quickly direct more financial, human and technical resources at the island, with the goal of creating fissures among the Cuban political elite.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Fauci Faces Contempt Vote. Here Are the Legal Issues Involved.",
+      "link": "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html",
+      "summary": "Dr. Fauci invoked his Constitutional right under the Fifth Amendment in refusing to answer questions from a Senate committee. Republicans say he is ineligible for that protection.",
+      "source": "NYT"
+    },
     "4": {
-      "title": "Fifa admits mistakes but Infantino remains president",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
       "source": "BBC"
     },
     "5": {
+      "title": "Infantino sorry for errors but stays Fifa president",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+      "source": "BBC"
+    },
+    "6": {
       "title": "Record-Breaking Heat Wave in South Korea Leads to Canceled Baseball Games",
       "link": "https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html",
       "summary": "The country has been gripped by a record-setting heat wave that endangered both players and spectators.",
       "source": "NYT"
-    },
-    "6": {
-      "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
-      "source": "BBC"
     }
   }
 }
