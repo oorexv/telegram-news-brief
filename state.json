@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-06T21:07:13.918591-04:00",
+  "sent_at": "2026-08-07T07:07:11.661630-04:00",
   "items": {
     "1": {
-      "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
-      "link": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html",
-      "summary": "The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.",
-      "source": "NYT"
+      "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+      "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+      "source": "BBC"
     },
     "2": {
-      "title": "Spokane Arson Suspect Had History of Setting Fires, Prosecutors Say",
-      "link": "https://www.nytimes.com/2026/08/06/us/spokane-arson-suspect-fire-history.html",
-      "summary": "The man charged with setting one of the three destructive blazes in eastern Washington this month told detectives he had started two dozen fires in the last year, an affidavit said.",
-      "source": "NYT"
+      "title": "Trump-backed Republican congressman loses primary in Tennessee",
+      "link": "https://www.bbc.co.uk/news/articles/c79grd2prnro?at_medium=RSS&at_campaign=rss",
+      "summary": "Andy Ogles is the second person backed by the US president to lose this week but there were also some wins in Trump's corner.",
+      "source": "BBC"
     },
     "3": {
-      "title": "One Killed in Fire Started by Man Who Said He Lit It by Accident",
-      "link": "https://www.nytimes.com/2026/08/06/us/gann-fire-california.html",
-      "summary": "The authorities said they found a body inside a burned home near Sacramento. A man was charged this week with causing the blaze by operating equipment that produced sparks.",
-      "source": "NYT"
-    },
-    "4": {
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
-      "source": "BBC"
-    },
-    "5": {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
       "source": "BBC"
     },
+    "4": {
+      "title": "Foreigners Behaving Badly in Vietnam Challenge Its Communist Justice System",
+      "link": "https://www.nytimes.com/2026/08/07/world/asia/vietnam-tourism-foreigners-crime-law.html",
+      "summary": "Vietnam is grappling with a surge in visitors, testing its Soviet-style criminal justice system as it tries to supercharge its economy through tourism.",
+      "source": "NYT"
+    },
+    "5": {
+      "title": "The State of Iran’s Three Key Nuclear Sites",
+      "link": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
+      "summary": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
+      "source": "NYT"
+    },
     "6": {
-      "title": "Two people convicted in relation to death of French streamer",
-      "link": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick.",
-      "source": "BBC"
+      "title": "How Japan Reduced Deaths From a Major Quake",
+      "link": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
+      "summary": "After deadly tremors a decade ago, Kumamoto built earthquake-resistant buildings and even trained locals in search and rescue.",
+      "source": "NYT"
     }
   }
 }
