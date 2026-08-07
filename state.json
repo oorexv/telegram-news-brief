@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-07T13:07:19.664628-04:00",
+  "sent_at": "2026-08-07T15:07:12.789913-04:00",
   "items": {
     "1": {
-      "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
-      "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
-      "source": "BBC"
+      "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
+      "link": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html",
+      "summary": "As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.",
+      "source": "NYT"
     },
     "2": {
-      "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
-      "link": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
-      "summary": "The Louisiana senator said that, despite reservations, he would back President Trump’s pick for attorney general, giving Republicans enough votes for a majority.",
+      "title": "Senate Passes Sanctions Bill Targeting Russia and Iran",
+      "link": "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html",
+      "summary": "The legislation was championed by Senator Lindsey Graham, the South Carolina Republican whose sudden death last month helped spur quick action on it.",
       "source": "NYT"
     },
     "3": {
-      "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
-      "link": "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html",
-      "summary": "A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.",
+      "title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
+      "link": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html",
+      "summary": "Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.",
       "source": "NYT"
     },
     "4": {
+      "title": "A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat",
+      "link": "https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html",
+      "summary": "The river’s water levels have fallen as extreme heat has afflicted Europe, exposing sunken German vessels from World War II that are impeding navigation.",
+      "source": "NYT"
+    },
+    "5": {
       "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
       "summary": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
       "source": "BBC"
     },
-    "5": {
-      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "link": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
-      "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
-      "source": "NYT"
-    },
     "6": {
-      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
-      "link": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
-      "summary": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.",
-      "source": "NYT"
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "source": "BBC"
     }
   }
 }
