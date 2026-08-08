@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-08T15:07:11.246082-04:00",
+  "sent_at": "2026-08-08T18:07:13.220891-04:00",
   "items": {
     "1": {
-      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
-      "source": "BBC"
+      "title": "Blackbird Mountain Guides Report on Lake Tahoe Avalanche That Killed 9 Skiers Assigns No Blame.",
+      "link": "https://www.nytimes.com/2026/08/08/us/tahoe-avalanche-blackbird-report.html",
+      "summary": "The report was commissioned by Blackbird Mountain Guides, which was in charge of the trip near Lake Tahoe in February.",
+      "source": "NYT"
     },
     "2": {
-      "title": "Outbreak of Vibrio Vulnificus, a Flesh-Eating Bacteria, Kills 5 in Louisiana",
-      "link": "https://www.nytimes.com/2026/08/08/us/louisiana-vibrio-vulnificus-outbreak-flesh-eating-bacteria.html",
-      "summary": "Vibrio vulnificus, which thrives in warm, brackish water, has also killed two people in Florida this year.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
-      "link": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
-      "summary": "The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.",
-      "source": "NYT"
-    },
-    "4": {
       "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
       "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
       "source": "BBC"
     },
+    "3": {
+      "title": "Two Killed in Firefighting Helicopter Crash Near Utah Wildfire",
+      "link": "https://www.nytimes.com/2026/08/08/us/two-killed-wildfire-helicopter-crash.html",
+      "summary": "The aircraft was responding to the Widemouth 2 fire, which has burned more than 100,000 acres since starting last month.",
+      "source": "NYT"
+    },
+    "4": {
+      "title": "Wildfire Forces Evacuation of 18,000 From Summerland, British Columbia",
+      "link": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
+      "summary": "The Bald Range fire has burned more than 23,000 acres in British Columbia. At one point, the fire spread more than 2,000 acres in about an hour, officials said.",
+      "source": "NYT"
+    },
     "5": {
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "source": "BBC"
+      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "link": "https://www.nytimes.com/article/canada-wildfires-2026.html",
+      "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
+      "source": "NYT"
     },
     "6": {
-      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "source": "BBC"
+      "title": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+      "link": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
+      "summary": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling.",
+      "source": "NYT"
     }
   }
 }
