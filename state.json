@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-09T11:07:17.361988-04:00",
+  "sent_at": "2026-08-09T13:07:12.076640-04:00",
   "items": {
     "1": {
-      "title": "A Democratic Socialist Seeks New Voters in an Unlikely Place: Fox News",
-      "link": "https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html",
-      "summary": "Gustavo Gordillo, a leader of the New York D.S.A., wants to reach new voters. But in interviews with conservative media, the backlash can be sharp.",
+      "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
+      "link": "https://www.nytimes.com/2026/08/09/us/kesey-furthur-bus-san-francisco.html",
+      "summary": "Ken Kesey’s psychedelic bus, immortalized in “The Electric Kool-Aid Acid Test,” is preparing for one more run. And to its owners, America sure could use it.",
       "source": "NYT"
     },
     "2": {
+      "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+      "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A nearby vessel rescued 12 people from the water before police arrived, the US Coast Guard says.",
+      "source": "BBC"
+    },
+    "3": {
       "title": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary",
       "link": "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html",
       "summary": "Dr. Abdul El-Sayed’s call with the former president comes as he tries to win over wary Democrats in Michigan’s high-stakes Senate race.",
       "source": "NYT"
     },
-    "3": {
-      "title": "Michigan Senate Candidate, a Former Trump Critic, Shifts Toward Election Skepticism",
-      "link": "https://www.nytimes.com/2026/08/09/us/politics/mike-rogers-michigan-senate-elections.html",
-      "summary": "Mike Rogers, the Republican nominee, has suggested that further scrutiny of the 2020 election was warranted and that voting irregularities sank his first Senate bid two years ago.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
-      "link": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
-      "summary": "The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade.",
-      "source": "NYT"
+      "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+      "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A nearby vessel rescued 12 people from the water before police arrived, the US Coast Guard says.",
+      "source": "BBC"
     },
     "5": {
-      "title": "Syria Agrees to Reorganized Russian Military Presence",
-      "link": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
-      "summary": "After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria. Syria said it opens the way for a new phase in relations.",
-      "source": "NYT"
+      "title": "Puerto Rico rations water supplies due to intense drought",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
+      "source": "BBC"
     },
     "6": {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "source": "BBC"
+      "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+      "link": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
+      "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas giving up its weapons alongside an Israeli withdrawal from Gaza.",
+      "source": "NYT"
     }
   }
 }
