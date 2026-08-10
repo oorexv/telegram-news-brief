@@ -1,16 +1,16 @@
 {
-  "sent_at": "2026-08-10T07:07:15.291939-04:00",
+  "sent_at": "2026-08-10T11:07:20.581636-04:00",
   "items": {
     "1": {
-      "title": "Alexandria Ocasio-Cortez says she's freezing her eggs",
-      "link": "https://www.bbc.co.uk/news/articles/cewrzrekwv5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Democratic congresswoman says she wants to \"normalise\" conversations about the process.",
-      "source": "BBC"
+      "title": "Minnesota’s Democratic Senate Primary Pits Angie Craig Against Peggy Flanagan",
+      "link": "https://www.nytimes.com/2026/08/10/us/politics/minnesota-senate-primary-flanagan-craig.html",
+      "summary": "The Senate primary race in Minnesota will be the latest test of left-wing energy in the party, in a state that was convulsed by the Trump administration’s deadly immigration crackdown this winter.",
+      "source": "NYT"
     },
     "2": {
-      "title": "Inside the Left’s Playbook for Winning Elections",
-      "link": "https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html",
-      "summary": "Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.",
+      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+      "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+      "summary": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
       "source": "NYT"
     },
     "3": {
@@ -20,21 +20,21 @@
       "source": "NYT"
     },
     "4": {
-      "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "summary": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
-      "source": "BBC"
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali/colombia-earthquake",
+      "summary": "The magnitude 7.4 quake hit the western part of the country, shaking Bogotá, Cali, Medellín and other cities, just weeks after quakes of similar intensity devastated parts of neighboring Venezuela.",
+      "source": "NYT"
     },
     "5": {
-      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
-      "summary": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
       "source": "BBC"
     },
     "6": {
-      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
       "source": "BBC"
     }
   }
