@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-08-10T15:07:21.956205-04:00",
+  "sent_at": "2026-08-10T18:07:23.473349-04:00",
   "items": {
     "1": {
-      "title": "Hegseth Renames Base for Lindsey Graham",
-      "link": "https://www.nytimes.com/2026/08/10/us/politics/hegseth-base-lindsey-graham.html",
-      "summary": "Joint Base Charleston will now be known as Joint Base Lindsey Graham. The senator served as a judge advocate general before retiring as a colonel in 2015.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "One Source of Paxton’s Wealth: A Cell Tower at a Hospital He Knew Well",
-      "link": "https://www.nytimes.com/2026/08/10/us/paxton-cell-tower-company-texas-senate.html",
-      "summary": "Ken Paxton, the Texas attorney general, makes six-figure income from a cellphone tower on the grounds of a hospital where he was a board member.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "How Trump’s Yearlong ‘Takeover’ of Washington Has Changed the Capital",
+      "title": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?",
       "link": "https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html",
       "summary": "The deployment of National Guard troops and federal agents into the streets has been expensive. How effective it has been is debatable.",
       "source": "NYT"
     },
-    "4": {
-      "title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing Dozens",
-      "link": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
-      "summary": "The quake shook several major cities, including Bogotá, Cali and Medellín. More than 70 people have died, and the death toll appeared likely to rise as rescuers continued to search damaged buildings.",
+    "2": {
+      "title": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
+      "link": "https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html",
+      "summary": "Democrats appear likely to nominate a democratic socialist for governor. How did they get here?",
       "source": "NYT"
     },
-    "5": {
+    "3": {
+      "title": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
+      "link": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html",
+      "summary": "President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.",
+      "source": "NYT"
+    },
+    "4": {
       "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
       "link": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
       "summary": "The Israeli prime minister, facing a tough upcoming election, is trying to satisfy the sometimes competing demands of his right-wing base and of President Trump.",
       "source": "NYT"
     },
+    "5": {
+      "title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
+      "link": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+      "summary": "The quake shook major cities, including Bogotá, Cali and Medellín. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers searched damaged buildings.",
+      "source": "NYT"
+    },
     "6": {
-      "title": "New train service connects Finland and Sweden for first time in decades",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
       "source": "BBC"
     }
   }
