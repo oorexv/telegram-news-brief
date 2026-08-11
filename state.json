@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-11T13:07:13.545173-04:00",
+  "sent_at": "2026-08-11T15:07:16.827280-04:00",
   "items": {
     "1": {
-      "title": "Russia releases former US Marine reported in poor health",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
-      "source": "BBC"
+      "title": "Ocasio-Cortez Opened Up About Freezing her Eggs. She Got Women Talking.",
+      "link": "https://www.nytimes.com/2026/08/11/us/politics/egg-freezing-aoc.html",
+      "summary": "Many women say being open about the fertility treatment is a form of empowerment. But critics say all the talk can be misleading.",
+      "source": "NYT"
     },
     "2": {
-      "title": "How Iran Adapted Its Attacks as U.S. War Munitions Dwindled",
-      "link": "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html",
-      "summary": "The Iranian strikes that killed three U.S. soldiers in Jordan show how quickly Iran’s war-fighting skills have evolved, as the Pentagon runs low on interceptors.",
+      "title": "University of Michigan Will Ease Up on Grades for Student Mental Health",
+      "link": "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html",
+      "summary": "The university will make first-semester grades pass or fail, to encourage students to try different classes and lessen fears of what a low grade could mean.",
       "source": "NYT"
     },
     "3": {
-      "title": "University of Michigan Will Ease Up on Grades for Student Mental Health",
-      "link": "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html",
-      "summary": "The University of Michigan will make first-semester grades pass or fail, to encourage students to try different classes and lessen fears of the consequences of a low grade.",
+      "title": "What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina",
+      "link": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html",
+      "summary": "The left and the middle continue to battle in Democratic primaries for governor in Wisconsin and Senate in Minnesota. In South Carolina, all eyes are on Darline Graham.",
       "source": "NYT"
     },
     "4": {
+      "title": "Former judge removed by Orbán elected Hungarian president",
+      "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+      "summary": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
+      "source": "BBC"
+    },
+    "5": {
+      "title": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
+      "link": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
+      "summary": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons.",
+      "source": "NYT"
+    },
+    "6": {
       "title": "Russia releases former US Marine reported in poor health",
       "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
       "source": "BBC"
-    },
-    "5": {
-      "title": "After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors",
-      "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
-      "summary": "“We heard them screaming,” said one rescuer in Cali, where rescuers face a race against time to find the living.",
-      "source": "NYT"
-    },
-    "6": {
-      "title": "What We Know About the Earthquake in Colombia",
-      "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
-      "summary": "The 7.4-magnitude quake, which killed more than 100 people and damaged hundreds of buildings, was the strongest recorded in Colombia in a decade.",
-      "source": "NYT"
     }
   }
 }
