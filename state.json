@@ -1,28 +1,28 @@
 {
-  "sent_at": "2026-08-11T07:07:15.236243-04:00",
+  "sent_at": "2026-08-11T11:07:23.202552-04:00",
   "items": {
     "1": {
-      "title": "Can Immigration Agents Stop People Based on Appearance?",
-      "link": "https://www.nytimes.com/video/us/100000011079979/can-immigration-agents-stop-people-based-on-appearance.html",
-      "summary": "Jazmine Ulloa, our national reporter covering immigration, describes body-camera footage and other court evidence that federal agents used slurs and racially profiled people during immigration sweeps.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
-      "source": "BBC"
-    },
-    "3": {
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
       "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president was part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
       "source": "BBC"
     },
+    "2": {
+      "title": "Trump Picks Project 2025 Co-Author for Role That Would Oversee Any Reflecting Pool Review",
+      "link": "https://www.nytimes.com/2026/08/11/us/politics/dennis-kirk-trump-interior-reflecting-pool-project-2025.html",
+      "summary": "Dennis Kirk, a former adviser to Tulsi Gabbard, is President Trump’s nominee for inspector general for the Interior Department.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Wildfire Forces Evacuations in Big Sur, Along California’s Famed Central Coast",
+      "link": "https://www.nytimes.com/2026/08/11/us/california-timber-fire-big-sur.html",
+      "summary": "A fire broke out near Highway 1 on Sunday and spread rapidly overnight, prompting evacuation orders across Monterey County.",
+      "source": "NYT"
+    },
     "4": {
-      "title": "What We Know About the Earthquake in Colombia",
-      "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
-      "summary": "The 7.4-magnitude quake, which killed more than 100 people and damaged hundreds of buildings, was the strongest recorded in Colombia in a decade.",
+      "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
+      "link": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
+      "summary": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024.",
       "source": "NYT"
     },
     "5": {
@@ -32,10 +32,10 @@
       "source": "BBC"
     },
     "6": {
-      "title": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
-      "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
-      "summary": "The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war.",
-      "source": "NYT"
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+      "source": "BBC"
     }
   }
 }
