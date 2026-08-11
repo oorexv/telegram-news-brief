@@ -1,16 +1,16 @@
 {
-  "sent_at": "2026-08-10T18:07:23.473349-04:00",
+  "sent_at": "2026-08-10T21:07:12.484193-04:00",
   "items": {
     "1": {
-      "title": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?",
-      "link": "https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html",
-      "summary": "The deployment of National Guard troops and federal agents into the streets has been expensive. How effective it has been is debatable.",
+      "title": "Homeland Security Intensifies Pursuit of Noncitizens on Voter Rolls",
+      "link": "https://www.nytimes.com/2026/08/10/us/politics/noncitizens-vote-crackdown.html",
+      "summary": "Immigrants who said they inadvertently registered to vote while obtaining or renewing driver’s licenses are increasingly facing deportation under the Trump administration.",
       "source": "NYT"
     },
     "2": {
-      "title": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
-      "link": "https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html",
-      "summary": "Democrats appear likely to nominate a democratic socialist for governor. How did they get here?",
+      "title": "Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’",
+      "link": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html",
+      "summary": "Along with his comments about Muslim candidates, Mr. Trump spoke disparagingly of Somalis in the United States, saying “they’re not smart.”",
       "source": "NYT"
     },
     "3": {
@@ -20,22 +20,22 @@
       "source": "NYT"
     },
     "4": {
-      "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
-      "link": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
-      "summary": "The Israeli prime minister, facing a tough upcoming election, is trying to satisfy the sometimes competing demands of his right-wing base and of President Trump.",
-      "source": "NYT"
-    },
-    "5": {
-      "title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
+      "title": "Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
       "link": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
       "summary": "The quake shook major cities, including Bogotá, Cali and Medellín. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers searched damaged buildings.",
       "source": "NYT"
     },
-    "6": {
+    "5": {
       "title": "Trump signs order to limit childhood vaccines and split MMR shots",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
       "source": "BBC"
+    },
+    "6": {
+      "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
+      "link": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
+      "summary": "The Israeli prime minister, facing a tough upcoming election, is trying to satisfy the sometimes competing demands of his right-wing base and of President Trump.",
+      "source": "NYT"
     }
   }
 }
