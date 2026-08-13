@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-08-13T15:07:13.846372-04:00",
+  "sent_at": "2026-08-13T18:07:20.334208-04:00",
   "items": {
     "1": {
-      "title": "Wildfire Continues to Threaten California’s Famed Big Sur Region",
-      "link": "https://www.nytimes.com/2026/08/13/us/timber-fire-big-sur.html",
-      "summary": "The Timber fire has burned more than 4,000 acres and was 7 percent contained on Thursday.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
-      "link": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html",
-      "summary": "The idea has been long in the making, but could be difficult to implement and lead to unintended consequences, former officials and security experts said.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
-      "source": "BBC"
-    },
-    "4": {
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
-      "source": "BBC"
-    },
-    "5": {
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "source": "BBC"
     },
+    "2": {
+      "title": "Ex-Officer Held in New Orleans Mass Shooting Plot Is Freed Without Charges",
+      "link": "https://www.nytimes.com/2026/08/13/us/mass-shooting-new-orleans-ex-police-released.html",
+      "summary": "Law enforcement officials had said that Christopher Gillum, a former police officer in North Carolina, planned to attack a large festival. He was released without charges.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Judge Dismisses Trump Administration’s Antisemitism Case Against Harvard",
+      "link": "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html",
+      "summary": "The government argued the university had not done enough to combat antisemitism during campus protests. A judge called the incidents “isolated and episodic.”",
+      "source": "NYT"
+    },
+    "4": {
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "source": "BBC"
+    },
+    "5": {
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "source": "BBC"
+    },
     "6": {
       "title": "Train Derails Near Town of Lewes in East Sussex, U.K.",
       "link": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
-      "summary": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Nine other people were less seriously hurt.",
+      "summary": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Eighteen other people were less badly hurt.",
       "source": "NYT"
     }
   }
