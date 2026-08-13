@@ -1,22 +1,22 @@
 {
-  "sent_at": "2026-08-13T07:07:20.118780-04:00",
+  "sent_at": "2026-08-13T11:07:18.837172-04:00",
   "items": {
     "1": {
-      "title": "Hegseth Is Pressed to Clarify Lawyer’s Role in Promotion Decisions",
-      "link": "https://www.nytimes.com/2026/08/13/us/hegseth-jason-crow-military-promotions.html",
-      "summary": "Representative Jason Crow asked Defense Secretary Pete Hegseth to explain statements about his special adviser’s influence following a New York Times report.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-      "source": "BBC"
-    },
-    "3": {
       "title": "Three States to Execute Inmates on the Same Day",
       "link": "https://www.nytimes.com/2026/08/13/us/tennessee-alabama-oklahoma-executions.html",
       "summary": "One of the planned executions, in Tennessee, comes months after the state called off the execution of another inmate when medical staff could not find a vein for the lethal injection.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "How a Covid-Era Scramble Transformed Supreme Court Arguments",
+      "link": "https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html",
+      "summary": "Live audio, a new format and new voices have transformed and unsettled the court’s signature public ceremony.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party",
+      "link": "https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html",
+      "summary": "Some Democrats said the outcome showed that the moderate wing of the party carried more electoral weight, while Ms. Hong’s strong showing gave some progressives hope.",
       "source": "NYT"
     },
     "4": {
@@ -26,15 +26,15 @@
       "source": "BBC"
     },
     "5": {
-      "title": "Putin Visits Islands Seized from Japan in World War II, Angering Tokyo",
-      "link": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-      "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
-      "source": "NYT"
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+      "source": "BBC"
     },
     "6": {
-      "title": "Zambians voting as president bids for second term",
-      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
+      "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
+      "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
+      "summary": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
       "source": "BBC"
     }
   }
