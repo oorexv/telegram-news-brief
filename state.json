@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-13T13:07:21.365544-04:00",
+  "sent_at": "2026-08-13T15:07:13.846372-04:00",
   "items": {
     "1": {
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "summary": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November.",
-      "source": "BBC"
-    },
-    "2": {
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole.",
-      "source": "BBC"
-    },
-    "3": {
-      "title": "Tennessee and Oklahoma Execute Inmates on the Same Day",
-      "link": "https://www.nytimes.com/2026/08/13/us/tennessee-alabama-oklahoma-executions.html",
-      "summary": "A third execution is scheduled for later Thursday in Alabama.",
+      "title": "Wildfire Continues to Threaten California’s Famed Big Sur Region",
+      "link": "https://www.nytimes.com/2026/08/13/us/timber-fire-big-sur.html",
+      "summary": "The Timber fire has burned more than 4,000 acres and was 7 percent contained on Thursday.",
       "source": "NYT"
     },
+    "2": {
+      "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
+      "link": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html",
+      "summary": "The idea has been long in the making, but could be difficult to implement and lead to unintended consequences, former officials and security experts said.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
+      "source": "BBC"
+    },
     "4": {
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "summary": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November.",
+      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
       "source": "BBC"
     },
     "5": {
-      "title": "‘An English Summer Is Not the Same Anymore’",
-      "link": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html",
-      "summary": "With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet.",
-      "source": "NYT"
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "source": "BBC"
     },
     "6": {
-      "title": "Air India to test all pilots for banned substances",
-      "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
-      "source": "BBC"
+      "title": "Train Derails Near Town of Lewes in East Sussex, U.K.",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
+      "summary": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Nine other people were less seriously hurt.",
+      "source": "NYT"
     }
   }
 }
