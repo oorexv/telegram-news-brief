@@ -1,22 +1,22 @@
 {
-  "sent_at": "2026-08-13T18:07:20.334208-04:00",
+  "sent_at": "2026-08-13T21:07:11.771929-04:00",
   "items": {
     "1": {
+      "title": "What We Know About the Storms Battering the Midwest",
+      "link": "https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html",
+      "summary": "A lingering weather system has brought severe flooding and intense winds — including a few tornadoes — to Illinois, Indiana and Ohio.",
+      "source": "NYT"
+    },
+    "2": {
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "source": "BBC"
     },
-    "2": {
-      "title": "Ex-Officer Held in New Orleans Mass Shooting Plot Is Freed Without Charges",
-      "link": "https://www.nytimes.com/2026/08/13/us/mass-shooting-new-orleans-ex-police-released.html",
-      "summary": "Law enforcement officials had said that Christopher Gillum, a former police officer in North Carolina, planned to attack a large festival. He was released without charges.",
-      "source": "NYT"
-    },
     "3": {
-      "title": "Judge Dismisses Trump Administration’s Antisemitism Case Against Harvard",
-      "link": "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html",
-      "summary": "The government argued the university had not done enough to combat antisemitism during campus protests. A judge called the incidents “isolated and episodic.”",
+      "title": "California May Let Residents Choose ‘Jewish’ as an Ethnic Identifier",
+      "link": "https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html",
+      "summary": "A bill would allow Jews to identify themselves as an ethnic group on state forms. Supporters argue it’s a step toward acknowledging the complex nature of Jewish identity.",
       "source": "NYT"
     },
     "4": {
@@ -26,16 +26,16 @@
       "source": "BBC"
     },
     "5": {
+      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+      "link": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+      "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
+      "source": "NYT"
+    },
+    "6": {
       "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
       "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
       "source": "BBC"
-    },
-    "6": {
-      "title": "Train Derails Near Town of Lewes in East Sussex, U.K.",
-      "link": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
-      "summary": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Eighteen other people were less badly hurt.",
-      "source": "NYT"
     }
   }
 }
