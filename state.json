@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-15T11:07:14.730415-04:00",
+  "sent_at": "2026-08-15T13:07:11.303067-04:00",
   "items": {
     "1": {
+      "title": "Series of Michigan Shootings Leave 6 Dead, Including Gunman",
+      "link": "https://www.nytimes.com/2026/08/14/us/shooting-missaukee-county-michigan.html",
+      "summary": "The gunman, Chad Hickman, was found dead in a wooded area near Whitlock Lake in Caldwell Township, the authorities said. A motive for the shootings was not immediately known.",
+      "source": "NYT"
+    },
+    "2": {
       "title": "Five injured, one critically, in shooting at Virginia State University",
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
       "summary": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
       "source": "BBC"
     },
-    "2": {
+    "3": {
       "title": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
       "link": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
       "summary": "At 73, Sherrod Brown is mounting a comeback bid in Ohio. He is one of the Democrats his party is counting on to retake control of the Senate.",
       "source": "NYT"
     },
-    "3": {
-      "title": "What Is Happening at the Border in Big Bend National Park?",
-      "link": "https://www.nytimes.com/2026/08/15/us/border-big-bend-texas.html",
-      "summary": "Over the objections of environmentalists, local sheriffs and some state leaders, the Trump administration appears to be moving ahead with border infrastructure in one of Texas’ most beloved parks.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "Five injured, one critically, in shooting at Virginia State University",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
-      "source": "BBC"
+      "title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
+      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+      "summary": "The Lebanese health ministry said children were among those killed. The Israeli prime minister’s office said Hezbollah had struck first, injuring three Israeli soldiers.",
+      "source": "NYT"
     },
     "5": {
-      "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "link": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
-      "summary": "Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 170,000 Canadians want him gone.",
-      "source": "NYT"
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "source": "BBC"
     },
     "6": {
-      "title": "South Korea proposes talks to officially end war with North",
-      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-      "source": "BBC"
+      "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
+      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
+      "summary": "Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war.",
+      "source": "NYT"
     }
   }
 }
