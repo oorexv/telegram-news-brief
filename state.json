@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-15T13:07:11.303067-04:00",
+  "sent_at": "2026-08-15T15:07:10.422474-04:00",
   "items": {
     "1": {
+      "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
+      "link": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
+      "summary": "The party’s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire.",
+      "source": "NYT"
+    },
+    "2": {
       "title": "Series of Michigan Shootings Leave 6 Dead, Including Gunman",
       "link": "https://www.nytimes.com/2026/08/14/us/shooting-missaukee-county-michigan.html",
       "summary": "The gunman, Chad Hickman, was found dead in a wooded area near Whitlock Lake in Caldwell Township, the authorities said. A motive for the shootings was not immediately known.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Five injured, one critically, in shooting at Virginia State University",
+    "3": {
+      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+      "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
       "source": "BBC"
     },
-    "3": {
-      "title": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
-      "link": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
-      "summary": "At 73, Sherrod Brown is mounting a comeback bid in Ohio. He is one of the Democrats his party is counting on to retake control of the Senate.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
-      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
-      "summary": "The Lebanese health ministry said children were among those killed. The Israeli prime minister’s office said Hezbollah had struck first, injuring three Israeli soldiers.",
+      "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+      "link": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
+      "summary": "Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 170,000 Canadians want him gone.",
       "source": "NYT"
     },
     "5": {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fire burning through the major park was described as the country's worst in recent years.",
       "source": "BBC"
     },
     "6": {
-      "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
-      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
-      "summary": "Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war.",
-      "source": "NYT"
+      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
+      "source": "BBC"
     }
   }
 }
