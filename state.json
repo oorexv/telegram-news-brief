@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-16T13:07:13.701242-04:00",
+  "sent_at": "2026-08-16T15:07:13.635584-04:00",
   "items": {
     "1": {
-      "title": "Is the Democratic Party Facing Its Own Tea Party Moment?",
-      "link": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
-      "summary": "A string of primary wins by progressive candidates has revealed the strength of a high-energy insurgent movement but also its potential limitations.",
-      "source": "NYT"
+      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
+      "source": "BBC"
     },
     "2": {
-      "title": "A Free-for-All in Alaska as 17 Candidates Compete to Be Governor",
-      "link": "https://www.nytimes.com/2026/08/16/us/elections/alaska-governor-primary.html",
-      "summary": "Facing huge decisions, the oil-rich, cash-poor state will send four candidates to the final ballot in November. With so many candidates chasing so few voters, the hunt is intense.",
+      "title": "In ‘The Brink of War,’ a Return to an Era of Razor-Edge Diplomacy",
+      "link": "https://www.nytimes.com/2026/08/16/us/politics/brink-of-war-reagan-nuclear-weapons.html",
+      "summary": "A new film depicts the 1986 nuclear arms summit in Reykjavik, Iceland, between Ronald Reagan and Mikhail Gorbachev, which both offered and dashed hopes of a dramatic breakthrough.",
       "source": "NYT"
     },
     "3": {
-      "title": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General",
-      "link": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
-      "summary": "The new head of the Justice Department said on “Meet the Press” on Sunday that the president had never asked him to prosecute specific people — and never would.",
-      "source": "NYT"
-    },
-    "4": {
-      "title": "Two dead and evacuation under way as fires break out on Greek island",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
+      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
       "source": "BBC"
     },
-    "5": {
+    "4": {
       "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
       "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
       "source": "BBC"
     },
+    "5": {
+      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
+      "source": "BBC"
+    },
     "6": {
-      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-      "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-      "summary": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.",
-      "source": "NYT"
+      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
+      "source": "BBC"
     }
   }
 }
