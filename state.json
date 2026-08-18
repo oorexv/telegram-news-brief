@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-08-18T15:07:16.353143-04:00",
+  "sent_at": "2026-08-18T18:07:13.807501-04:00",
   "items": {
     "1": {
-      "title": "Trump Fired His Inspectors General. Their Replacements Have a Different Mission.",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-inspector-general.html",
-      "summary": "President Trump is installing his allies in the offices of inspector general, which are meant to provide independent government oversight.",
+      "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/liberia-deportees.html",
+      "summary": "The arrangement is one of the largest known deals that the Trump administration has struck to expel migrants who cannot be sent back to their home countries.",
       "source": "NYT"
     },
     "2": {
-      "title": "A Missile Alert Half a World Away Interrupts Court Hearing at Guantánamo",
-      "link": "https://www.nytimes.com/2026/08/18/us/guantanamo-hearing-iran-war.html",
-      "summary": "A possible expert witness was hurried off a video feed after an emergency alert in Dubai, just south of the Strait of Hormuz, a flashpoint in the U.S.-Iran war.",
+      "title": "Trump Officials Ignored Their Own University Investigations, Lawyer Says",
+      "link": "https://www.nytimes.com/2026/08/18/us/trump-administration-university-investigations-whistleblower.html",
+      "summary": "A former Justice Department lawyer says Trump administration leaders ignored findings that elite schools, including Brown and Columbia, hadn’t broken the law as they pressed them into deals.",
       "source": "NYT"
     },
     "3": {
-      "title": "Judge Allows Limited Testing in Trump Plan to Paint Eisenhower Building White",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/judge-paint-eisenhower-building-trump.html",
-      "summary": "A federal judge ruled that initial preparatory steps, including testing out paints on the building’s gray granite exterior, could proceed for now.",
+      "title": "University of Michigan Names President After Prior Pick Faced Brain Cancer",
+      "link": "https://www.nytimes.com/2026/08/18/us/university-michigan-president-cybele-raver.html",
+      "summary": "The university chose a Vanderbilt academic, Cybele Raver, after a previous candidate for the role had to step down because of a brain cancer diagnosis.",
       "source": "NYT"
     },
     "4": {
-      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-      "source": "BBC"
-    },
-    "5": {
       "title": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
       "link": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
-      "summary": "American and Syrian officials said Israel carried out the attack, the latest in a series of military interventions in Syria over the past two years.",
+      "summary": "The attack was the latest in a series of Israeli military interventions in Syria over the past two years.",
+      "source": "NYT"
+    },
+    "5": {
+      "title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+      "link": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
+      "summary": "They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in eastern Ukraine.",
       "source": "NYT"
     },
     "6": {
-      "title": "Earthquake rocks Spain's historic Granada, injuring three",
-      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
       "source": "BBC"
     }
   }
