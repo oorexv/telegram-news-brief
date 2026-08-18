@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-18T13:07:13.051690-04:00",
+  "sent_at": "2026-08-18T15:07:16.353143-04:00",
   "items": {
     "1": {
-      "title": "Hurricane Lala Destroyed a Hawaii Cemetery, Setting Off a Hunt for the Dead",
-      "link": "https://www.nytimes.com/2026/08/18/us/hurricane-lala-hawaii-naalehu-cemetery.html",
-      "summary": "In the hamlet of Naalehu, the floods of Hurricane Lala opened graves. One mother sought desperately for her son.",
+      "title": "Trump Fired His Inspectors General. Their Replacements Have a Different Mission.",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-inspector-general.html",
+      "summary": "President Trump is installing his allies in the offices of inspector general, which are meant to provide independent government oversight.",
       "source": "NYT"
     },
     "2": {
-      "title": "Trump Takes Aim at CNN Reporter Kristen Holmes During Event to Honor California Lifeguard",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-lifeguard-cnn-reporter.html",
-      "summary": "President Trump told a journalist to “be quiet” at a White House event for a California lifeguard and a boy he saved.",
+      "title": "A Missile Alert Half a World Away Interrupts Court Hearing at Guantánamo",
+      "link": "https://www.nytimes.com/2026/08/18/us/guantanamo-hearing-iran-war.html",
+      "summary": "A possible expert witness was hurried off a video feed after an emergency alert in Dubai, just south of the Strait of Hormuz, a flashpoint in the U.S.-Iran war.",
       "source": "NYT"
     },
     "3": {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/heres-the-latest",
-      "summary": "Voters in Alaska, Wyoming and Florida are nominating candidates for governor and the U.S. Senate on Tuesday, and a California district will move one step closer to finding a replacement for its disgraced former Congressman.",
+      "title": "Judge Allows Limited Testing in Trump Plan to Paint Eisenhower Building White",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/judge-paint-eisenhower-building-trump.html",
+      "summary": "A federal judge ruled that initial preparatory steps, including testing out paints on the building’s gray granite exterior, could proceed for now.",
       "source": "NYT"
     },
     "4": {
-      "title": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
-      "link": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
-      "summary": "In Chocó, a remote region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor said. Shakira visited to help draw awareness.",
-      "source": "NYT"
-    },
-    "5": {
-      "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
-      "link": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.",
+      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+      "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
       "source": "BBC"
     },
-    "6": {
-      "title": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
-      "link": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
-      "summary": "Intensifying restrictions have hit every part of the territory’s dealings, spurring worries about whether the Palestinian Authority can remain solvent.",
+    "5": {
+      "title": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
+      "link": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
+      "summary": "American and Syrian officials said Israel carried out the attack, the latest in a series of military interventions in Syria over the past two years.",
       "source": "NYT"
+    },
+    "6": {
+      "title": "Earthquake rocks Spain's historic Granada, injuring three",
+      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+      "source": "BBC"
     }
   }
 }
