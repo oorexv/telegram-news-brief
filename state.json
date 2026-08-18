@@ -1,35 +1,35 @@
 {
-  "sent_at": "2026-08-18T11:07:17.543021-04:00",
+  "sent_at": "2026-08-18T13:07:13.051690-04:00",
   "items": {
     "1": {
+      "title": "Hurricane Lala Destroyed a Hawaii Cemetery, Setting Off a Hunt for the Dead",
+      "link": "https://www.nytimes.com/2026/08/18/us/hurricane-lala-hawaii-naalehu-cemetery.html",
+      "summary": "In the hamlet of Naalehu, the floods of Hurricane Lala opened graves. One mother sought desperately for her son.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "Trump Takes Aim at CNN Reporter Kristen Holmes During Event to Honor California Lifeguard",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-lifeguard-cnn-reporter.html",
+      "summary": "President Trump told a journalist to “be quiet” at a White House event for a California lifeguard and a boy he saved.",
+      "source": "NYT"
+    },
+    "3": {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/heres-the-latest",
       "summary": "Voters in Alaska, Wyoming and Florida are nominating candidates for governor and the U.S. Senate on Tuesday, and a California district will move one step closer to finding a replacement for its disgraced former Congressman.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Google Just Made It Easier for Campaigns to Send You Fund-Raising Emails",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/google-political-campaigns-email-spam.html",
-      "summary": "Republicans previously sued Google claiming its spam filter was biased, but the case was dismissed. The company will now allow verified campaigns to more easily bypass the spam filter.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "Residents on Hawaii’s Big Island Look to Help One Another After Hurricane Lala",
-      "link": "https://www.nytimes.com/2026/08/18/us/hawaii-hurricane-lala-community-relief.html",
-      "summary": "In a remote region of the ravaged Big Island, there were community gas runs, donated turkey stuffing, a makeshift emergency broadcast and even a helicopter.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
-      "link": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
-      "summary": "They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in eastern Ukraine.",
-      "source": "NYT"
-    },
-    "5": {
       "title": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
       "link": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
       "summary": "In Chocó, a remote region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor said. Shakira visited to help draw awareness.",
       "source": "NYT"
+    },
+    "5": {
+      "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
+      "link": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.",
+      "source": "BBC"
     },
     "6": {
       "title": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
