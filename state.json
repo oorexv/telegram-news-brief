@@ -1,5 +1,5 @@
 {
-  "sent_at": "2026-08-22T15:07:12.413156-04:00",
+  "sent_at": "2026-08-22T18:07:13.164189-04:00",
   "items": {
     "1": {
       "title": "Nancy Kassebaum, First Woman to Chair a Major Senate Panel, Dies at 94",
@@ -8,22 +8,22 @@
       "source": "NYT"
     },
     "2": {
-      "title": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
-      "link": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
-      "summary": "Race preparations have snarled traffic, rerouted flights and forced the National Gallery of Art to conduct vibration tests.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
-      "link": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
-      "summary": "As Republicans have embraced tough measures to clear the streets, no group has led the way more than the Cicero Institute, founded by the venture capitalist Joe Lonsdale.",
-      "source": "NYT"
-    },
-    "4": {
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
       "source": "BBC"
+    },
+    "3": {
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "source": "BBC"
+    },
+    "4": {
+      "title": "How Two British Historians Made a Smash Hit Podcast",
+      "link": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
+      "summary": "They took on topics as diverse as fall of the Aztecs, the French Revolution, the assassination of Abraham Lincoln, and history’s greatest monkeys. The rest is history.",
+      "source": "NYT"
     },
     "5": {
       "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
@@ -32,10 +32,10 @@
       "source": "NYT"
     },
     "6": {
-      "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-      "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-      "summary": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
-      "source": "NYT"
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "source": "BBC"
     }
   }
 }
