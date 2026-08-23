@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-22T18:07:13.164189-04:00",
+  "sent_at": "2026-08-22T21:07:15.272930-04:00",
   "items": {
     "1": {
-      "title": "Nancy Kassebaum, First Woman to Chair a Major Senate Panel, Dies at 94",
-      "link": "https://www.nytimes.com/2026/08/22/us/politics/nancy-kassebaum-dead.html",
-      "summary": "A moderate Republican from Kansas, she served three terms before tiring of political strife. “I couldn’t get elected today,” she said in 2013.",
+      "title": "Violent Extremist Who Targeted Young People Online Is Sentenced to 77 Years",
+      "link": "https://www.nytimes.com/2026/08/22/us/kyle-spitze-764-group-sentenced.html",
+      "summary": "Kyle William Spitze was part of an online extremist movement that coerces young people to do self-harm, officials said. Two of his victims died by suicide.",
       "source": "NYT"
     },
     "2": {
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-      "source": "BBC"
+      "title": "‘It’s Been Terrible’: Thousands in Indiana Remain Without Power",
+      "link": "https://www.nytimes.com/2026/08/22/us/gary-indiana-11-day-power-outage.html",
+      "summary": "Gov. Mike Braun called on the local utility to “match the urgency” of Gary area residents who have had to endure an outage approaching its second week.",
+      "source": "NYT"
     },
     "3": {
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "source": "BBC"
+      "title": "Judge Denies New Trial for Karmelo Anthony in Texas Teen’s Killing",
+      "link": "https://www.nytimes.com/2026/08/22/us/karmelo-anthony-texas-stabbing.html",
+      "summary": "Mr. Anthony, 19, was convicted of murder in the fatal stabbing of Austin Metcalf at a high school track meet last year. His lawyers are appealing the case.",
+      "source": "NYT"
     },
     "4": {
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+      "source": "BBC"
+    },
+    "5": {
       "title": "How Two British Historians Made a Smash Hit Podcast",
       "link": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
       "summary": "They took on topics as diverse as fall of the Aztecs, the French Revolution, the assassination of Abraham Lincoln, and history’s greatest monkeys. The rest is history.",
       "source": "NYT"
     },
-    "5": {
+    "6": {
       "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
       "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
       "summary": "Prime Minister Mark Carney gave a powerful speech to Canadians on Saturday morning, hours after ordering negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.",
       "source": "NYT"
-    },
-    "6": {
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-      "source": "BBC"
     }
   }
 }
