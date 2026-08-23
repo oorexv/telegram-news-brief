@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-23T15:07:10.878091-04:00",
+  "sent_at": "2026-08-23T18:07:14.738486-04:00",
   "items": {
     "1": {
-      "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
-      "link": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
-      "summary": "The Hawk fire has burned over 10,000 acres and is encroaching on the northern part of the city. Residents of 14,000 homes have been told to flee, and the governor issued a state of emergency.",
+      "title": "Trump’s Economic Approach Draws Concern From Some Republicans",
+      "link": "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html",
+      "summary": "A plan to lower tariffs on imported beef and trade tensions with Canada have compounded some G.O.P. worries about a central issue in the midterms.",
       "source": "NYT"
     },
     "2": {
-      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "title": "Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.",
+      "link": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html",
+      "summary": "It was the final, major event planned for the nation’s 250th anniversary celebrations. The president took a lap.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "French Tourist Dies in Death Valley During 116-Degree Heat",
+      "link": "https://www.nytimes.com/2026/08/23/us/french-tourist-dead-death-valley.html",
+      "summary": "The 68-year-old tourist and his companion were driving through Death Valley National Park on a remote road last week when their car got stuck in mud, officials said.",
+      "source": "NYT"
+    },
+    "4": {
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
       "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
       "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
       "source": "BBC"
     },
-    "3": {
-      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
-      "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+    "5": {
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "source": "BBC"
     },
-    "4": {
+    "6": {
       "title": "Guinea rubbish landfill collapse kills 30",
       "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
       "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
       "source": "BBC"
-    },
-    "5": {
-      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-      "source": "BBC"
-    },
-    "6": {
-      "title": "What to Know About the Ebola Outbreak Centered in Congo",
-      "link": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
-      "summary": "The outbreak in the Democratic Republic of Congo was declared 100 days ago and is spreading faster than any on record, officials said.",
-      "source": "NYT"
     }
   }
 }
