@@ -1,17 +1,17 @@
 {
-  "sent_at": "2026-08-23T13:07:13.607323-04:00",
+  "sent_at": "2026-08-23T15:07:10.878091-04:00",
   "items": {
     "1": {
-      "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+      "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
+      "link": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
+      "summary": "The Hawk fire has burned over 10,000 acres and is encroaching on the northern part of the city. Residents of 14,000 homes have been told to flee, and the governor issued a state of emergency.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
       "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
       "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
       "source": "BBC"
-    },
-    "2": {
-      "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
-      "link": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
-      "summary": "The Hawk fire has burned more than 10,000 acres and is encroaching on the northern part of the city, causing the governor to issue a state of emergency.",
-      "source": "NYT"
     },
     "3": {
       "title": "Thousands struggling without power in Indiana 12 days after severe storms",
@@ -20,21 +20,21 @@
       "source": "BBC"
     },
     "4": {
-      "title": "Iran Warns Gulf States Not to Join Trump’s Economic War",
-      "link": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
-      "summary": "Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.",
-      "source": "NYT"
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "source": "BBC"
     },
     "5": {
-      "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
       "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
       "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
       "source": "BBC"
     },
     "6": {
-      "title": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
-      "link": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
-      "summary": "Buoys, dog muzzles, capes, national flags and “base metal statuettes” from Canada are now more expensive for U.S. shoppers.",
+      "title": "What to Know About the Ebola Outbreak Centered in Congo",
+      "link": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+      "summary": "The outbreak in the Democratic Republic of Congo was declared 100 days ago and is spreading faster than any on record, officials said.",
       "source": "NYT"
     }
   }
