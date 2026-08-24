@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-08-23T21:07:14.930960-04:00",
+  "sent_at": "2026-08-24T07:07:16.401712-04:00",
   "items": {
     "1": {
-      "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
-      "link": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
-      "summary": "The Hawk fire has burned over 13,000 acres and is encroaching on the northern part of the city. About 42,000 people are under formal evacuation orders and thousands more have been urged to flee.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "Trump’s Economic Approach Draws Concern From Some Republicans",
-      "link": "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html",
-      "summary": "A plan to lower tariffs on imported beef and trade tensions with Canada have compounded some G.O.P. worries about a central issue in the midterms.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.",
-      "link": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html",
-      "summary": "It was the final, major event planned for the nation’s 250th anniversary celebrations. The president took a lap.",
-      "source": "NYT"
-    },
-    "4": {
-      "title": "Trump waves green flag to start IndyCar race through Washington streets",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "title": "Iran faces 'economic D-Day', US treasury secretary warns",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
       "source": "BBC"
     },
+    "2": {
+      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+      "source": "BBC"
+    },
+    "3": {
+      "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+      "source": "BBC"
+    },
+    "4": {
+      "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+      "link": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+      "summary": "In his first foreign trip since taking office, Prime Minister Andy Burnham affirmed support for Kyiv despite new warnings from Moscow of consequences for doing so.",
+      "source": "NYT"
+    },
     "5": {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
       "source": "BBC"
     },
     "6": {
-      "title": "Guinea rubbish landfill collapse kills 30",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
       "source": "BBC"
     }
   }
