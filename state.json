@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-08-25T13:07:13.569738-04:00",
+  "sent_at": "2026-08-25T15:07:13.745253-04:00",
   "items": {
     "1": {
-      "title": "John Fetterman’s Popularity With Republicans Surges, Poll Finds",
-      "link": "https://www.nytimes.com/2026/08/25/us/politics/john-fetterman-poll-republicans-democrats-pennsylvania.html",
-      "summary": "Pennsylvania Republicans now view John Fetterman, the state’s Democratic senator, more favorably than its sitting G.O.P. senator, a New York Times/Philadelphia Inquirer/Siena poll found.",
+      "title": "South Carolina Election Becomes Test for Trump",
+      "link": "https://www.nytimes.com/2026/08/25/us/politics/south-carolina-runoff-trump-test.html",
+      "summary": "Runoffs in the state are typically sleepy, but the Republican Senate contest between Darline Graham and Ralph Norman seemed to be drawing relatively high turnout.",
       "source": "NYT"
     },
     "2": {
-      "title": "Hegseth’s Purge of Top Generals Leaves the Army Rudderless",
-      "link": "https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html",
-      "summary": "The leadership vacuum comes as the Army is trying to adapt to a new kind of war dominated by deadly drones.",
+      "title": "Supreme Court Ruling on Mail-in Voting Could Add to Election Confusion",
+      "link": "https://www.nytimes.com/2026/08/25/us/mail-in-voting-states.html",
+      "summary": "The limits on mail-in voting may not go into effect by November, with at least one state vowing to sue. But some states and experts warned about further voter confusion.",
       "source": "NYT"
     },
     "3": {
-      "title": "Trump says all mines cleared from Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+      "title": "Dolly Parton: The music legend who sang from the heart",
+      "link": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
       "source": "BBC"
     },
     "4": {
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-      "source": "BBC"
+      "title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
+      "link": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
+      "summary": "Videos showed Israeli troops standing by as Zvi Sukkot attacked the monument with a sledgehammer. The military said soldiers had stopped the demolition.",
+      "source": "NYT"
     },
     "5": {
-      "title": "Two unvaccinated people die of measles in Pennsylvania",
-      "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-      "source": "BBC"
-    },
-    "6": {
       "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
       "link": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
       "summary": "Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.",
+      "source": "NYT"
+    },
+    "6": {
+      "title": "Dozens Massacred in Haiti, Officials Say, Heightening Fears of Gangs",
+      "link": "https://www.nytimes.com/2026/08/25/world/americas/haiti-massacre-kenscoff.html",
+      "summary": "Gangs targeted a key community on the outskirts of the capital, raising fears about the gangs’ next move. The mayor said at least 25 people had been killed, but the U.N. put the death toll at 47.",
       "source": "NYT"
     }
   }
