@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-08-24T21:07:13.654370-04:00",
+  "sent_at": "2026-08-25T07:07:13.484572-04:00",
   "items": {
     "1": {
-      "title": "Fast-moving wildfire forces thousands to evacuate near Reno, Nevada",
-      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Firefighters are still working to contain the blaze, which has burned 15,000 acres and injured seven people, officials say.",
-      "source": "BBC"
+      "title": "Trump Administration to Target Visas of Up To 200,000 Foreign Citizens Applying for Asylum",
+      "link": "https://www.nytimes.com/2026/08/24/us/politics/trump-mass-visa-revocation-asylum.html",
+      "summary": "The State Department, in a move that could affect as many as 200,000 visa holders and asylum applicants, has begun its review. Cancellations could occur in waves.",
+      "source": "NYT"
     },
     "2": {
-      "title": "How Canada could hit back to hurt the US economy - and Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+      "title": "San Francisco 49ers owner jailed after prostitution arrest",
+      "link": "https://www.bbc.co.uk/news/articles/c790wyyv71vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jed York pleaded no contest to two charges in Ohio after being arrested for soliciting prostitution.",
       "source": "BBC"
     },
     "3": {
-      "title": "Trump’s Attempt to Strangle Iran’s Economy Depends on China’s Cooperation",
-      "link": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
-      "summary": "The U.S. has spent 20 years promising ‘crippling sanctions’ on Iran. But the latest effort comes with a reverse twist, after military action failed to accomplish President Trump’s goals.",
+      "title": "At Least 1 in 4 NFL Players Gets CTE, Major New Study Finds",
+      "link": "https://www.nytimes.com/2026/08/25/us/nfl-cte-brain-disease.html",
+      "summary": "The actual prevalence, researchers said, may be much higher.",
       "source": "NYT"
     },
     "4": {
-      "title": "Man Who Told of a Childhood With Wolves Dies at 80",
-      "link": "https://www.nytimes.com/2026/08/24/world/europe/spain-wolf-boy-dead.html",
-      "summary": "Marcos Rodríguez Pantoja’s improbable story of a wild youth became the subject of a study, and inspired a novel and film.",
-      "source": "NYT"
-    },
-    "5": {
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
       "source": "BBC"
     },
+    "5": {
+      "title": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
+      "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
+      "summary": "Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf.",
+      "source": "NYT"
+    },
     "6": {
-      "title": "Moment tornado tears through southern France",
-      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
-      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+      "title": "US firefighters say major blaze near Reno about a quarter contained",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
       "source": "BBC"
     }
   }
