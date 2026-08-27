@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-08-27T15:07:12.722114-04:00",
+  "sent_at": "2026-08-27T18:07:13.699148-04:00",
   "items": {
     "1": {
-      "title": "'We want them home': Families await word on loved ones missing in Nepal floods",
-      "link": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 1,300 people are missing, including dozens of Americans and Canadians. Nepali authorities say more than 380 people have died.",
-      "source": "BBC"
+      "title": "Fired Journalists From Stars and Stripes Sue Pentagon",
+      "link": "https://www.nytimes.com/2026/08/27/us/politics/stars-and-stripes-fired-journalists-lawsuit-pentagon.html",
+      "summary": "Three journalists dismissed from Stars and Stripes accused the government of violating their First Amendment rights, asking the courts to stop their termination.",
+      "source": "NYT"
     },
     "2": {
-      "title": "Trump signs order to rename Lake Ontario to Lake America",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
-      "source": "BBC"
+      "title": "White House Construction May Have Contributed to Close Call With Trump’s Helicopter",
+      "link": "https://www.nytimes.com/2026/08/27/us/marine-one-white-house-construction.html",
+      "summary": "A controller let a jet take off after missing warnings that Marine One was about to fly through the area, according to the National Transportation Safety Board.",
+      "source": "NYT"
     },
     "3": {
-      "title": "Obama to Headline Fund-Raiser With Jeffries in New York",
-      "link": "https://www.nytimes.com/2026/08/27/us/politics/obama-fundraiser-gop-convention.html",
-      "summary": "The top Democrats will gather party donors on Sept. 10, just as Republicans converge in Texas for their unusual midterm convention.",
+      "title": "In Trump’s Washington, Ballooning National Debt Stirs Little Action",
+      "link": "https://www.nytimes.com/2026/08/27/us/politics/national-debt-trump-reaction.html",
+      "summary": "The relative indifference to the news that the U.S. government now owes $40 trillion demonstrates how drastically the politics of deficit spending has changed.",
       "source": "NYT"
     },
     "4": {
-      "title": "Live Updates: Rescuers Scour Remote Valleys, as Survivors Describe Families Swept Away",
+      "title": "Live Updates: Rescuers Search for Missing and Stranded Under Threat of More Floods",
       "link": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
-      "summary": "Officials said hundreds were killed in Nepal and Tibet in a massive flood. Stunned witnesses described a torrent of debris and water carrying away villages in minutes.",
+      "summary": "Officials said hundreds were killed in Nepal and Tibet, and more than 1,400 people are missing. Stunned witnesses described a torrent of debris and water carrying away villages in minutes.",
       "source": "NYT"
     },
     "5": {
-      "title": "Canada Hires U.S. Scholars From Harvard and Other Top Universities",
-      "link": "https://www.nytimes.com/2026/08/27/world/canada/canada-universities-hire-us-researchers.html",
-      "summary": "A crackdown on American academia by the Trump administration has handed Canadian universities a rare opportunity to lure some top researchers north.",
+      "title": "Yielding on French Could Restart Trade Talks, Canadian Officials Say",
+      "link": "https://www.nytimes.com/2026/08/27/world/canada/trade-war-french-language.html",
+      "summary": "Canada’s minister in charge of trade with the U.S. was responding to comments by Jamieson Greer, the U.S. trade representative. But that was before any mention of Lake Ontario.",
       "source": "NYT"
     },
     "6": {
-      "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-      "summary": "The 89-year-old's condition is described as \"extremely serious\" and members of his family have visited him in hospital.",
+      "title": "Trump signs order to rename Lake Ontario as Lake America",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
       "source": "BBC"
     }
   }
