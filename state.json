@@ -1,28 +1,28 @@
 {
-  "sent_at": "2026-08-27T11:07:13.409702-04:00",
+  "sent_at": "2026-08-27T13:07:13.570527-04:00",
   "items": {
     "1": {
+      "title": "Jury Begins Deliberations in Lindsay Clancy Murder Trial",
+      "link": "https://www.nytimes.com/2026/08/27/us/lindsay-clancy-trial-closing.html",
+      "summary": "In closing arguments, Ms. Clancy’s lawyer called her “a darn good mother.” The prosecutor accused her of “extreme atrocity and cruelty.”",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "DeSantis Administration Misspent $10 Million, Grand Jury Says",
+      "link": "https://www.nytimes.com/2026/08/27/us/casey-desantis-charity-hope-garden-medicaid-settlement.html",
+      "summary": "A charity tied to Gov. Ron DeSantis’s wife received the money from a state Medicaid settlement and diverted it to political committees supporting a cause favored by the governor.",
+      "source": "NYT"
+    },
+    "3": {
       "title": "Trump Administration to Expand Deportation Flights to Haiti",
       "link": "https://www.nytimes.com/2026/08/27/us/politics/haiti-deportation-flights.html",
       "summary": "Flights to the Caribbean nation will increase from once a month to once a week now that the Supreme Court allowed President Trump to cancel a humanitarian program.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Democrats to Force Senate Vote on Israel’s Human Rights Practices",
-      "link": "https://www.nytimes.com/2026/08/27/us/politics/senate-democrats-israel-human-rights.html",
-      "summary": "Senator Chris Van Hollen of Maryland is leading a group of Democrats seeking answers about violence against Palestinians in the Israeli-occupied West Bank.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "Trump Raises Money in Texas With Control of the Senate in the Balance",
-      "link": "https://www.nytimes.com/2026/08/27/us/politics/trump-texas-senate-fund-raiser.html",
-      "summary": "Many Republicans are hoping for financial support from President Trump, whose fund-raising power in the party remains unmatched despite his low poll numbers.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "Live Updates: Helicopters Rescue Nepal Flood Survivors, With More Than 1,000 Still Missing",
+      "title": "Live Updates: Rescuers Scour Remote Valleys, as Survivors Describe Families Swept Away",
       "link": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
-      "summary": "Officials said hundreds were killed in Nepal and Tibet. New York Times reporters flew with rescuers to remote Himalayan areas, where shocked survivors described a torrent of mud sweeping away villages.",
+      "summary": "Officials said hundreds were killed in Nepal and Tibet in a massive flood. Stunned witnesses described a torrent of debris and water carrying away villages in minutes.",
       "source": "NYT"
     },
     "5": {
@@ -32,10 +32,10 @@
       "source": "BBC"
     },
     "6": {
-      "title": "'Silence is complicity' - top footballer hits out over Cameroon femicides",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The killing of at least eight women in a week has sparked outrage in Cameroon.",
-      "source": "BBC"
+      "title": "Backing Off French Issue Could Restart U.S. Trade Talks, Canadian Official Says",
+      "link": "https://www.nytimes.com/2026/08/27/world/canada/trade-war-french-language.html",
+      "summary": "The minister in charge of trade with the United States was responding to comments by Jamieson Greer, the U.S. trade representative, to a Canadian broadcaster.",
+      "source": "NYT"
     }
   }
 }
