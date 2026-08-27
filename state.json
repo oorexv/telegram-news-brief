@@ -1,22 +1,22 @@
 {
-  "sent_at": "2026-08-26T18:07:11.834949-04:00",
+  "sent_at": "2026-08-26T21:07:16.289383-04:00",
   "items": {
     "1": {
-      "title": "West Point Climate Professor Says He Was Fired for Refusing to ‘Defy Science’",
-      "link": "https://www.nytimes.com/2026/08/26/us/politics/west-point-climate-professor-lawsuit.html",
-      "summary": "Dr. Adam Kalkstein is suing the U. S. Military Academy, where he was a professor of geography and the only climate scientist, after being fired.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "He Once Launched a Grenade for Trump. Now He’ll Be White House Counsel.",
+      "title": "New White House Counsel Isn’t a Yes Man, but He Won’t Say No, Either",
       "link": "https://www.nytimes.com/2026/08/26/us/politics/will-scharf-white-house-counsel.html",
       "summary": "Will Scharf has proved his loyalty to President Trump, even filming a TV ad in which he blows away documents from the president’s legal cases. His new role will be to provide in-house legal advice.",
       "source": "NYT"
     },
+    "2": {
+      "title": "Judge Allows Option of Manslaughter Verdict in Lindsay Clancy Case",
+      "link": "https://www.nytimes.com/2026/08/26/us/lindsay-clancy-manslaughter-murder.html",
+      "summary": "If jurors find Ms. Clancy guilty in the strangling deaths of her three children, they will choose among first-degree murder, second-degree murder and manslaughter.",
+      "source": "NYT"
+    },
     "3": {
-      "title": "Maryland Judge Blocks Democratic Redistricting Measure",
-      "link": "https://www.nytimes.com/2026/08/26/us/maryland-redistricting-constitutional-amendment.html",
-      "summary": "A judge found that Democratic lawmakers had not followed proper procedures in passing a redistricting amendment, but the state Supreme Court will have the final say.",
+      "title": "He Thought He Destroyed a Flock Camera, but It Was a Decoy, Police Say",
+      "link": "https://www.nytimes.com/2026/08/26/us/flock-camera-decoy-vandalism-arrest-florida.html",
+      "summary": "A Florida man is facing three felony charges over the Aug. 20 vandalism of a plastic reproduction of one of the automated license plate readers, the authorities said.",
       "source": "NYT"
     },
     "4": {
@@ -26,15 +26,15 @@
       "source": "NYT"
     },
     "5": {
+      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+      "source": "BBC"
+    },
+    "6": {
       "title": "Canadians Stand Their Ground Amid New Trump Tariffs and Expanding U.S.-Canada Trade War",
       "link": "https://www.nytimes.com/2026/08/26/world/canada/carney-canada-trump-tariffs-retaliate.html",
       "summary": "Business owners are preparing for financial pain after the latest U.S.-Canada trade talks collapsed. But many Canadians are embracing a show of resistance.",
-      "source": "NYT"
-    },
-    "6": {
-      "title": "Kurdish-Led Militia in Syria Disbands in Boost for U.S.-Backed Government",
-      "link": "https://www.nytimes.com/2026/08/26/world/middleeast/kurdish-militia-syria-disbands.html",
-      "summary": "The Syrian Democratic Forces, a Kurdish-led armed group that has lost territory and authority in recent months, will integrate with the country’s military.",
       "source": "NYT"
     }
   }
