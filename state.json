@@ -1,11 +1,11 @@
 {
-  "sent_at": "2026-08-27T07:07:12.729924-04:00",
+  "sent_at": "2026-08-27T11:07:13.409702-04:00",
   "items": {
     "1": {
-      "title": "Dozens of US and Canadian citizens missing after flash flooding in Nepal",
-      "link": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "They are among hundreds of people still unaccounted for, with authorities for both countries saying they are closely monitoring the situation.",
-      "source": "BBC"
+      "title": "Trump Administration to Expand Deportation Flights to Haiti",
+      "link": "https://www.nytimes.com/2026/08/27/us/politics/haiti-deportation-flights.html",
+      "summary": "Flights to the Caribbean nation will increase from once a month to once a week now that the Supreme Court allowed President Trump to cancel a humanitarian program.",
+      "source": "NYT"
     },
     "2": {
       "title": "Democrats to Force Senate Vote on Israel’s Human Rights Practices",
@@ -14,28 +14,28 @@
       "source": "NYT"
     },
     "3": {
-      "title": "Trump’s Strength in Primaries is Clear. The Midterms Pose a Different Test.",
-      "link": "https://www.nytimes.com/2026/08/27/us/politics/trump-midterm-election-republicans.html",
-      "summary": "The president’s pull with the party base has been clear and his resources are vast. But his low approval ratings make him a liability with swing voters.",
+      "title": "Trump Raises Money in Texas With Control of the Senate in the Balance",
+      "link": "https://www.nytimes.com/2026/08/27/us/politics/trump-texas-senate-fund-raiser.html",
+      "summary": "Many Republicans are hoping for financial support from President Trump, whose fund-raising power in the party remains unmatched despite his low poll numbers.",
       "source": "NYT"
     },
     "4": {
-      "title": "Live Updates: Rescuers Scour Himalayan Valleys for Survivors After Deadly Flood",
+      "title": "Live Updates: Helicopters Rescue Nepal Flood Survivors, With More Than 1,000 Still Missing",
       "link": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
-      "summary": "More than 1,000 people were missing in Nepal and the Tibet region of China after a torrent of mud, water and ice swept away villages and bridges. Officials said 273 people had been confirmed killed.",
+      "summary": "Officials said hundreds were killed in Nepal and Tibet. New York Times reporters flew with rescuers to remote Himalayan areas, where shocked survivors described a torrent of mud sweeping away villages.",
       "source": "NYT"
     },
     "5": {
-      "title": "Tanzania's VP expelled from ruling party for indiscipline as his successor named",
-      "link": "https://www.bbc.co.uk/news/articles/cp3kwgyp1vwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nchimbi announced his resignation earlier this week after reportedly falling out with President Samia.",
+      "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+      "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.",
       "source": "BBC"
     },
     "6": {
-      "title": "Where Drones Cannot See, the Ukraine War Is a Deadly Game of Cat and Mouse",
-      "link": "https://www.nytimes.com/2026/08/27/world/europe/ukraine-russia-war-zaporizhzhia-frontline-fighting.html",
-      "summary": "Russian troops are trying to infiltrate the vast, overgrown reservoir basin of a dam they blew up three years ago as Ukrainian soldiers hunt them at close quarters.",
-      "source": "NYT"
+      "title": "'Silence is complicity' - top footballer hits out over Cameroon femicides",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The killing of at least eight women in a week has sparked outrage in Cameroon.",
+      "source": "BBC"
     }
   }
 }
