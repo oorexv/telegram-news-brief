@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-08-28T11:07:16.751649-04:00",
+  "sent_at": "2026-08-28T13:07:25.981996-04:00",
   "items": {
     "1": {
-      "title": "For Once, a New York Jet Is Destined to Win Something",
-      "link": "https://www.nytimes.com/2026/08/28/us/politics/new-york-jets-house-race-feely-shah.html",
-      "summary": "A House race in Arizona pits Jay Feely, a former Jets kicker, against Amish Shah, a former sideline doctor for the team. Jets fans in the district say it’s a welcome distraction from all the losing.",
+      "title": "Judge Excludes Key Confession in Sept. 11 Case",
+      "link": "https://www.nytimes.com/2026/08/28/us/politics/september11-confession-trial.html",
+      "summary": "Prosecutors argued the statements by the defendant, Khalid Shaikh Mohammed, were crucial evidence for the eventual death-penalty trial.",
       "source": "NYT"
     },
     "2": {
-      "title": "With Term Winding Down, Pelosi Tries to Anoint a Successor",
-      "link": "https://www.nytimes.com/2026/08/28/us/pelosi-connie-chan-congress.html",
-      "summary": "Representative Nancy Pelosi, the former House speaker, has been working hard on behalf of Connie Chan, a San Francisco supervisor with a relatively low profile in California.",
-      "source": "NYT"
+      "title": "'Our parents were crossing the border an hour before the flood hit'",
+      "link": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
+      "source": "BBC"
     },
     "3": {
-      "title": "How Key Oil Stockpiles Dwindled During the War in Iran",
-      "link": "https://www.nytimes.com/video/us/100000011093055/how-key-oil-stockpiles-dwindled-during-the-war-in-iran.html",
-      "summary": "Our energy reporter Rebecca F. Elliott explains how oil reserves helped prevent an oil shock caused by the war in Iran from getting even worse — and how low those reserves are now.",
-      "source": "NYT"
+      "title": "Watch: Puppy rescued from drain using a bucket and cheese",
+      "link": "https://www.bbc.co.uk/news/videos/c5ydgr93x0po?at_medium=RSS&at_campaign=rss",
+      "summary": "The Florida puppy has since been adopted after being turned over to animal control, according to the Tampa Police Department.",
+      "source": "BBC"
     },
     "4": {
-      "title": "Live Updates: Nepal Nearly Doubles Number of Missing to 1,900 Amid Desperate Search for Survivors",
-      "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
-      "summary": "A spokeswoman for the disaster relief agency said the tally grew after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new possible flooding.",
-      "source": "NYT"
-    },
-    "5": {
       "title": "Inside Afghanistan’s Secret Schools for Girls",
       "link": "https://www.nytimes.com/2026/08/28/world/asia/afghanistan-girls-education.html",
       "summary": "The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules.",
       "source": "NYT"
     },
+    "5": {
+      "title": "Violence breaks out in Ceuta as migrant crisis continues",
+      "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
+      "source": "BBC"
+    },
     "6": {
-      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
-      "link": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
-      "summary": "The usually genial country is been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+      "title": "Live Updates: Nepal Roughly Doubles Number of Missing to 1,900 Amid Desperate Search for Survivors",
+      "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
+      "summary": "A spokeswoman for the disaster relief agency said the tally grew after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new possible flooding.",
       "source": "NYT"
     }
   }
