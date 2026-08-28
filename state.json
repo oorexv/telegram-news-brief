@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-28T13:07:25.981996-04:00",
+  "sent_at": "2026-08-28T15:07:18.705231-04:00",
   "items": {
     "1": {
-      "title": "Judge Excludes Key Confession in Sept. 11 Case",
-      "link": "https://www.nytimes.com/2026/08/28/us/politics/september11-confession-trial.html",
-      "summary": "Prosecutors argued the statements by the defendant, Khalid Shaikh Mohammed, were crucial evidence for the eventual death-penalty trial.",
+      "title": "Trump Administration Asks Supreme Court to Uphold Ban on Transgender Troops",
+      "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-supreme-court-transgender-troops.html",
+      "summary": "President Trump issued an executive order barring transgender service members from the military as part of a broader attack on transgender rights.",
       "source": "NYT"
     },
     "2": {
-      "title": "'Our parents were crossing the border an hour before the flood hit'",
-      "link": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
-      "source": "BBC"
-    },
-    "3": {
-      "title": "Watch: Puppy rescued from drain using a bucket and cheese",
-      "link": "https://www.bbc.co.uk/news/videos/c5ydgr93x0po?at_medium=RSS&at_campaign=rss",
-      "summary": "The Florida puppy has since been adopted after being turned over to animal control, according to the Tampa Police Department.",
-      "source": "BBC"
-    },
-    "4": {
-      "title": "Inside Afghanistan’s Secret Schools for Girls",
-      "link": "https://www.nytimes.com/2026/08/28/world/asia/afghanistan-girls-education.html",
-      "summary": "The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules.",
+      "title": "The Local: Michael Che on First Avenue",
+      "link": "https://www.nytimes.com/2026/08/28/us/michael-che-first-ave.html",
+      "summary": "And, of course, pickles at the State Fair.",
       "source": "NYT"
     },
-    "5": {
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
-      "source": "BBC"
+    "3": {
+      "title": "Tank That Imploded at Washington Paper Plant, Killing 11, Was Known to Be Unsafe, Report Says",
+      "link": "https://www.nytimes.com/2026/08/28/us/longview-chemical-tank-warnings.html",
+      "summary": "A chemical disaster in Washington in May involved a tank that had been deemed at risk of failure nearly a year before, according to federal investigators.",
+      "source": "NYT"
     },
-    "6": {
+    "4": {
       "title": "Live Updates: Nepal Roughly Doubles Number of Missing to 1,900 Amid Desperate Search for Survivors",
       "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
       "summary": "A spokeswoman for the disaster relief agency said the tally grew after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new possible flooding.",
       "source": "NYT"
+    },
+    "5": {
+      "title": "Why Many Iranians Are Losing Hope After Six Months of War",
+      "link": "https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html",
+      "summary": "Iranians have become increasingly desperate, as they grapple with an economic crisis made worse by the conflict and grow increasingly skeptical about President Trump’s motives.",
+      "source": "NYT"
+    },
+    "6": {
+      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
+      "source": "BBC"
     }
   }
 }
