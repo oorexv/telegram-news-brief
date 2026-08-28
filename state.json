@@ -1,22 +1,22 @@
 {
-  "sent_at": "2026-08-27T18:07:13.699148-04:00",
+  "sent_at": "2026-08-27T21:07:12.201306-04:00",
   "items": {
     "1": {
-      "title": "Fired Journalists From Stars and Stripes Sue Pentagon",
-      "link": "https://www.nytimes.com/2026/08/27/us/politics/stars-and-stripes-fired-journalists-lawsuit-pentagon.html",
-      "summary": "Three journalists dismissed from Stars and Stripes accused the government of violating their First Amendment rights, asking the courts to stop their termination.",
-      "source": "NYT"
+      "title": "'Our parents were crossing the border an hour before the flood hit'",
+      "link": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say more than 1,300 people are missing, including dozens of Americans and Canadians, as families await word on loved ones thought to be caught in the Nepal flash floods.",
+      "source": "BBC"
     },
     "2": {
-      "title": "White House Construction May Have Contributed to Close Call With Trump’s Helicopter",
-      "link": "https://www.nytimes.com/2026/08/27/us/marine-one-white-house-construction.html",
-      "summary": "A controller let a jet take off after missing warnings that Marine One was about to fly through the area, according to the National Transportation Safety Board.",
+      "title": "LA Mayor Karen Bass Eases Street Vending Crackdown After Debate",
+      "link": "https://www.nytimes.com/2026/08/27/us/los-angeles-street-vendors-karen-bass.html",
+      "summary": "Mayor Karen Bass had compared the ubiquitous purveyors of street food with homeless encampments. Her opponent, Nithya Raman, said vendors should be brought into the system.",
       "source": "NYT"
     },
     "3": {
-      "title": "In Trump’s Washington, Ballooning National Debt Stirs Little Action",
-      "link": "https://www.nytimes.com/2026/08/27/us/politics/national-debt-trump-reaction.html",
-      "summary": "The relative indifference to the news that the U.S. government now owes $40 trillion demonstrates how drastically the politics of deficit spending has changed.",
+      "title": "Lake Ontario Didn’t Ask for Trump to Rename It",
+      "link": "https://www.nytimes.com/2026/08/27/us/politics/trump-lake-ontario-renaming.html",
+      "summary": "There is a U.S.-led war in the Middle East and the midterm elections on the horizon, but President Trump’s latest priority seems to be “Making The Great Lakes Even Greater.”",
       "source": "NYT"
     },
     "4": {
@@ -26,15 +26,15 @@
       "source": "NYT"
     },
     "5": {
-      "title": "Yielding on French Could Restart Trade Talks, Canadian Officials Say",
-      "link": "https://www.nytimes.com/2026/08/27/world/canada/trade-war-french-language.html",
-      "summary": "Canada’s minister in charge of trade with the U.S. was responding to comments by Jamieson Greer, the U.S. trade representative. But that was before any mention of Lake Ontario.",
-      "source": "NYT"
-    },
-    "6": {
       "title": "Trump signs order to rename Lake Ontario as Lake America",
       "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
+      "source": "BBC"
+    },
+    "6": {
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
       "source": "BBC"
     }
   }
