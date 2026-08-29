@@ -1,22 +1,22 @@
 {
-  "sent_at": "2026-08-29T15:07:16.964435-04:00",
+  "sent_at": "2026-08-29T18:07:12.798191-04:00",
   "items": {
     "1": {
-      "title": "El-Sayed Apologizes for March Comment About Michigan Synagogue Attack",
-      "link": "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html",
-      "summary": "Dr. Abdul El-Sayed, the Democratic Senate nominee in Michigan, faced criticism from Jewish Democrats after remarking, “hurt people hurt people.”",
+      "title": "Baby Goats From a Traveling Petting Zoo Test Positive for Rabies",
+      "link": "https://www.nytimes.com/2026/08/29/us/rabies-goats-petting-zoo-north-carolina.html",
+      "summary": "Farm Adventures of Harmony, N.C., owned the goats, state health officials said. It was unclear how many people might have been exposed to them since late July.",
       "source": "NYT"
     },
     "2": {
-      "title": "Napa County Winery Worker Charged With Starting Pickett Fire That Damaged Grape Harvests",
-      "link": "https://www.nytimes.com/2026/08/29/us/napa-county-pickett-fire-california-worker-charged.html",
-      "summary": "The Pickett fire burned nearly 7,000 acres in California wine country last year, causing millions of dollars in losses.",
-      "source": "NYT"
-    },
-    "3": {
       "title": "Relative of Afghans Who Helped U.S. Military Is Deported to Africa",
       "link": "https://www.nytimes.com/2026/08/29/us/afghans-deported-us-central-african-republic.html",
       "summary": "The Trump administration has deported thousands of immigrants to countries where they have no ties. Dozens were on the latest flight, to the Central African Republic.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Azriel Blackman, Airline Mechanic for 80 Years, Dies at 100",
+      "link": "https://www.nytimes.com/2026/08/29/us/azriel-al-blackman-dead.html",
+      "summary": "With a career commemorated by Guinness World Records, he started as an apprentice in 1942 and worked on a panoply of propeller-driven and jet aircraft until he retired in 2022.",
       "source": "NYT"
     },
     "4": {
@@ -26,16 +26,16 @@
       "source": "NYT"
     },
     "5": {
-      "title": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
-      "link": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
-      "summary": "The U.S.-Canada trade war has galvanized Canadians behind their prime minister’s decision to walk away from negotiations. What happens when the time comes for talks to restart?",
-      "source": "NYT"
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "source": "BBC"
     },
     "6": {
-      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-      "source": "BBC"
+      "title": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
+      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
+      "summary": "The Nepal Army, which is leading rescue efforts, turned to the trapped workers more than a day after the flood, according to army officials, industry groups and private rescuers.",
+      "source": "NYT"
     }
   }
 }
