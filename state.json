@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-29T11:07:11.451997-04:00",
+  "sent_at": "2026-08-29T13:07:12.702421-04:00",
   "items": {
     "1": {
-      "title": "Teleprompter Operator Who Bet on Trump Speeches Is Ordered to Pay Fine",
-      "link": "https://www.nytimes.com/2026/08/29/us/politics/teleprompter-trump-speech-kalshi-perez-bet.html",
-      "summary": "Gabriel Perez had access to the president’s speeches before they were delivered and was accused of placing unlawful wagers on words that would be spoken.",
+      "title": "An ICE Shooting, an Extradition Showdown and the Federal Case That Stalled",
+      "link": "https://www.nytimes.com/2026/08/29/us/christian-castro-ice-agent-minnesota-texas.html",
+      "summary": "Federal prosecutors planned to charge an immigration agent arrested in connection with a shooting in Minneapolis. Then the agent walked free.",
       "source": "NYT"
     },
     "2": {
-      "title": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
-      "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
-      "summary": "To win in 2024, the president promised an economic course correction. Almost two years later, his agenda has made that fight even harder.",
+      "title": "Relative of Afghans Who Helped U.S. Military Is Deported to Africa",
+      "link": "https://www.nytimes.com/2026/08/29/us/afghans-deported-us-central-african-republic.html",
+      "summary": "The Trump administration has deported thousands of immigrants to countries where they have no ties. Dozens were on the latest flight, to the Central African Republic.",
       "source": "NYT"
     },
     "3": {
-      "title": "How Trump’s Deportation Agenda Spreads Overseas",
-      "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
-      "summary": "Our White House correspondent Zolan Kanno-Youngs explains how so-called third-country deportations are sending immigrants to countries across the globe.",
-      "source": "NYT"
-    },
-    "4": {
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-      "source": "BBC"
-    },
-    "5": {
-      "title": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
-      "link": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
-      "summary": "The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.",
-      "source": "NYT"
-    },
-    "6": {
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "source": "BBC"
+    },
+    "4": {
+      "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
+      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+      "summary": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
+      "source": "NYT"
+    },
+    "5": {
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "source": "BBC"
+    },
+    "6": {
+      "title": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
+      "link": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
+      "summary": "A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.",
+      "source": "NYT"
     }
   }
 }
