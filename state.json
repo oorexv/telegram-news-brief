@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-08-30T11:07:13.822238-04:00",
+  "sent_at": "2026-08-30T13:07:13.070621-04:00",
   "items": {
     "1": {
-      "title": "Postal Service Rule Could Bar Millions From Voting By Mail",
-      "link": "https://www.nytimes.com/2026/08/30/us/politics/mail-voting-trump-midterms-supreme-court.html",
-      "summary": "A judge temporarily blocked the agency from implementing a strict new rule governing mail voting. The policy could disproportionately affect Democrats and many battleground elections.",
+      "title": "Trump Says Venezuelan Oil Will Refill U.S. Stockpiles, but It’s Not So Simple",
+      "link": "https://www.nytimes.com/2026/08/30/us/politics/trump-venezuela-oil-us-reserves.html",
+      "summary": "New projects can take years to produce meaningful amounts of oil, and that’s especially true in Venezuela, where infrastructure is in disrepair.",
       "source": "NYT"
     },
     "2": {
-      "title": "Why the United States Can’t Quit Its Wars",
-      "link": "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html",
-      "summary": "The country’s longest war came to an end exactly five years ago. Today it offers lessons for policymakers seeking to avoid an endless war in Iran.",
+      "title": "This Governor Could Lose His Primary. A Bridge May Be to Blame.",
+      "link": "https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html",
+      "summary": "The closure of a crucial Rhode Island bridge for safety reasons in 2023, and the traffic nightmare that followed, have dogged Gov. Dan McKee in the Democratic primary.",
       "source": "NYT"
     },
     "3": {
-      "title": "‘Freedom Fuel’ Touts Cheap Gas. A Lawsuit Says the Dealer Didn’t Pay for It.",
-      "link": "https://www.nytimes.com/2026/08/30/us/freedom-fuel-gas-lawsuit-trump-mansfield-krsm.html",
-      "summary": "A lawsuit claims that a New Jersey-based company failed to pay for nearly $4 million worth of gas, some of which was sold to gas stations promoted by President Trump.",
+      "title": "Climber Recounts Rescue From 6-Inch Ledge Atop California Mountain",
+      "link": "https://www.nytimes.com/2026/08/30/us/sierra-nevada-climber-rescued-mountains.html",
+      "summary": "Rob Martin was stranded for hours before rescuers reached him. He recalled thinking: “One wrong move now, and that’s it. I die.”",
       "source": "NYT"
     },
     "4": {
+      "title": "Zambian opposition leader charged with treason",
+      "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
+      "source": "BBC"
+    },
+    "5": {
       "title": "Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order",
       "link": "https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html",
       "summary": "Users in the United States will see the new label, following President Trump’s executive order last week.",
       "source": "NYT"
     },
-    "5": {
-      "title": "Iceland votes against restarting EU membership talks",
-      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
-      "source": "BBC"
-    },
     "6": {
-      "title": "Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus",
-      "link": "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html",
-      "summary": "Local authorities said 267 people were aboard the catamaran-type vessel when it began taking on water shortly after its departure from Kyrenia.",
-      "source": "NYT"
+      "title": "Russia says it helped to repel Niger attempted coup",
+      "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "summary": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
+      "source": "BBC"
     }
   }
 }
