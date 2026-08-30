@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-08-30T13:07:13.070621-04:00",
+  "sent_at": "2026-08-30T15:07:12.878521-04:00",
   "items": {
     "1": {
-      "title": "Trump Says Venezuelan Oil Will Refill U.S. Stockpiles, but It’s Not So Simple",
-      "link": "https://www.nytimes.com/2026/08/30/us/politics/trump-venezuela-oil-us-reserves.html",
-      "summary": "New projects can take years to produce meaningful amounts of oil, and that’s especially true in Venezuela, where infrastructure is in disrepair.",
+      "title": "Cleanup of Rotting Food at L.A. Warehouse Took Too Long, Residents Say",
+      "link": "https://www.nytimes.com/2026/08/30/us/los-angeles-warehouse-fire-boyle-heights-rotting-food.html",
+      "summary": "The stench has enveloped a neighborhood next to a food warehouse that burned in a June fire, prompting legislative action, lawsuits and thousands of complaints.",
       "source": "NYT"
     },
     "2": {
-      "title": "This Governor Could Lose His Primary. A Bridge May Be to Blame.",
-      "link": "https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html",
-      "summary": "The closure of a crucial Rhode Island bridge for safety reasons in 2023, and the traffic nightmare that followed, have dogged Gov. Dan McKee in the Democratic primary.",
-      "source": "NYT"
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope to explore mysteries of the Universe",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+      "source": "BBC"
     },
     "3": {
-      "title": "Climber Recounts Rescue From 6-Inch Ledge Atop California Mountain",
-      "link": "https://www.nytimes.com/2026/08/30/us/sierra-nevada-climber-rescued-mountains.html",
-      "summary": "Rob Martin was stranded for hours before rescuers reached him. He recalled thinking: “One wrong move now, and that’s it. I die.”",
+      "title": "More Than 22,000 Ancient Artifacts Seized in Florida",
+      "link": "https://www.nytimes.com/2026/08/30/us/ancient-artifacts-seized-florida.html",
+      "summary": "The items include Egyptian statues and ancient Greek and Roman coins that date back 1,000 to 5,000 years, officials said.",
       "source": "NYT"
     },
     "4": {
-      "title": "Zambian opposition leader charged with treason",
-      "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
-      "source": "BBC"
-    },
-    "5": {
-      "title": "Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order",
-      "link": "https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html",
-      "summary": "Users in the United States will see the new label, following President Trump’s executive order last week.",
+      "title": "Iceland Votes to Steer Clear of European Union Talks",
+      "link": "https://www.nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html",
+      "summary": "After divisive debate, Icelanders rejected a proposal to resume negotiations on joining the bloc in a referendum with the highest voter turnout in almost two decades.",
       "source": "NYT"
     },
+    "5": {
+      "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+      "source": "BBC"
+    },
     "6": {
-      "title": "Russia says it helped to repel Niger attempted coup",
-      "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
-      "summary": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
       "source": "BBC"
     }
   }
