@@ -1,34 +1,34 @@
 {
-  "sent_at": "2026-08-30T18:07:11.404133-04:00",
+  "sent_at": "2026-08-30T21:07:13.005942-04:00",
   "items": {
     "1": {
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "source": "BBC"
+    },
+    "2": {
+      "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+      "source": "BBC"
+    },
+    "3": {
       "title": "15 People May Be Missing at Grand Canyon After Flash Flood",
       "link": "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html",
       "summary": "At least 62 people were evacuated on Saturday after flooding destroyed nearly all the footbridges across Bright Angel Creek in Arizona and cut off hikers’ access, the National Park Service said.",
       "source": "NYT"
     },
-    "2": {
-      "title": "When a Bear Cub Decides Your Boot Is an Appetizer",
-      "link": "https://www.nytimes.com/2026/08/30/us/baby-bear-shoe-photographer-alaska.html",
-      "summary": "In Alaska, a cub taste-tested the footwear of a photographer, who got a rare close-up. The cub may have found it to be meh, or even revolting, judging by its reaction.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "Cleanup of Rotting Food at L.A. Warehouse Took Too Long, Residents Say",
-      "link": "https://www.nytimes.com/2026/08/30/us/los-angeles-warehouse-fire-boyle-heights-rotting-food.html",
-      "summary": "The stench has enveloped a neighborhood next to a food warehouse that burned in a June fire, prompting legislative action, lawsuits and thousands of complaints.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "Hikers feared missing after flash flooding hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 20 people are thought to be unaccounted for after flash flooding on Saturday.",
-      "source": "BBC"
-    },
-    "5": {
       "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "source": "BBC"
+    },
+    "5": {
+      "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
       "source": "BBC"
     },
     "6": {
