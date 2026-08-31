@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-08-31T15:07:12.023440-04:00",
+  "sent_at": "2026-08-31T18:07:20.397406-04:00",
   "items": {
     "1": {
-      "title": "Festival honouring Dolly Parton set for Nashville and London",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
-      "source": "BBC"
+      "title": "Supreme Court Allows Trump’s White House Ballroom Construction",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html",
+      "summary": "Lower-court rulings would have blocked construction of the 90,000-square-foot ballroom after finding that the Trump administration should have first sought approval from Congress.",
+      "source": "NYT"
     },
     "2": {
-      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
+      "title": "Supreme Court clears way for Trump to keep building White House ballroom",
+      "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
       "source": "BBC"
     },
     "3": {
-      "title": "Death Toll Rises in Grand Canyon Flood as Search Efforts Continue",
-      "link": "https://www.nytimes.com/2026/08/31/us/grand-canyon-floods.html",
-      "summary": "Officials announced a second death and said that more than a dozen people remain unaccounted for after heavy rain.",
+      "title": "Teen Charged With Murder After Livestreaming San Diego Mosque Shooting",
+      "link": "https://www.nytimes.com/2026/08/31/us/san-diego-mosque-shooting-livestream-murder-charge.html",
+      "summary": "The authorities said the 17-year-old from North Carolina had recorded the attack, which killed three people in May. “She ran with the pack — she shared in the kill,” the district attorney said.",
       "source": "NYT"
     },
     "4": {
-      "title": "For Nepal’s Young Leader, Flood Recovery Will Be a Herculean Task",
-      "link": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-balen-shah-gen-z.html",
-      "summary": "Prime Minister Balendra Shah, 36, rose to power this year on the back of youth anger with graft and mismanagement. His fledgling government now faces a huge test.",
-      "source": "NYT"
-    },
-    "5": {
-      "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
-      "link": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
-      "summary": "A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.",
-      "source": "NYT"
-    },
-    "6": {
       "title": "Lionel Messi’s Retirement From Soccer Sparks Heartbreak Across Argentina",
       "link": "https://www.nytimes.com/2026/08/31/world/americas/lionel-messi-retirement-soccer-argentina.html",
       "summary": "Lionel Messi’s retirement from the national soccer team, though widely expected, sparked fears of a diminished squad, and heartbreak over the departure of a national icon.",
+      "source": "NYT"
+    },
+    "5": {
+      "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+      "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
+      "source": "BBC"
+    },
+    "6": {
+      "title": "Israel and Greece Reach $3.5 Billion Defense Deal",
+      "link": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-greece-defense-deal.html",
+      "summary": "Despite the growing diplomatic isolation of the government, the agreement makes clear that the Israeli defense industry is still finding considerable demand abroad.",
       "source": "NYT"
     }
   }
