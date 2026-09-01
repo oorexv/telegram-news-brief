@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-01T11:07:18.286585-04:00",
+  "sent_at": "2026-09-01T13:07:13.613678-04:00",
   "items": {
     "1": {
+      "title": "Map Apps Are All Handling ‘Lake America’ Differently",
+      "link": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
+      "summary": "Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "Could Tupac verdict inspire new efforts to find killer of his rival the Notorious B.I.G.?",
+      "link": "https://www.bbc.co.uk/news/articles/cdx0np90lx4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Biggie Smalls was killed months after the murder of his rival Tupac Shakur, both drive-by shootings.",
+      "source": "BBC"
+    },
+    "3": {
       "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
       "summary": "The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Wendell Berry, Writer Who Extolled America’s Agrarian Past, Dies at 92",
-      "link": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
-      "summary": "A Kentucky farmer, he railed against agribusiness and championed small family farms and the environment, winning widespread acclaim.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "Lindsay Clancy Murder Trial: Jury Struggling to Reach a Verdict",
-      "link": "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html",
-      "summary": "Jurors sent a note after about 18 hours of deliberations saying they were deadlocked. The judge sent them back to keep deliberating.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "Keir Starmer, Former UK Prime Minister, Says He Will Resign From Parliament",
-      "link": "https://www.nytimes.com/2026/09/01/world/europe/keir-starmer-uk-prime-minister-resigns-mp.html",
-      "summary": "Keir Starmer, who left Downing Street in July after pressure from his own party, said he would quit his parliamentary seat to focus on a role in international affairs and defense.",
-      "source": "NYT"
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+      "source": "BBC"
     },
     "5": {
-      "title": "Israeli Operation in Gaza Kills 4, Palestinian Officials Say",
-      "link": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-      "summary": "Israel’s defense minister said the operation resulted in the capture of a senior Hamas member. Hamas said Israel sent covert operatives into Gaza City.",
-      "source": "NYT"
+      "title": "Trump says US position on Falklands 'one of many' under review",
+      "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
+      "source": "BBC"
     },
     "6": {
-      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-      "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+      "title": "Pistol in a lake gives hope for French cold case",
+      "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+      "summary": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
       "source": "BBC"
     }
   }
