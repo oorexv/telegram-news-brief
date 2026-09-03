@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-03T13:07:11.885066-04:00",
+  "sent_at": "2026-09-03T15:07:15.386824-04:00",
   "items": {
     "1": {
-      "title": "Federal Prosecutors Charge ICE Agent With Lying About Minnesota Shooting",
-      "link": "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html",
-      "summary": "The charges marked a rare instance of President Trump’s Justice Department accusing a federal agent of breaking the law while on the job.",
+      "title": "Attacker in Minneapolis Shooting Had Threatened Residents, Records Show",
+      "link": "https://www.nytimes.com/2026/09/03/us/minneapolis-shooting-attacker-eviction.html",
+      "summary": "The gunman, who fatally shot two people and wounded several others at an apartment building where he lived, was facing eviction.",
       "source": "NYT"
     },
     "2": {
-      "title": "So It’s Gonna Be Ohio? This Tiny Village Is Ready for Taylor Swift and Travis Kelce.",
-      "link": "https://www.nytimes.com/2026/09/03/us/bratenahl-ohio-taylor-swift-travis-kelce.html",
-      "summary": "The wealthy enclave of Bratenahl, Ohio, has been aflutter after learning that Travis Kelce purchased a Lake Erie mansion.",
+      "title": "Hillary Clinton, Meghan Markle, Lena Dunham and Others Pay Tribute to Gloria Steinem",
+      "link": "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html",
+      "summary": "After Ms. Steinem’s death at 92, celebrities and politicians reflected on her decades of activism for women’s rights and equality.",
       "source": "NYT"
     },
     "3": {
-      "title": "‘We Can Understand Parts of Her Story’: Moms React to Clancy’s Experience",
-      "link": "https://www.nytimes.com/2026/09/03/us/lindsay-clancy-mothers-reactions.html",
-      "summary": "Some moms are outraged and called for Lindsay Clancy’s conviction. Others watched with compassion, recognizing their own struggles with postpartum.",
+      "title": "Los Angeles District Bans Most A.I. for Students",
+      "link": "https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html",
+      "summary": "New York City announced a similar plan. The Los Angeles moratorium appears to go further with strict limits even for older students.",
       "source": "NYT"
     },
     "4": {
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-      "source": "BBC"
-    },
-    "5": {
       "title": "Spain’s Leader Questions Morocco Border Control During Ceuta Migrant Surge",
       "link": "https://www.nytimes.com/2026/09/03/world/europe/spain-morocco-ceuta-sanchez.html",
       "summary": "Prime Minister Pedro Sánchez of Spain said the role of Moroccan authorities at key moments needed to be “clarified.” But he rejected any suggestion they had planned the crisis.",
       "source": "NYT"
     },
-    "6": {
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
+    "5": {
+      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+      "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
       "source": "BBC"
+    },
+    "6": {
+      "title": "Israel Is Expected to Release Lebanese Prisoners, in Rare Sign of Progress",
+      "link": "https://www.nytimes.com/2026/09/03/world/middleeast/israel-lebanon-prisoners-release.html",
+      "summary": "The move would come amid struggling talks between Israel and Lebanon aimed at disarming Hezbollah and ending Israel’s invasion.",
+      "source": "NYT"
     }
   }
 }
