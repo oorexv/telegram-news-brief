@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-04T11:07:12.594645-04:00",
+  "sent_at": "2026-09-04T13:07:11.860338-04:00",
   "items": {
     "1": {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/09/04/us/lindsay-clancy-trial-deadlock/heres-the-latest",
-      "summary": "(No summary available from the source feed.)",
-      "source": "NYT"
-    },
-    "2": {
       "title": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html",
       "summary": "Jared Kushner and Steve Witkoff’s trip to meet with the countries’ presidents comes at a precarious moment in the Ukraine conflict.",
       "source": "NYT"
     },
+    "2": {
+      "title": "ICE Agent Charged With Six Counts of Lying About Minnesota Shooting",
+      "link": "https://www.nytimes.com/2026/09/04/us/christian-castro-ice-agent-charges-minnesota-shooting.html",
+      "summary": "The federal indictment against Christian Castro marked a rare instance of the Trump administration seeking to hold an immigration agent accountable for actions taken while on duty.",
+      "source": "NYT"
+    },
     "3": {
-      "title": "Photo of Road Runner Snagged by Coyote Shows That Cartoons Were a Lie",
-      "link": "https://www.nytimes.com/2026/09/04/us/road-runner-coyote-photograph.html",
-      "summary": "Here’s some bad news: Sometimes the coyote does win.",
+      "title": "How to Define the ‘Reasonable’ in Reasonable Doubt",
+      "link": "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-reasonable-doubt.html",
+      "summary": "“Beyond a reasonable doubt” is the highest burden of proof within the American legal system. Still, there is some wiggle room.",
       "source": "NYT"
     },
     "4": {
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "source": "BBC"
-    },
-    "5": {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
       "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
       "source": "BBC"
     },
+    "5": {
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "source": "BBC"
+    },
     "6": {
-      "title": "U.A.E. Pardons Egyptian Dissident Sentenced to 10 Years in Prison",
-      "link": "https://www.nytimes.com/2026/09/04/world/middleeast/lebanon-uae-pardon-egypt-dissident.html",
-      "summary": "Abdulrahman al-Qaradawi was extradited from Lebanon to the Emirates, a close U.S. ally, after criticizing its government, in a case that alarmed human rights experts.",
-      "source": "NYT"
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+      "source": "BBC"
     }
   }
 }
