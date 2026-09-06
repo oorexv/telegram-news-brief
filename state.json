@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-06T15:07:16.159561-04:00",
+  "sent_at": "2026-09-06T18:07:10.237508-04:00",
   "items": {
     "1": {
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "summary": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-      "source": "BBC"
+      "title": "Cargo Plane Crashes at Miami Airport, Striking Vehicles",
+      "link": "https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html",
+      "summary": "Officials said there were “multiple patients” but their injuries were not immediately known. Flights were halted at Miami International Airport after the Boeing 767-300 cargo plane overran its landing.",
+      "source": "NYT"
     },
     "2": {
-      "title": "Trump Administration Again Asks Supreme Court to Allow Mail Voting Restrictions",
-      "link": "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html",
-      "summary": "The filing puts the legality of the president’s push to impose limits on mail voting squarely before the justices even as states begin sending out ballots.",
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/09/06/us/miami-plane-crash/heres-the-latest",
+      "summary": "(No summary available from the source feed.)",
       "source": "NYT"
     },
     "3": {
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
-      "source": "BBC"
-    },
-    "4": {
-      "title": "German far-right set for big win in eastern state, projections show",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-      "source": "BBC"
-    },
-    "5": {
-      "title": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
-      "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
-      "summary": "The Alternative for Germany party was projected to finish first in the eastern state of Saxony-Anhalt. But it was not clear whether it would win a majority — which would propel a far-right party into power for the first time since World War II.",
+      "title": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation",
+      "link": "https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html",
+      "summary": "The president has made peace with Michael D. Cohen, his onetime lawyer who turned against him. But contrary to Mr. Trump’s claims, Mr. Cohen has not recanted the testimony that helped convict his former boss.",
       "source": "NYT"
     },
+    "4": {
+      "title": "Live Updates: Germany’s Far Right Tops Key State Race, but Falls Short of Power",
+      "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
+      "summary": "The Alternative for Germany party is projected to finish first in the eastern state of Saxony-Anhalt. But lacking a majority, without the help of other parties it cannot become the first far-right party to govern a state since 1945.",
+      "source": "NYT"
+    },
+    "5": {
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+      "source": "BBC"
+    },
     "6": {
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "summary": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
       "source": "BBC"
     }
   }
