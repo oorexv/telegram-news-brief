@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-06T11:07:11.715553-04:00",
+  "sent_at": "2026-09-06T13:07:10.782540-04:00",
   "items": {
     "1": {
-      "title": "Trump’s War on Mail-In Ballots Has Voters Baffled. That May Be the Point.",
-      "link": "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html",
-      "summary": "From Oregon to Florida, officials are at once reassuring voters that their ballots are safe and encouraging them to use drop boxes or vote in person.",
-      "source": "NYT"
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+      "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
+      "source": "BBC"
     },
     "2": {
       "title": "Trump Administration Again Asks Supreme Court to Allow Mail Voting Restrictions",
-      "link": "https://www.nytimes.com/2026/09/06/us/politics/trump-administration-again-asks-supreme-court-to-allow-mail-voting-restrictions.html",
+      "link": "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html",
       "summary": "The filing puts the legality of the president’s push to impose limits on mail voting squarely before the justices even as states begin sending out ballots.",
       "source": "NYT"
     },
     "3": {
-      "title": "The Battle to Save General Donahue From Hegseth’s Army Purge",
-      "link": "https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html",
-      "summary": "Gen. Christopher T. Donahue’s vision for fighting future wars won him powerful supporters around the world. Could they save his career?",
+      "title": "New Hampshire Democrats Sound an Alarm: ‘We’re Losing’",
+      "link": "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html",
+      "summary": "The state has not elected a Republican to the Senate since 2010. But Chris Pappas, the likely Democratic nominee, anticipates a tough race against a well-known opponent, John E. Sununu.",
       "source": "NYT"
     },
     "4": {
-      "title": "Live Updates: Germany’s Far Right Eyes Breakthrough in Regional Election",
-      "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
-      "summary": "Victory for the Alternative for Germany party in a vote in the eastern state of Saxony-Anhalt would propel a far-right party into power for the first time since World War II.",
-      "source": "NYT"
+      "title": "German far-right set for big win in eastern state - projections",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
+      "source": "BBC"
     },
     "5": {
-      "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
-      "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-      "summary": "Steve Witkoff and Jared Kushner were meeting on Sunday with Volodymyr Zelensky in Ukraine, a day after talks with Vladimir V. Putin in Moscow.",
-      "source": "NYT"
-    },
-    "6": {
       "title": "Dozens feared trapped in collapsed building in Delhi",
       "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
       "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
       "source": "BBC"
+    },
+    "6": {
+      "title": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
+      "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
+      "summary": "The Alternative for Germany party was projected to finish first in the eastern state of Saxony-Anhalt. But it was not clear whether it would win a majority — which would propel a far-right party into power for the first time since World War II.",
+      "source": "NYT"
     }
   }
 }
