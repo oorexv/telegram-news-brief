@@ -1,11 +1,11 @@
 {
-  "sent_at": "2026-09-06T18:07:10.237508-04:00",
+  "sent_at": "2026-09-06T21:07:12.738468-04:00",
   "items": {
     "1": {
-      "title": "Cargo Plane Crashes at Miami Airport, Striking Vehicles",
-      "link": "https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html",
-      "summary": "Officials said there were “multiple patients” but their injuries were not immediately known. Flights were halted at Miami International Airport after the Boeing 767-300 cargo plane overran its landing.",
-      "source": "NYT"
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "source": "BBC"
     },
     "2": {
       "title": "Here’s the latest.",
@@ -14,28 +14,28 @@
       "source": "NYT"
     },
     "3": {
-      "title": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation",
-      "link": "https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html",
-      "summary": "The president has made peace with Michael D. Cohen, his onetime lawyer who turned against him. But contrary to Mr. Trump’s claims, Mr. Cohen has not recanted the testimony that helped convict his former boss.",
+      "title": "Armed Man Arrested After Charging Toward Democratic Candidate for Ohio Governor",
+      "link": "https://www.nytimes.com/2026/09/06/us/politics/amy-acton-governor-candidate-ohio-arrest-incident.html",
+      "summary": "The authorities are charging the man, who they said did not draw his weapons, with misdemeanor assault.",
       "source": "NYT"
     },
     "4": {
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "source": "BBC"
+    },
+    "5": {
+      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
+      "source": "BBC"
+    },
+    "6": {
       "title": "Live Updates: Germany’s Far Right Tops Key State Race, but Falls Short of Power",
       "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
       "summary": "The Alternative for Germany party is projected to finish first in the eastern state of Saxony-Anhalt. But lacking a majority, without the help of other parties it cannot become the first far-right party to govern a state since 1945.",
       "source": "NYT"
-    },
-    "5": {
-      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
-      "source": "BBC"
-    },
-    "6": {
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "source": "BBC"
     }
   }
 }
