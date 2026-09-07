@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-07T15:07:10.386224-04:00",
+  "sent_at": "2026-09-07T18:07:10.623937-04:00",
   "items": {
     "1": {
+      "title": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
+      "link": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html",
+      "summary": "The cargo plane, operated for Amazon, plowed into a public road and crashed into vehicles, killing five people and disrupting more than 200 flights over Labor Day weekend.",
+      "source": "NYT"
+    },
+    "2": {
       "title": "Armed Ohio man arrested after charging at Democratic candidate for governor",
       "link": "https://www.bbc.co.uk/news/articles/czezyr81g23o?at_medium=RSS&at_campaign=rss",
       "summary": "The candidate, Amy Acton, was not hurt, but her team said several others were injured as the man tried to \"lunge\" at her.",
       "source": "BBC"
     },
-    "2": {
+    "3": {
       "title": "Pilot killed in small plane crash near regional airport in Florida",
       "link": "https://www.bbc.co.uk/news/articles/c33k5m1zdemo?at_medium=RSS&at_campaign=rss",
       "summary": "The National Transportation Safety Board has identified the plane as a Mooney M20F aircraft, a four-seater propeller plane.",
       "source": "BBC"
     },
-    "3": {
-      "title": "Investigators begin work on why cargo plane overran Miami runway",
-      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
-      "source": "BBC"
-    },
     "4": {
-      "title": "Britain Set to Target Israeli West Bank Settlements With Trade Ban",
-      "link": "https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html",
-      "summary": "The expected move will be announced on Tuesday, officials said, and underscored Israel’s mounting isolation over its policies toward Palestinians following the war in Gaza.",
+      "title": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
+      "link": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
+      "summary": "New Canadian levies of up to 50 percent are expected to begin Tuesday, even as Washington warns of a new round of American tariffs.",
       "source": "NYT"
     },
     "5": {
-      "title": "Germany’s ‘Firewall’ Against the Far Right Is Being Tested as Never Before",
-      "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
-      "summary": "A blowout win by the far-right Alternative for Germany party in a state election has revealed a split among voters about whether to uphold a decades-old strategy for sidelining extremists.",
+      "title": "In Peru, the Trump Administration Sees the Limits of Its Anti-China Push",
+      "link": "https://www.nytimes.com/2026/09/07/world/americas/peru-trump-china-economy.html",
+      "summary": "As Secretary of State Marco Rubio travels this week to Peru, its growing economic ties to China have raised tensions with the U.S., but show no signs of reversing course.",
       "source": "NYT"
     },
     "6": {
-      "title": "After Victory in German State, Far Right Needs Help to Take Power",
-      "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
-      "summary": "The Alternative for Germany, or AfD, does not have a straightforward path to governing Saxony-Anhalt, but a small populist party could clear the way.",
-      "source": "NYT"
+      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+      "source": "BBC"
     }
   }
 }
