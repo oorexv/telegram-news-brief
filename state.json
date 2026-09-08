@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-07T21:07:12.889276-04:00",
+  "sent_at": "2026-09-08T07:07:14.740920-04:00",
   "items": {
     "1": {
-      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-      "source": "BBC"
-    },
-    "2": {
-      "title": "Amazon Plane Crash Starts Debate About Requiring a Buffer for Runways",
-      "link": "https://www.nytimes.com/2026/09/07/us/miami-crash-emas-buffer-runways.html",
-      "summary": "A technology involving crushable concrete has been credited with saving nearly 500 passenger lives by helping halt planes that overshot their landings.",
+      "title": "Michigan Rabbis Press El-Sayed to Change Tone and Stance on Israel",
+      "link": "https://www.nytimes.com/2026/09/08/us/abdul-el-sayed-michigan-jews.html",
+      "summary": "A coalition of Jewish leaders is launching a petition drive aimed at the Democratic Senate nominee, a fresh indicator of frictions in a key battleground.",
       "source": "NYT"
     },
+    "2": {
+      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
+      "source": "BBC"
+    },
     "3": {
-      "title": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
-      "link": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html",
-      "summary": "A cargo plane, operated for Amazon, plowed into two vehicles on Sunday, leaving five more injured and disrupting Labor Day weekend travel for thousands.",
+      "title": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
+      "link": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
+      "summary": "The attack, discovered by A.I. researchers, could have compromised hundreds of millions of devices within hours, experts said.",
       "source": "NYT"
     },
     "4": {
-      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
+      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
       "source": "BBC"
     },
     "5": {
-      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
-      "source": "BBC"
+      "title": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
+      "link": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
+      "summary": "The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war.",
+      "source": "NYT"
     },
     "6": {
-      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-      "source": "BBC"
+      "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+      "link": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html",
+      "summary": "Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.",
+      "source": "NYT"
     }
   }
 }
