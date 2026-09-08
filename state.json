@@ -1,23 +1,23 @@
 {
-  "sent_at": "2026-09-08T15:07:13.570710-04:00",
+  "sent_at": "2026-09-08T18:07:12.681853-04:00",
   "items": {
     "1": {
-      "title": "Thousands in Michigan Got a Driver’s License With Someone Else’s Face on It",
-      "link": "https://www.nytimes.com/2026/09/08/us/michigan-enhanced-ids-misprints.html",
-      "summary": "About 8,200 people who applied for an enhanced driver’s license received cards in the mail with a stock image of a smiling man in the lower-right-hand corner.",
+      "title": "American Bar Association Ends D.E.I. Standards Under Trump Pressure",
+      "link": "https://www.nytimes.com/2026/09/08/us/american-bar-association-dei-standards-end.html",
+      "summary": "The group that accredits law schools voted to eliminate a requirement that the schools show a commitment to diversity and inclusion.",
       "source": "NYT"
     },
     "2": {
-      "title": "Trump Administration Asks Supreme Court to Allow Voter-Screening Tool",
-      "link": "https://www.nytimes.com/2026/09/08/us/politics/trump-supreme-court-dhs-citizenship.html",
-      "summary": "Voting rights organizations had challenged a Trump administration overhaul of a government database, arguing it could be used to disenfranchise eligible voters.",
+      "title": "Musk Targets Transgender Issues in Key Midterm Senate Races",
+      "link": "https://www.nytimes.com/2026/09/08/us/politics/elon-musk-transgender-midterms-democrats.html",
+      "summary": "A political group for the world’s richest man, who is ramping up a midterm spending blitz, began running attack ads against Democrats in Texas, Ohio and Iowa.",
       "source": "NYT"
     },
     "3": {
-      "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-      "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
-      "summary": "Newly released documents show toxins lingered for months after the attacks, but officials told people it was safe.",
-      "source": "BBC"
+      "title": "Justice Kavanaugh Blocks Missouri Voting Map Benefiting Republicans",
+      "link": "https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html",
+      "summary": "Missouri’s Supreme Court blocked election officials from using a new congressional map, saying voters must first approve the district lines in a statewide referendum.",
+      "source": "NYT"
     },
     "4": {
       "title": "Israeli Allies Ban Trade With Settlements as U.K. Cites ‘Ethnic Cleansing’",
@@ -26,16 +26,16 @@
       "source": "NYT"
     },
     "5": {
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "source": "BBC"
+    },
+    "6": {
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
       "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
       "source": "BBC"
-    },
-    "6": {
-      "title": "Australian Social Media Users Could Get Power to Switch Off Algorithms",
-      "link": "https://www.nytimes.com/2026/09/08/world/australia/social-media-law-algorithms-digital-duty-care.html",
-      "summary": "Technology companies have been “running real-time, unregulated product testing on Australians” for too long, communications minister says.",
-      "source": "NYT"
     }
   }
 }
