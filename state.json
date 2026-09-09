@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-09T15:07:14.457016-04:00",
+  "sent_at": "2026-09-09T18:07:13.397497-04:00",
   "items": {
     "1": {
-      "title": "60 Posts in 10 Hours: How Trump’s Social Media Reflects His Version of Reality",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html",
-      "summary": "With an assist from A.I., President Trump offers a window into how he wants to be seen — and, critics say, a barometer of his mental state.",
+      "title": "A Hostile Trump Reopens Old Wounds in the U.S.-Canada Relationship",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-canada-tariffs.html",
+      "summary": "President Trump is not the first American president to feud with Canada. But today’s crisis might be the worst.",
       "source": "NYT"
     },
     "2": {
-      "title": "William Anderson, Doctor and Civil Rights Leader in Georgia, Dies at 98",
-      "link": "https://www.nytimes.com/2026/09/09/us/william-anderson-dead.html",
-      "summary": "An osteopath in Albany, Ga., he drew national attention, and the involvement of the Rev. Dr. Martin Luther King Jr., for his efforts to end segregation.",
+      "title": "Trump Is Delayed After Emergency Slide Deploys on New Air Force One",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/emergency-slide-air-force-one-trump.html",
+      "summary": "The mishap occurred while the Qatari-donated jet was parked on the tarmac at Joint Base Andrews. It delayed President Trump’s departure to a Republican convention in Dallas.",
       "source": "NYT"
     },
     "3": {
-      "title": "Apple unveils its first folding iPhone",
-      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-      "source": "BBC"
+      "title": "James Talarico Counters Trump’s Midterm Convention With Food Drive",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/talarico-republican-midterm-convention-counterprogramming.html",
+      "summary": "The Democratic Senate candidate used a food drive to sharpen his economic message against Ken Paxton.",
+      "source": "NYT"
     },
     "4": {
-      "title": "Spain Declassifies Warning to Morocco About Migrant Crossing Plans",
-      "link": "https://www.nytimes.com/2026/09/09/world/europe/spain-ceuta-migrants-report.html",
-      "summary": "Spain’s intelligence service had alerted Morocco about social media calls for a border exodus into Ceuta, which led to more than 100 deaths and a political crisis in Spain.",
-      "source": "NYT"
-    },
-    "5": {
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
       "source": "BBC"
     },
-    "6": {
-      "title": "14 Killed in Weapons Depot Blast in Northwest Syria",
-      "link": "https://www.nytimes.com/2026/09/09/world/middleeast/syria-weapons-depot-blast.html",
-      "summary": "Officials said they had not determined the cause of the explosion. Years of fighting have left Syria littered with weapons and ordnance left over from the civil war.",
+    "5": {
+      "title": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
+      "link": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
+      "summary": "With its oil-export routes once again under threat, Saudi Arabia is stepping up its military campaign against an old antagonist.",
       "source": "NYT"
+    },
+    "6": {
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+      "source": "BBC"
     }
   }
 }
