@@ -1,16 +1,16 @@
 {
-  "sent_at": "2026-09-09T11:07:14.009974-04:00",
+  "sent_at": "2026-09-09T13:07:11.237284-04:00",
   "items": {
     "1": {
-      "title": "Trump’s Super PAC Starts to Unload Its War Chest, With New Group Booking $47 Million",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html",
-      "summary": "A recently created Republican group tied to the president’s super PAC is pumping cash into half a dozen key midterm races, with the largest amounts going toward Senate contests in Michigan and Ohio.",
-      "source": "NYT"
-    },
-    "2": {
       "title": "Trump Doled Out $45,000 Cash Gifts to Natalie Harp and Other Aides Last Year",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-natalie-harp-cash-gift-martin-harris.html",
       "summary": "The money, listed as “cash gift for the holidays,” was detailed in financial disclosure forms released by the administration.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "Joseph Rice, Lowcountry Lawyer Who Took On Big Tobacco, Dies at 72",
+      "link": "https://www.nytimes.com/2026/09/09/us/joe-rice-dead.html",
+      "summary": "He challenged tobacco companies as well as the opioid industry, securing multibillion-dollar settlements that also benefited public health.",
       "source": "NYT"
     },
     "3": {
@@ -20,21 +20,21 @@
       "source": "NYT"
     },
     "4": {
-      "title": "The Theme Park at the Heart of France’s Culture War",
-      "link": "https://www.nytimes.com/2026/09/09/world/europe/theme-park-france-right-culture-war.html",
-      "summary": "The Puy du Fou is one of France’s most visited theme parks. Its founder says it gives the French a “founding narrative,” but critics say it peddles “far-right propaganda.”",
-      "source": "NYT"
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+      "source": "BBC"
     },
     "5": {
-      "title": "How a Driver’s Sudden Death Triggered Ebola Panic in Congo",
-      "link": "https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html",
-      "summary": "When a truck driver unexpectedly collapsed and died in a remote village, frontline medical staff scrambled to safely isolate his body, triggering a standoff.",
-      "source": "NYT"
+      "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
+      "summary": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+      "source": "BBC"
     },
     "6": {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+      "title": "Europe's royalty pay respects to King Harald V in Norway",
+      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
       "source": "BBC"
     }
   }
