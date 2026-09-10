@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-10T11:07:15.567255-04:00",
+  "sent_at": "2026-09-10T13:07:13.879029-04:00",
   "items": {
     "1": {
-      "title": "What Would Charlie Kirk Do Today?",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/charlie-kirk-killing-one-year.html",
-      "summary": "A year after the killing of the 31-year-old conservative youth leader, the movement he helped create has splintered. Would that be the case if he were still alive?",
+      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "summary": "In a new report, the A.I. start-up added that it could not determine if the research was legitimate or nefarious, leading the company to shut down the work.",
       "source": "NYT"
     },
     "2": {
-      "title": "San Francisco Mayor to Declare Rent Emergency Amid A.I. Housing Frenzy",
-      "link": "https://www.nytimes.com/2026/09/10/us/san-francisco-daniel-lurie-rent-emergency.html",
-      "summary": "Mayor Daniel Lurie wants to combat evictions in the city, which has the nation’s highest rent increases.",
+      "title": "Supreme Court Again Blocks Republican-Backed Missouri Voting Map",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/supreme-court-missouri-congress.html",
+      "summary": "The ruling deferred to the state’s Supreme Court, which had invalidated G.O.P.-friendly district lines, saying voters must first have an opportunity to approve the map in a statewide referendum.",
       "source": "NYT"
     },
     "3": {
-      "title": "Supreme Court Again Blocks Republican-Backed Missouri Voting Map",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/supreme-court-missouri-congress.html",
-      "summary": "The ruling deferred to Missouri’s state Supreme Court, which had invalidated G.O.P.-friendly district lines, saying voters must first have an opportunity to approve the map in a statewide referendum.",
+      "title": "Princess Diana’s ‘Revenge Dress’ to Be Sold at Auction in New York",
+      "link": "https://www.nytimes.com/2026/09/10/us/princess-diana-revenge-dress-auction.html",
+      "summary": "Diana, Princess of Wales, wore the cocktail dress in 1994 at a moment of intense public scrutiny. An auction house expected it to fetch up to $300,000.",
       "source": "NYT"
     },
     "4": {
-      "title": "Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say",
-      "link": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
-      "summary": "The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade.",
-      "source": "NYT"
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+      "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "source": "BBC"
     },
     "5": {
-      "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+      "title": "More than 20 children feared dead in DR Congo school fire",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
       "source": "BBC"
     },
     "6": {
-      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-      "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
-      "source": "BBC"
+      "title": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
+      "link": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
+      "summary": "The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade.",
+      "source": "NYT"
     }
   }
 }
