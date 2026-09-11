@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-11T15:07:15.304946-04:00",
+  "sent_at": "2026-09-11T18:07:14.490606-04:00",
   "items": {
     "1": {
-      "title": "Influencers Invited to the Republican Midterm Convention Largely Avoided Talking About The Economy",
-      "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-republican-convention-influencers-message.html",
-      "summary": "Online media stars eager to promote President Trump and Republicans worked to find a message that would resonate with an audience that is struggling with an affordability crisis.",
+      "title": "Fact-Checking Trump’s Attacks on Democratic Senate Candidates",
+      "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html",
+      "summary": "The president attacked three Democrats running for Senate this week with inaccurate claims to portray them as too extreme.",
       "source": "NYT"
     },
     "2": {
-      "title": "A Running Event Reveals Anxieties in Leimert Park, a Black L.A. Neighborhood",
-      "link": "https://www.nytimes.com/2026/09/11/us/los-angeles-run-leimert-park.html",
-      "summary": "When a Latino running club tried to host an event at Leimert Park, the heart of the city’s Black community, a social media firestorm broke out.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-      "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
       "source": "BBC"
     },
+    "3": {
+      "title": "Republicans Go All In on Trump",
+      "link": "https://www.nytimes.com/video/us/elections/100000011144041/republicans-midterm-convention-trump.html",
+      "summary": "Shane Goldmacher, one of our national political correspondents, looks at the Republican candidates who spoke this week at their party’s unusual midterm convention, called a “Trumpapalooza.” Some other vulnerable candidates avoided it because of President Trump’s unpopularity.",
+      "source": "NYT"
+    },
     "4": {
-      "title": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
-      "link": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
-      "summary": "The complex sat below Ali al-Taher ridge, a strategic hilltop that overlooks the region and that has seen intense fighting.",
+      "title": "Houthis Seize Key Red Sea Island, Threatening Another Global Oil Route",
+      "link": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html",
+      "summary": "The militia captured the island in the Bab al-Mandab Strait, a choke point for trade. Saudi Arabia also said it had shut down a critical oil pipeline after a drone attack launched from Iraq.",
       "source": "NYT"
     },
     "5": {
-      "title": "Police Uncover Scheme Using Fake Horse Passports to Traffic Animals",
-      "link": "https://www.nytimes.com/2026/09/11/world/europe/horses-trafficked-europe-fake-passports.html",
-      "summary": "The police in Belgium, France, Ireland and the Netherlands say they suspect a fraud network of faking identities and duplicating microchips for hundreds of horses.",
-      "source": "NYT"
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "source": "BBC"
     },
     "6": {
-      "title": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
-      "link": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
-      "summary": "The Ukrainian city of Izium still bears the scars of Russian occupation from four years ago. As Moscow’s forces approach, residents are bracing for the worst.",
-      "source": "NYT"
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+      "source": "BBC"
     }
   }
 }
