@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-12T11:07:13.046312-04:00",
+  "sent_at": "2026-09-12T13:07:09.807752-04:00",
   "items": {
     "1": {
+      "title": "How Trump Is Wielding Power to Stifle Speech",
+      "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
+      "summary": "President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "Teen boy rescued after days adrift in Alaskan waters",
+      "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
+      "source": "BBC"
+    },
+    "3": {
       "title": "Republican Groups Rush to Paxton’s Aid in Texas After Staying on Sidelines",
       "link": "https://www.nytimes.com/2026/09/12/us/politics/paxton-republican-pac-spending-midterms.html",
       "summary": "An organization allied with Senate G.O.P. leaders has booked more than $51 million in ads. Now, Ken Paxton has a financial edge after months of being outspent by his Democratic rival.",
       "source": "NYT"
     },
-    "2": {
-      "title": "What a Hunchbacked Raccoon Teaches Us About Kindness in a Fractured World",
-      "link": "https://www.nytimes.com/2026/09/12/us/jimothy-search.html",
-      "summary": "A neckless raccoon named Jimothy captivated the internet, and sent this Seattle resident out looking.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "As Millions of Birds Migrate, Residents Are Asked to Turn Off the Lights",
-      "link": "https://www.nytimes.com/2026/09/12/us/bird-seasonal-migration-lights.html",
-      "summary": "Birds are drawn to lights, and more than a billion die each year after crashing into buildings, experts said.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "French officials investigate if malicious act caused train derailment",
-      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
       "source": "BBC"
     },
     "5": {
-      "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-      "summary": "The United States is officially neutral on an issue that had been a source of decades of violence in Northern Ireland until a 1998 peace deal.",
-      "source": "NYT"
+      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
+      "source": "BBC"
     },
     "6": {
-      "title": "In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise",
-      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html",
-      "summary": "As the U.S. president heads to his Doonbeg hotel for the Irish Open, locals expressed both appreciation for the resort’s economic benefits and opposition to his politics.",
+      "title": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
+      "link": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
+      "summary": "A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade.",
       "source": "NYT"
     }
   }
