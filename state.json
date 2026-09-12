@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-12T13:07:09.807752-04:00",
+  "sent_at": "2026-09-12T15:07:11.414416-04:00",
   "items": {
     "1": {
-      "title": "How Trump Is Wielding Power to Stifle Speech",
-      "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
-      "summary": "President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects.",
+      "title": "A Mastodon Tooth Is Discovered in a California Creek",
+      "link": "https://www.nytimes.com/2026/09/12/us/ice-age-mastodon-tooth-bay-area.html",
+      "summary": "A researcher surveying a San Mateo County creek stumbled upon a preserved Pacific mastodon molar estimated to be at least 10,000 years old.",
       "source": "NYT"
     },
     "2": {
-      "title": "Teen boy rescued after days adrift in Alaskan waters",
-      "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
-      "source": "BBC"
-    },
-    "3": {
-      "title": "Republican Groups Rush to Paxton’s Aid in Texas After Staying on Sidelines",
-      "link": "https://www.nytimes.com/2026/09/12/us/politics/paxton-republican-pac-spending-midterms.html",
-      "summary": "An organization allied with Senate G.O.P. leaders has booked more than $51 million in ads. Now, Ken Paxton has a financial edge after months of being outspent by his Democratic rival.",
+      "title": "Republican Campaign Aide Is Fired Over Nazi Photo",
+      "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
+      "summary": "Senator Jon Husted, running in a high-stakes race in Ohio, dismissed his political director because of social media activity displaying a “complete lack” of judgment, a spokeswoman said.",
       "source": "NYT"
     },
-    "4": {
+    "3": {
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
       "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
       "source": "BBC"
+    },
+    "4": {
+      "title": "Death Toll From Ferry Fire in the Philippines Rises to 76",
+      "link": "https://www.nytimes.com/2026/09/12/world/asia/philippines-ferry-fire-death-toll.html",
+      "summary": "Rescuers were still searching for victims days after a fire broke out on the June Aster en route to a popular tourist site. At least 43 people survived.",
+      "source": "NYT"
     },
     "5": {
-      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
-      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
-      "source": "BBC"
+      "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+      "summary": "The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal.",
+      "source": "NYT"
     },
     "6": {
-      "title": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
-      "link": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
-      "summary": "A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade.",
+      "title": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
+      "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
+      "summary": "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature.",
       "source": "NYT"
     }
   }
