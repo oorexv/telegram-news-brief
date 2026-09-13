@@ -1,8 +1,8 @@
 {
-  "sent_at": "2026-09-13T13:07:12.821214-04:00",
+  "sent_at": "2026-09-13T15:07:10.759198-04:00",
   "items": {
     "1": {
-      "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "source": "BBC"
@@ -20,22 +20,22 @@
       "source": "BBC"
     },
     "4": {
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "source": "BBC"
+    },
+    "5": {
       "title": "Trump doubles down on united Ireland comments on day two of visit",
       "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
       "summary": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
       "source": "BBC"
     },
-    "5": {
-      "title": "An Election in Sweden Shows Shifting Priorities",
-      "link": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html",
-      "summary": "Sweden votes on Sunday. With various crises easing, center-left politics seem in vogue again, but the far right cannot be discounted.",
-      "source": "NYT"
-    },
     "6": {
-      "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "source": "BBC"
+      "title": "Iran Expected to Meet With Gulf Arab States as Mideast Conflict Widens",
+      "link": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+      "summary": "Talks are expected tomorrow, officials said, as a ship was targeted in the Strait of Hormuz and Iranian allies in Yemen said they had launched a new attack on Saudi Arabia.",
+      "source": "NYT"
     }
   }
 }
