@@ -1,5 +1,5 @@
 {
-  "sent_at": "2026-09-12T18:07:11.430493-04:00",
+  "sent_at": "2026-09-12T21:07:12.950680-04:00",
   "items": {
     "1": {
       "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
@@ -8,7 +8,7 @@
       "source": "BBC"
     },
     "2": {
-      "title": "Afghan woman deported from US in first use of secretive 'alien terrorist' court",
+      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
       "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
       "summary": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
       "source": "BBC"
@@ -20,22 +20,22 @@
       "source": "BBC"
     },
     "4": {
+      "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+      "summary": "The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal.",
+      "source": "NYT"
+    },
+    "5": {
+      "title": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
+      "link": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
+      "summary": "Hunger and disease have tormented Yemen for years. Now, fighting between the Saudi-backed government and Iran-backed Houthis is pushing it to the brink.",
+      "source": "NYT"
+    },
+    "6": {
       "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
       "link": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
       "summary": "Even so, finding unity among the loose grouping of emerging economies will be difficult as the war in the Middle East strains their own interests.",
       "source": "NYT"
-    },
-    "5": {
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-      "source": "BBC"
-    },
-    "6": {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "source": "BBC"
     }
   }
 }
