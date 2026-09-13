@@ -1,17 +1,17 @@
 {
-  "sent_at": "2026-09-13T15:07:10.759198-04:00",
+  "sent_at": "2026-09-13T18:07:12.518366-04:00",
   "items": {
     "1": {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "source": "BBC"
-    },
-    "2": {
       "title": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
       "link": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
       "summary": "House Speaker Mike Johnson warned on Sunday of competitive risks from China, and Hakeem Jeffries, the minority leader, said Congress should start regulatory talks this week.",
       "source": "NYT"
+    },
+    "2": {
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "source": "BBC"
     },
     "3": {
       "title": "US congressman swims to safety after his plane is forced to land on a lake",
@@ -20,21 +20,21 @@
       "source": "BBC"
     },
     "4": {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
       "source": "BBC"
     },
     "5": {
-      "title": "Trump doubles down on united Ireland comments on day two of visit",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
-      "source": "BBC"
+      "title": "Meeting Between Iran, Arab States Postponed as Mideast Diplomacy Stalls",
+      "link": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+      "summary": "Talks between the United States and Iran hit a dead end weeks ago, leaving Arab countries struggling to manage their ties to Tehran amid ongoing attacks.",
+      "source": "NYT"
     },
     "6": {
-      "title": "Iran Expected to Meet With Gulf Arab States as Mideast Conflict Widens",
-      "link": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
-      "summary": "Talks are expected tomorrow, officials said, as a ship was targeted in the Strait of Hormuz and Iranian allies in Yemen said they had launched a new attack on Saudi Arabia.",
+      "title": "In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise",
+      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html",
+      "summary": "As the U.S. president heads to his Doonbeg hotel for the Irish Open, locals expressed both appreciation for the resort’s economic benefits and opposition to his politics.",
       "source": "NYT"
     }
   }
