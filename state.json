@@ -1,5 +1,5 @@
 {
-  "sent_at": "2026-09-13T18:07:12.518366-04:00",
+  "sent_at": "2026-09-13T21:07:11.559077-04:00",
   "items": {
     "1": {
       "title": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
@@ -10,7 +10,7 @@
     "2": {
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "source": "BBC"
     },
     "3": {
@@ -20,22 +20,22 @@
       "source": "BBC"
     },
     "4": {
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
-      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
-      "source": "BBC"
+      "title": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
+      "link": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+      "summary": "David Petraeus was at a rail station when a drone hit. Another train, with former Prime Minister Boris Johnson of Britain and other dignitaries, had just left, Ukrainian officials said.",
+      "source": "NYT"
     },
     "5": {
-      "title": "Meeting Between Iran, Arab States Postponed as Mideast Diplomacy Stalls",
-      "link": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
-      "summary": "Talks between the United States and Iran hit a dead end weeks ago, leaving Arab countries struggling to manage their ties to Tehran amid ongoing attacks.",
+      "title": "Election in Sweden Is Too Close to Call",
+      "link": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html",
+      "summary": "With most of the votes counted on Sunday, it was basically a tie between the center-left and center-right coalitions.",
       "source": "NYT"
     },
     "6": {
-      "title": "In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise",
-      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html",
-      "summary": "As the U.S. president heads to his Doonbeg hotel for the Irish Open, locals expressed both appreciation for the resort’s economic benefits and opposition to his politics.",
-      "source": "NYT"
+      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+      "source": "BBC"
     }
   }
 }
