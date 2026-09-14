@@ -1,28 +1,28 @@
 {
-  "sent_at": "2026-09-14T13:07:12.993064-04:00",
+  "sent_at": "2026-09-14T15:07:17.490778-04:00",
   "items": {
     "1": {
-      "title": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO",
-      "link": "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html",
-      "summary": "The president again rejected calls to try to regulate the industry, even as some of its leaders are speaking more openly about the risks of rapidly developing artificial intelligence.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "States and Cities Sue Over Trump’s Policy to Restrict Green Cards",
-      "link": "https://www.nytimes.com/2026/09/14/us/politics/green-cards-immigration-lawsuit.html",
-      "summary": "The policy would give immigration officers wide authority to deny green cards to people using public benefits.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "As Immigrants Seek Legal Status, Redacted Documents Doom Their Chances",
+      "title": "Immigrants’ Lawyers Say U.S. Is Redacting Documents Proving Legal Status",
       "link": "https://www.nytimes.com/2026/09/14/us/politics/immigrants-foia.html",
       "summary": "Many noncitizens need immigration records the government has to prove their legal stay and resist deportation. The government is redacting and withholding those documents, lawyers say.",
       "source": "NYT"
     },
+    "2": {
+      "title": "An Armadillo Arrives in … Ohio?",
+      "link": "https://www.nytimes.com/2026/09/14/us/armadillo-ohio.html",
+      "summary": "Traditionally found in warm climates, like the American Southwest, armadillos have been migrating farther and farther north, researchers say.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Why Is D.H.S. Getting Involved in Elections?",
+      "link": "https://www.nytimes.com/video/us/politics/100000011133700/why-is-dhs-getting-involved-in-elections.html",
+      "summary": "The Department of Homeland Security is in the midst of a weeks-long hunt for noncitizens among the nation’s registered voters despite the absence of evidence of widespread fraud. Reporter Hamed Aleaziz breaks down how a D.H.S. agency is using open-source state voter registration websites in their search for voter fraud.",
+      "source": "NYT"
+    },
     "4": {
-      "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
-      "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
-      "summary": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
+      "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+      "link": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+      "summary": "The film “NAZA” investigates the killing of Palestinians by Israeli forces in Gaza. Israel’s culture minister has suggested revoking the directors’ citizenship.",
       "source": "NYT"
     },
     "5": {
@@ -32,10 +32,10 @@
       "source": "NYT"
     },
     "6": {
-      "title": "Africa's richest man launches continent's biggest share sale",
-      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
-      "source": "BBC"
+      "title": "Syrians Protest as Surge in Fuel Prices Adds to Cost-of-Living Crisis",
+      "link": "https://www.nytimes.com/2026/09/14/world/middleeast/syrians-protest-fuel-price-rises.html",
+      "summary": "The government’s decision to increase prices by as much as 40 percent spurred widespread demonstrations across the country.",
+      "source": "NYT"
     }
   }
 }
