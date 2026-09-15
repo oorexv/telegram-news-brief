@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-15T15:07:11.773031-04:00",
+  "sent_at": "2026-09-15T18:07:11.085210-04:00",
   "items": {
     "1": {
-      "title": "Trump's name must stay off Kennedy Center building, judge rules",
+      "title": "Trump Approves $2.8 Billion Arms Sale to Israel",
+      "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-israel-bombs.html",
+      "summary": "The package includes 40,000 one-ton bombs and would be among the largest deliveries of U.S. munitions to Israel.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "Trump says Kennedy Center to close as court rules his name must stay off building",
       "link": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
       "summary": "The ruling came as the centre's Trump-appointed board was reportedly scheduled to vote on closing it for two years.",
       "source": "BBC"
     },
-    "2": {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/09/15/us/blanche-trump/heres-the-latest",
-      "summary": "(No summary available from the source feed.)",
-      "source": "NYT"
-    },
     "3": {
-      "title": "Patel Suggests F.B.I. Agents May Be Sent to the Polls",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/patel-fbi-agents-election.html",
-      "summary": "Federal law prohibits armed federal officers or military personnel from being deployed to polling stations.",
-      "source": "NYT"
-    },
-    "4": {
-      "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
-      "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
-      "summary": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say.",
+      "title": "Carney courts foreign money pitching Canada as 'safe harbour' at investment summit",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US  - takeaways from the first Canada Investment Summit.",
       "source": "BBC"
     },
-    "5": {
-      "title": "Ukraine and Russia Say There Is No Energy Truce, Despite Trump’s Claims",
-      "link": "https://www.nytimes.com/2026/09/15/world/europe/trump-energy-truce-ukraine-russia.html",
-      "summary": "The Kremlin said that an agreement would be “a very good idea” but that any deal would not have much effect on fuel markets, as President Trump had suggested.",
+    "4": {
+      "title": "Houthis Report Deadly Saudi Airstrikes as Kingdom Issues Mass Alerts",
+      "link": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-saudi-arabia-houthis-attacks.html",
+      "summary": "The two sides traded accusations of attacks as fighting inside Yemen remains fierce. The escalating conflict threatens to further destabilize the Middle East.",
       "source": "NYT"
     },
+    "5": {
+      "title": "Carney courts foreign money pitching Canada as 'safe harbour' at investment summit",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US  - takeaways from the first Canada Investment Summit.",
+      "source": "BBC"
+    },
     "6": {
-      "title": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
-      "link": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
-      "summary": "Prime Minister Mark Carney brought together in Toronto about 100 money managers overseeing much of the world’s wealth to promote Canada as an ideal place to invest.",
-      "source": "NYT"
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+      "source": "BBC"
     }
   }
 }
