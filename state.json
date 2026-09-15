@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-15T11:07:14.212997-04:00",
+  "sent_at": "2026-09-15T13:07:11.220852-04:00",
   "items": {
     "1": {
-      "title": "Congress Has Proposed Many Bills for A.I. Regulation. Lawmakers Have Enacted Few.",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/congress-ai-regulation-bills.html",
-      "summary": "For years, Democrats and Republicans have proposed bills to address the greatest threats posed by artificial intelligence. Many remain stymied by political disputes.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "Why Our Poll Shows Democrats Leading in the House",
+      "title": "Why Our Poll Shows Democrats Leading Ahead of the Midterms",
       "link": "https://www.nytimes.com/video/us/elections/100000011145544/why-democrats-are-leading-in-house-poll.html",
       "summary": "Our polling reporter Ruth Igielnik describes what likely voters told us in the latest Times/Siena poll leading up to this year’s midterm elections.",
       "source": "NYT"
     },
-    "3": {
-      "title": "Trump Slams Supreme Court Over Mail Ballot Ruling",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-supreme-court-mail-voting.html",
-      "summary": "In a blistering attack on the court, President Trump said “these are not the people I interviewed” to serve as justices.",
+    "2": {
+      "title": "A.I. Is Unpopular With Voters, a New York Times/Siena Poll Finds",
+      "link": "https://www.nytimes.com/2026/09/15/us/politics/ai-polls-midterms.html",
+      "summary": "As fears grow about the threat of artificial intelligence, neither party has claimed an advantage on the technology, a New York Times/Siena poll found. But voters are united in opposition to data centers.",
       "source": "NYT"
+    },
+    "3": {
+      "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president assailed the justices for blocking his plan to allow delivery of ballots only to voters on lists of citizens.",
+      "source": "BBC"
     },
     "4": {
-      "title": "Rising Fuel Prices Set Off Anger and Protests Around the World",
-      "link": "https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html",
-      "summary": "From Indonesia to Guatemala to Syria, shortages and price increases are leading to protests and blackouts.",
-      "source": "NYT"
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "source": "BBC"
     },
     "5": {
-      "title": "Lucy Letby Murder Inquiry Says Some Babies’ Deaths Were Avoidable",
-      "link": "https://www.nytimes.com/2026/09/15/world/europe/lucy-letby-murder-inquiry.html",
-      "summary": "While significant questions remain about the evidence used to convict a British nurse of murdering seven babies, a report predicated on her guilt was released on Tuesday.",
+      "title": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
+      "link": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+      "summary": "Prime Minister Mark Carney brought together in Toronto about 100 money managers overseeing much of the world’s wealth to promote Canada as an ideal place to invest.",
       "source": "NYT"
     },
     "6": {
-      "title": "Ash from Mount Etna grounds flights at Sicily airport",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
-      "summary": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
       "source": "BBC"
     }
   }
