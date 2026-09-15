@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-15T07:07:15.830283-04:00",
+  "sent_at": "2026-09-15T11:07:14.212997-04:00",
   "items": {
     "1": {
+      "title": "Congress Has Proposed Many Bills for A.I. Regulation. Lawmakers Have Enacted Few.",
+      "link": "https://www.nytimes.com/2026/09/15/us/politics/congress-ai-regulation-bills.html",
+      "summary": "For years, Democrats and Republicans have proposed bills to address the greatest threats posed by artificial intelligence. Many remain stymied by political disputes.",
+      "source": "NYT"
+    },
+    "2": {
       "title": "Why Our Poll Shows Democrats Leading in the House",
       "link": "https://www.nytimes.com/video/us/elections/100000011145544/why-democrats-are-leading-in-house-poll.html",
       "summary": "Our polling reporter Ruth Igielnik describes what likely voters told us in the latest Times/Siena poll leading up to this year’s midterm elections.",
       "source": "NYT"
     },
-    "2": {
-      "title": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
-      "summary": "Troy E. Meink’s comments were the first public acknowledgment of American weapons in orbit. The Pentagon has been preparing for potential conflict in space with Russia or China.",
-      "source": "NYT"
-    },
     "3": {
-      "title": "With Trump’s Plans Blocked, States Work to Restore Trust in Mail Voting",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/mail-ballots-trump-supreme-court-trust.html",
-      "summary": "President Trump’s efforts to restrict mail voting ahead of the midterms were thwarted by the Supreme Court, but they have sowed confusion and doubt among some voters.",
+      "title": "Trump Slams Supreme Court Over Mail Ballot Ruling",
+      "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-supreme-court-mail-voting.html",
+      "summary": "In a blistering attack on the court, President Trump said “these are not the people I interviewed” to serve as justices.",
       "source": "NYT"
     },
     "4": {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-      "source": "BBC"
+      "title": "Rising Fuel Prices Set Off Anger and Protests Around the World",
+      "link": "https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html",
+      "summary": "From Indonesia to Guatemala to Syria, shortages and price increases are leading to protests and blackouts.",
+      "source": "NYT"
     },
     "5": {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-      "source": "BBC"
+      "title": "Lucy Letby Murder Inquiry Says Some Babies’ Deaths Were Avoidable",
+      "link": "https://www.nytimes.com/2026/09/15/world/europe/lucy-letby-murder-inquiry.html",
+      "summary": "While significant questions remain about the evidence used to convict a British nurse of murdering seven babies, a report predicated on her guilt was released on Tuesday.",
+      "source": "NYT"
     },
     "6": {
-      "title": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
-      "link": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
-      "summary": "The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia.",
-      "source": "NYT"
+      "title": "Ash from Mount Etna grounds flights at Sicily airport",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
+      "source": "BBC"
     }
   }
 }
