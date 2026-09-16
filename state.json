@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-16T07:07:17.290368-04:00",
+  "sent_at": "2026-09-16T11:07:14.696784-04:00",
   "items": {
     "1": {
-      "title": "Is Iran Shaping Up to Be a ‘Forever War’?",
-      "link": "https://www.nytimes.com/video/us/100000011145234/is-iran-shaping-up-to-be-a-forever-war.html",
-      "summary": "Our White House and national security correspondent, David Sanger, compares past “forever wars” that President Trump campaigned against with an Iran War that has no clear endgame.",
-      "source": "NYT"
-    },
-    "2": {
       "title": "News Helicopter Crash and Bus Accident in Los Angeles Leave at Least 5 Dead",
       "link": "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html",
       "summary": "The accidents occurred back to back when an S.U.V. broadsided a bus and then a local news helicopter covering the story crashed and burst into flames.",
       "source": "NYT"
     },
+    "2": {
+      "title": "Bo French Faces Backlash Over Posts About University of Texas Students",
+      "link": "https://www.nytimes.com/2026/09/16/us/attack-on-university-of-texas-students-tests-texas-gop-unity.html",
+      "summary": "Republican leaders brought Bo French, an anti-Muslim hard-liner, into the fold. Then he attacked Texas football fans.",
+      "source": "NYT"
+    },
     "3": {
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "source": "BBC"
+      "title": "Black Bear Euthanized at Grand Teton National Park, Officials Say",
+      "link": "https://www.nytimes.com/2026/09/15/us/bear-euthanized-grand-teton-national-park.html",
+      "summary": "People had fed the bear several times, and it was becoming a safety risk for park visitors in Wyoming, officials said.",
+      "source": "NYT"
     },
     "4": {
-      "title": "EU chief backs plan for Canada to become 'associate member'",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+      "title": "Eight German state premiers back Merz amid speculation over future",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
       "source": "BBC"
     },
     "5": {
-      "title": "E.U. Offers to Make Canada ‘Associate Member’ as U.S. Ties Weaken for Both",
-      "link": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
-      "summary": "Canada and the European Union have been confronting an increasingly challenging relationship with the United States under President Trump.",
+      "title": "Kosovo’s Former Leader Is Sentenced to 25 Years in War Crimes Case",
+      "link": "https://www.nytimes.com/2026/09/16/world/europe/kosovo-thaci-war-crimes-hague-serbia.html",
+      "summary": "A tribunal in The Hague found Hashim Thaci, who led Kosovo’s independence struggle in the 1990s, responsible for arbitrary detention, torture and murder.",
       "source": "NYT"
     },
     "6": {
-      "title": "At least 20 killed after war-damaged Gaza building collapses",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.",
-      "source": "BBC"
+      "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
+      "link": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
+      "summary": "China renewed calls for an end to the fighting in the Middle East while demonstrating its influence over Tehran.",
+      "source": "NYT"
     }
   }
 }
