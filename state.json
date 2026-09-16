@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-16T13:07:10.268384-04:00",
+  "sent_at": "2026-09-16T15:07:11.697186-04:00",
   "items": {
     "1": {
+      "title": "Officer Sues Capitol Police, Alleging Racial Bias",
+      "link": "https://www.nytimes.com/2026/09/16/us/politics/capitol-police-discrimination-lawsuit.html",
+      "summary": "It was the latest in a string of discrimination complaints against the department, which has paid out nearly $1 million since 2022 for employment claims.",
+      "source": "NYT"
+    },
+    "2": {
       "title": "Photos show widespread damage at US sites from Iranian attacks",
       "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
       "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
       "source": "BBC"
     },
-    "2": {
-      "title": "U.S. Fast-Tracked Deportation of Ecuadorean Politician Despite Torture Fears",
-      "link": "https://www.nytimes.com/2026/09/16/us/politics/trump-noem-fast-track-deportation-ecuador.html",
-      "summary": "The removal of José Serrano, a critic of President Daniel Noboa who has been accused of criminal activity, underscores how the Trump administration has asserted control over U.S. immigration courts.",
-      "source": "NYT"
-    },
     "3": {
-      "title": "News Helicopter Crash in Los Angeles Underscores the Risks of Aerial Reporting",
-      "link": "https://www.nytimes.com/2026/09/16/us/los-angeles-news-chopper-crash.html",
-      "summary": "Swarms of helicopters traverse the vast region to capture its mayhem. Then, one became the story. “It was the day we all dread,” one pilot said.",
+      "title": "What to Know About the Victims in the NBC4 Helicopter Crash in Los Angeles",
+      "link": "https://www.nytimes.com/2026/09/16/us/la-helicopter-crash-victims-eliana-moreno-george-marciniw.html",
+      "summary": "A journalist and pilot who were on board the news helicopter when it crashed had flown hundreds of hours together since 2023.",
       "source": "NYT"
     },
     "4": {
-      "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-      "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-      "summary": "The building was previously damaged by an Israeli strike, the local rescue service said. Its fall underscored the severe risks for many people living among Gaza’s ruins.",
+      "title": "Gold Mine Collapse in Sudan Kills at Least 70",
+      "link": "https://www.nytimes.com/2026/09/16/world/africa/sudan-gold-mine-collapse.html",
+      "summary": "Dozens more are missing after shafts collapsed on Sunday, according to a charity, which said that the chances of rescuing those trapped were “limited” because of a lack of specialized equipment.",
       "source": "NYT"
     },
     "5": {
-      "title": "Houthis and Saudis Trade Claims of Military Attacks as Conflict Escalates",
-      "link": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
-      "summary": "The Houthis, an Iran-backed militia in Yemen, said they had downed a Saudi jet, while Saudi authorities accused the group of firing a drone near Mecca. The Houthis denied doing so.",
+      "title": "E.U.-Canada Ambitions Face Reality Check",
+      "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
+      "summary": "The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.",
       "source": "NYT"
     },
     "6": {
-      "title": "Belarus Releases 25 Political Prisoners in Exchange for U.S. Easing of Sanctions",
-      "link": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
-      "summary": "The deal is part of the Trump administration’s more transactional approach to a close Russian ally that Europe has tried to isolate.",
-      "source": "NYT"
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+      "source": "BBC"
     }
   }
 }
