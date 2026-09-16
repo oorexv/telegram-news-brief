@@ -1,35 +1,35 @@
 {
-  "sent_at": "2026-09-15T18:07:11.085210-04:00",
+  "sent_at": "2026-09-15T21:07:13.248235-04:00",
   "items": {
     "1": {
-      "title": "Trump Approves $2.8 Billion Arms Sale to Israel",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-israel-bombs.html",
-      "summary": "The package includes 40,000 one-ton bombs and would be among the largest deliveries of U.S. munitions to Israel.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "Trump says Kennedy Center to close as court rules his name must stay off building",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The ruling came as the centre's Trump-appointed board was reportedly scheduled to vote on closing it for two years.",
+      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
       "source": "BBC"
     },
+    "2": {
+      "title": "Pentagon Inspector General Details U.S. Losses and Challenges in Iran War",
+      "link": "https://www.nytimes.com/2026/09/15/us/politics/pentagon-inspector-general-iran-war.html",
+      "summary": "Helicopters for evacuating casualties were pulled from four countries, and hundreds of military facilities were destroyed, according to a new report.",
+      "source": "NYT"
+    },
     "3": {
-      "title": "Carney courts foreign money pitching Canada as 'safe harbour' at investment summit",
+      "title": "Trump Approves $2.8 Billion Arms Sale to Israel, Including 40,000 One-Ton Bombs",
+      "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-israel-bombs.html",
+      "summary": "The package would be among the largest deliveries of U.S. munitions to Israel.",
+      "source": "NYT"
+    },
+    "4": {
+      "title": "Five takeaways from Canada's push to woo the world's richest investors",
       "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
       "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US  - takeaways from the first Canada Investment Summit.",
       "source": "BBC"
     },
-    "4": {
+    "5": {
       "title": "Houthis Report Deadly Saudi Airstrikes as Kingdom Issues Mass Alerts",
       "link": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-saudi-arabia-houthis-attacks.html",
       "summary": "The two sides traded accusations of attacks as fighting inside Yemen remains fierce. The escalating conflict threatens to further destabilize the Middle East.",
       "source": "NYT"
-    },
-    "5": {
-      "title": "Carney courts foreign money pitching Canada as 'safe harbour' at investment summit",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-      "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US  - takeaways from the first Canada Investment Summit.",
-      "source": "BBC"
     },
     "6": {
       "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
