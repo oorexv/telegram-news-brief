@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-17T13:07:10.904443-04:00",
+  "sent_at": "2026-09-17T15:07:14.318691-04:00",
   "items": {
     "1": {
+      "title": "Trump Air Force One Photos Fuel Kennedy Center Demolition Speculation",
+      "link": "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html",
+      "summary": "Images captured through the windows of Air Force One showed President Trump reviewing a poster with the title “Kennedy Center DEMOLISHED.”",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "At Gettysburg, a Reporter Captured a Nation’s Loss, and His Own",
+      "link": "https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html",
+      "summary": "Samuel Wilkeson Jr. filed a report for The Times from the battlefield. Then he went looking for a Union officer, his son.",
+      "source": "NYT"
+    },
+    "3": {
       "title": "Jon Kyl, Senator Known for His Skills Behind the Scenes, Dies at 84",
       "link": "https://www.nytimes.com/2026/09/17/us/politics/jon-kyl-dead.html",
       "summary": "The Arizona politician rose to the second-highest position in the Republican-held Senate caucus thanks to his policy smarts and deft political sensibilities.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Jewish Leaders in Michigan Urge Support for El-Sayed’s Senate Bid",
-      "link": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-michigan-senate-jewish-petition.html",
-      "summary": "The public petition comes after other Michigan Jews registered their discontent with Abdul El-Sayed, the state’s Democratic Senate nominee.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "Are Trump’s Official Papers His Personal Property?",
-      "link": "https://www.nytimes.com/2026/09/17/us/politics/the-docket-trump-presidential-records.html",
-      "summary": "The administration argues that presidential papers are like those of Supreme Court justices.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "Carney Calls for E.U.-Canada Pact Amid ‘Ferocious Storm’",
-      "link": "https://www.nytimes.com/2026/09/17/world/europe/canada-carney-eu.html",
-      "summary": "Prime Minister Mark Carney told European lawmakers that an alliance would help to secure sovereignty and independence for his country. The moves come amid a historic low for U.S. ties with Canada.",
+      "title": "U.S. Strike on Iranian School May Have Been War Crime, U.N. Report Says",
+      "link": "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html",
+      "summary": "Mistakes that led to the deaths of more than a hundred children “went beyond negligence,” investigators said. They also cited a separate strike the same day that killed a reported 22 civilians.",
       "source": "NYT"
     },
     "5": {
-      "title": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
-      "link": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html",
-      "summary": "Israel’s right-wing government is opening bidding for thousands of housing units in a patch of the West Bank, a move that would thwart efforts at Palestinian statehood.",
+      "title": "Major Iranian Airline Suspends Several Flights Abroad, Adding to Isolation",
+      "link": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html",
+      "summary": "The carrier, Mahan Air, said it would stop flying to neighboring countries just over a week after the United States imposed sweeping sanctions on Iran’s aviation industry.",
       "source": "NYT"
     },
     "6": {
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-      "source": "BBC"
+      "title": "Russia and China Veto U.S. Bid to Renew U.N. Monitoring of Iran Nuclear Program",
+      "link": "https://www.nytimes.com/2026/09/17/world/middleeast/un-iran-resolution-russia-china-veto.html",
+      "summary": "The conflict underscored the distance between world powers over the United States’ pressure campaign on Iran.",
+      "source": "NYT"
     }
   }
 }
