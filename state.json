@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-18T07:07:11.556706-04:00",
+  "sent_at": "2026-09-18T11:07:13.303364-04:00",
   "items": {
     "1": {
-      "title": "Ocasio-Cortez Donates to N.Y. Democrats, Will Barnstorm State Ahead of Midterms",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/alexandria-ocasio-cortez-donation-midterms.html",
-      "summary": "The news has reignited speculation about whether the progressive representative from the Bronx is considering a run for senator or president.",
+      "title": "Trump’s Open Claims That He Directs Super PAC Spending Draw Watchdog Complaint",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-pac-spending-violation.html",
+      "summary": "Federal law bars those holding federal office from directing spending decisions for a political organization with no contribution limits.",
       "source": "NYT"
     },
     "2": {
-      "title": "Abortion Rights Activists in Idaho Find Their Pitch: Bring Back the Doctors",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/abortion-rights-activists-in-idaho-find-their-pitch-bring-back-the-doctors.html",
-      "summary": "Organizers of a referendum to repeal an abortion ban in deep-red Idaho are far more focused on how the ban has broadly affected health care in the state.",
+      "title": "Civil Rights Groups Sue to Keep Armed Agents Away From Voting Sites",
+      "link": "https://www.nytimes.com/2026/09/18/us/civil-rights-lawsuit-armed-agents-voting.html",
+      "summary": "The lawsuit argues that the Trump administration’s immigration enforcement and suggestions that it could send agents to polling stations violate the Voting Rights Act.",
       "source": "NYT"
     },
     "3": {
-      "title": "Ashley Hinson, a Republican ‘Minivan-Driving Mom,’ Steers Away From Trump in Midterm Elections",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/ashley-hinson-trump-iowa-senate-race.html",
-      "summary": "Representative Ashley Hinson is hoping to keep a crucial Senate seat red in Iowa, where the president has created major headwinds for her party.",
-      "source": "NYT"
-    },
-    "4": {
-      "title": "Three dead and eight injured in Philippines school shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
+      "title": "Resident Evil movie director says he was not prepared for fan backlash",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g525l8jwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The video game adaptation is a hit with critics, but director Zach Cregger says the fan response surprised him.",
       "source": "BBC"
     },
+    "4": {
+      "title": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power",
+      "link": "https://www.nytimes.com/2026/09/18/world/europe/germany-afd-bauhaus-culture.html",
+      "summary": "As the Alternative for Germany party seeks to control a state government for the first time, its push for “patriotic” art has drawn comparisons with Nazi policies.",
+      "source": "NYT"
+    },
     "5": {
-      "title": "At least 16 killed in attack on mosque in Pakistan",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
       "source": "BBC"
     },
     "6": {
-      "title": "Dozens of suspected illegal miners die in Nigerian custody",
-      "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-      "source": "BBC"
+      "title": "37 Miners in Nigeria Die in Police Custody, Sparking Protests",
+      "link": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
+      "summary": "One survivor told The New York Times that dozens were packed into a single cell with barely any ventilation, food, or water.",
+      "source": "NYT"
     }
   }
 }
