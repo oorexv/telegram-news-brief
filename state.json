@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-21T15:07:23.398348-04:00",
+  "sent_at": "2026-09-21T18:07:13.834256-04:00",
   "items": {
     "1": {
-      "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-      "summary": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
       "source": "BBC"
     },
     "2": {
-      "title": "East Coast Flights Disrupted Due to Communication Failures",
+      "title": "What We Know About the ICE Shooting in Austin, Texas",
+      "link": "https://www.nytimes.com/2026/09/21/us/immigration-ice-shooting-austin-texas.html",
+      "summary": "A federal immigration agent shot a Venezuelan immigrant in his car on Sunday in the second shooting by an ICE agent in Texas since July.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Technical Problems Ground Flights at Major East Coast Airports",
       "link": "https://www.nytimes.com/2026/09/21/us/east-coast-flights-ground-stop-communication-failure.html",
       "summary": "The incident revived concerns about the Federal Aviation Administration’s aging air traffic control infrastructure.",
       "source": "NYT"
     },
-    "3": {
-      "title": "Why Is the Coast Guard Operating Surveillance Drones in the Great Lakes?",
-      "link": "https://www.nytimes.com/video/us/100000011152107/coast-guard-saildrone-great-lakes.html",
-      "summary": "Since May, the Coast Guard has deployed six surveillance drones across the Great Lakes to stop the flow of drugs and illegal border crossings from Canada. But there is little illegal activity on the northern border, and the sailing drones are raising privacy concerns.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "Russia’s Election Was Engineered to Send a Message: Putin Remains in Control",
-      "link": "https://www.nytimes.com/2026/09/21/world/europe/russia-duma-election.html",
-      "summary": "A parliamentary vote demonstrated that President Vladimir V. Putin’s autocratic system was still able to deliver the results he wanted, analysts said.",
-      "source": "NYT"
-    },
-    "5": {
-      "title": "First UK charges brought over 1994 Rwanda genocide",
-      "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
       "source": "BBC"
     },
+    "5": {
+      "title": "Why the Iran-Backed Houthis in Yemen and Saudi Arabia Are Back at War",
+      "link": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html",
+      "summary": "The conflict has opened a second front in the Middle East after the United States and Israel attacked Iran, adding to global uncertainty and turmoil in energy markets.",
+      "source": "NYT"
+    },
     "6": {
-      "title": "Police Officer Injured in Shooting Near Ontario Synagogue on Yom Kippur",
-      "link": "https://www.nytimes.com/2026/09/21/world/canada/synagogue-shooting-belleville-ontario-yom-kippur.html",
-      "summary": "A gunman opened fire near the Sons of Jacob Synagogue in Belleville as congregants gathered for Yom Kippur, the authorities said.",
+      "title": "Spectre of Rogue A.I. Looms Over U.N. Talks on Digital Cooperation",
+      "link": "https://www.nytimes.com/2026/09/21/world/un-general-assembly-ai.html",
+      "summary": "Diplomats, dignitaries and tech experts gathered amid the United Nations General Assembly to debate how to address the threats and harness the potential of artificial intelligence.",
       "source": "NYT"
     }
   }
