@@ -1,28 +1,28 @@
 {
-  "sent_at": "2026-09-23T11:07:16.256573-04:00",
+  "sent_at": "2026-09-23T13:07:17.522399-04:00",
   "items": {
     "1": {
-      "title": "One Big Beautiful Bill Is Starting to Bite Before the Election",
-      "link": "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html",
-      "summary": "The tax cuts in President Trump’s signature achievement were the Republicans’ answer to voters’ economic struggles, but its health care and food assistance cuts are taking a toll.",
-      "source": "NYT"
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+      "summary": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
+      "source": "BBC"
     },
     "2": {
-      "title": "How Scientists Contained a Threat That Could Have Destroyed Humanity",
-      "link": "https://www.nytimes.com/2026/09/23/us/asilomar-dna-ai-self-regulation-laws.html",
-      "summary": "A half-century ago, scientists and lawyers agreed to strict self-regulation in DNA research to avoid catastrophe. Can A.I. follow the same model?",
+      "title": "ICE Mistakenly Detains U.S. Citizen in Chicago Area, Leaving Him Injured",
+      "link": "https://www.nytimes.com/2026/09/23/us/ice-us-citizen-detained-evanston-chicago.html",
+      "summary": "The Department of Homeland Security said agents released the man after he identified himself. He was taken to the hospital on Sunday with head and neck injuries, local police said.",
       "source": "NYT"
     },
     "3": {
-      "title": "3 Riders Sue Six Flags, Saying California Roller Coaster Caused Brain Injuries",
-      "link": "https://www.nytimes.com/2026/09/23/us/six-flags-x2-roller-coaster-injuries.html",
-      "summary": "The lawsuits accuse the company of failing to adequately warn passengers about the risks to riders of the X2 coaster at Six Flags Magic Mountain.",
-      "source": "NYT"
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+      "summary": "In court, Miriam Haley said the assault had a \"devastating effect on my life and sense of security that may never go away\".",
+      "source": "BBC"
     },
     "4": {
       "title": "U.N. Live Updates: Iran’s President Accuses U.S. and Israel of Lawless Attacks in a Defiant Address",
       "link": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
-      "summary": "Masoud Pezeshkian said Iran was open to diplomacy to end the war but would never accept limits on its civilian nuclear program. He became the first leader to speak to the General Assembly in New York while his country was at war with the United States.",
+      "summary": "Masoud Pezeshkian said Iran was open to diplomacy but would never accept limits on its civilian nuclear program. Before his speech later today, President Volodymyr Zelensky of Ukraine called on allies to apply more pressure on Russia.",
       "source": "NYT"
     },
     "5": {
@@ -32,10 +32,10 @@
       "source": "BBC"
     },
     "6": {
-      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
-      "link": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
-      "source": "BBC"
+      "title": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
+      "link": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
+      "summary": "A discovery at a Parisian hospital, on an island in the Seine, has given archaeologists clues about the city as Julius Caesar may have found it.",
+      "source": "NYT"
     }
   }
 }
