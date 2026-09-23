@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-23T07:07:12.029387-04:00",
+  "sent_at": "2026-09-23T11:07:16.256573-04:00",
   "items": {
     "1": {
-      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
-      "link": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
-      "source": "BBC"
-    },
-    "2": {
-      "title": "How Scientists Contained a Threat That Could Have Destroyed Humanity",
-      "link": "https://www.nytimes.com/2026/09/23/us/asilomar-dna-ai-self-regulation-laws.html",
-      "summary": "A half-century ago, scientists and lawyers agreed to strict self-regulation in DNA research to avoid catastrophe. But it took enforcement to really stop them.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "The Big Beautiful Bill Is Starting to Bite Before the Election",
+      "title": "One Big Beautiful Bill Is Starting to Bite Before the Election",
       "link": "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html",
       "summary": "The tax cuts in President Trump’s signature achievement were the Republicans’ answer to voters’ economic struggles, but its health care and food assistance cuts are taking a toll.",
       "source": "NYT"
     },
+    "2": {
+      "title": "How Scientists Contained a Threat That Could Have Destroyed Humanity",
+      "link": "https://www.nytimes.com/2026/09/23/us/asilomar-dna-ai-self-regulation-laws.html",
+      "summary": "A half-century ago, scientists and lawyers agreed to strict self-regulation in DNA research to avoid catastrophe. Can A.I. follow the same model?",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "3 Riders Sue Six Flags, Saying California Roller Coaster Caused Brain Injuries",
+      "link": "https://www.nytimes.com/2026/09/23/us/six-flags-x2-roller-coaster-injuries.html",
+      "summary": "The lawsuits accuse the company of failing to adequately warn passengers about the risks to riders of the X2 coaster at Six Flags Magic Mountain.",
+      "source": "NYT"
+    },
     "4": {
-      "title": "U.N. Live Updates: Iran’s President to Address World Leaders After Trump Threat",
+      "title": "U.N. Live Updates: Iran’s President Accuses U.S. and Israel of Lawless Attacks in a Defiant Address",
       "link": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
-      "summary": "Masoud Pezeshkian is the first leader whose country is at war with the United States to travel to New York to address the General Assembly. President Trump said he faced a choice over whether to “annihilate” the Islamic republic.",
+      "summary": "Masoud Pezeshkian said Iran was open to diplomacy to end the war but would never accept limits on its civilian nuclear program. He became the first leader to speak to the General Assembly in New York while his country was at war with the United States.",
       "source": "NYT"
     },
     "5": {
-      "title": "The Winner of This Rivalry Gets Ice Cream. But So Does the Loser.",
-      "link": "https://www.nytimes.com/2026/09/23/world/middleeast/ice-cream-ramallah-baladna-rukab.html",
-      "summary": "The competition between two popular ice cream shops in Ramallah inspires fierce loyalties, and a running joke, for lovers of cones piled high with flavors.",
-      "source": "NYT"
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "source": "BBC"
     },
     "6": {
-      "title": "Youth Frustration and Migration Shadow Morocco’s Election",
-      "link": "https://www.nytimes.com/2026/09/23/world/africa/morocco-election-youth-frustration.html",
-      "summary": "Unemployment and poor public services fueled the border crisis at Ceuta and Gen Z protests, but frustrated young people may stay away from the polls.",
-      "source": "NYT"
+      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "link": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
+      "source": "BBC"
     }
   }
 }
