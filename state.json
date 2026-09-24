@@ -1,22 +1,22 @@
 {
-  "sent_at": "2026-09-24T11:07:16.916810-04:00",
+  "sent_at": "2026-09-24T13:07:14.404769-04:00",
   "items": {
     "1": {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/09/24/us/trump-xi-summit-meeting-us-china/trump-xi-summit-china",
-      "summary": "President Xi Jinping’s first visit to the White House in a decade comes as President Trump continues his unexpected turn from a hard line on China.",
+      "title": "Trump and Xi Are Expected to Discuss Accusations of Copying American A.I. Tech",
+      "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-ai-copying-china.html",
+      "summary": "American artificial intelligence companies have accused their Chinese counterparts of using a technique called distillation to enhance their own systems.",
       "source": "NYT"
     },
     "2": {
-      "title": "In San Francisco, It’s a Good Time to Be a Satirist",
-      "link": "https://www.nytimes.com/2026/09/24/us/san-francisco-ai-satire-artificial-intelligence.html",
-      "summary": "Artificial intelligence companies are becoming pervasive in the city, and a humorist finds them ripe for mocking.",
-      "source": "NYT"
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+      "source": "BBC"
     },
     "3": {
-      "title": "South Asians, a ‘Model Minority,’ Face Surging Racism in America",
-      "link": "https://www.nytimes.com/2026/09/24/us/politics/south-asian-indian-american-racism.html",
-      "summary": "Social media posts, including from the Department of Homeland Security and a Texas Republican candidate, have helped stir fear among people of South Asian heritage.",
+      "title": "San Francisco Is Making News on Many Fronts. It’s Also Ripe for Mocking.",
+      "link": "https://www.nytimes.com/2026/09/24/us/san-francisco-ai-satire-artificial-intelligence.html",
+      "summary": "Artificial intelligence companies are becoming pervasive in the city, and a humorist finds this is a good time for a little satire.",
       "source": "NYT"
     },
     "4": {
@@ -26,15 +26,15 @@
       "source": "NYT"
     },
     "5": {
-      "title": "Forced Eviction of 87-Year-Old Woman Spurs Outrage in Spain",
-      "link": "https://www.nytimes.com/2026/09/24/world/europe/spain-eviction-sanchez.html",
-      "summary": "Demonstrations broke out across the country over the woman’s eviction in Madrid, putting rising rents and affordability at the top of the political conversation.",
+      "title": "Carney’s Big Challenge: Time",
+      "link": "https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html",
+      "summary": "As he tries to break Canada’s dependence on the United States, Prime Minister Mark Carney said he knows Canadians will feel pain from the trade war.",
       "source": "NYT"
     },
     "6": {
-      "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.",
+      "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
       "source": "BBC"
     }
   }
