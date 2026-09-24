@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-24T13:07:14.404769-04:00",
+  "sent_at": "2026-09-24T15:07:16.080849-04:00",
   "items": {
     "1": {
-      "title": "Trump and Xi Are Expected to Discuss Accusations of Copying American A.I. Tech",
-      "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-ai-copying-china.html",
-      "summary": "American artificial intelligence companies have accused their Chinese counterparts of using a technique called distillation to enhance their own systems.",
+      "title": "Texas Court Rejects Innocence Finding for Death Row Inmate Melissa Lucio",
+      "link": "https://www.nytimes.com/2026/09/24/us/texas-appeals-court-melissa-lucio.html",
+      "summary": "Melissa Lucio’s execution was halted in 2022, but Thursday’s ruling dealt a setback in her effort to prove that she did not kill her 2-year-old daughter.",
       "source": "NYT"
     },
     "2": {
-      "title": "White House restores access to media outlets banned by Trump after judge's order",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
-      "source": "BBC"
+      "title": "As Trump Hosts State Dinner Honoring Xi, See the Menu",
+      "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html",
+      "summary": "The White House said that the three-course menu, including sea bass and bok choy, featured American ingredients with a “subtle Chinese influence.”",
+      "source": "NYT"
     },
     "3": {
-      "title": "San Francisco Is Making News on Many Fronts. It’s Also Ripe for Mocking.",
-      "link": "https://www.nytimes.com/2026/09/24/us/san-francisco-ai-satire-artificial-intelligence.html",
-      "summary": "Artificial intelligence companies are becoming pervasive in the city, and a humorist finds this is a good time for a little satire.",
+      "title": "Iranian American Group Files Suit Alleging Iran War Is Unconstitutional",
+      "link": "https://www.nytimes.com/2026/09/24/us/politics/iran-war-lawsuit-iranian-americans.html",
+      "summary": "In a federal lawsuit filed on Thursday, an advocacy group asked a federal judge to declare that the seven-month war in Iran was never declared or authorized by Congress.",
       "source": "NYT"
     },
     "4": {
-      "title": "U.N. Live Updates: Abbas Criticizes Israeli Attacks and Failure of Gaza Peace Plan",
+      "title": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
       "link": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
-      "summary": "The Palestinian leader, Mahmoud Abbas, condemned settler violence in the West Bank, saying, ‘We will not leave our homeland.’ Prime Minister Benjamin Netanyahu of Israel will take the stage later today, weeks before pivotal elections at home.",
+      "summary": "In a combative speech, the prime minister defended Israeli military action across the Middle East, and attacked Mayor Zohran Mamdani of New York. Dozens of delegates walked out of the hall as he took the podium.",
       "source": "NYT"
     },
     "5": {
-      "title": "Carney’s Big Challenge: Time",
-      "link": "https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html",
-      "summary": "As he tries to break Canada’s dependence on the United States, Prime Minister Mark Carney said he knows Canadians will feel pain from the trade war.",
+      "title": "Haiti Turns to Roger Stone To Lobby Trump Administration",
+      "link": "https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html",
+      "summary": "The Haitian government hired Mr. Stone, a confidant of President Trump, weeks after hundreds of thousands of Haitians lost deportation protection. The contract is worth nearly $800,000, a document shows.",
       "source": "NYT"
     },
     "6": {
-      "title": "White House restores access to media outlets banned by Trump after judge's order",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
       "source": "BBC"
     }
   }
