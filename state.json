@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-24T07:07:14.556187-04:00",
+  "sent_at": "2026-09-24T11:07:16.916810-04:00",
   "items": {
     "1": {
       "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-summit-china.html",
+      "link": "https://www.nytimes.com/live/2026/09/24/us/trump-xi-summit-meeting-us-china/trump-xi-summit-china",
       "summary": "President Xi Jinping’s first visit to the White House in a decade comes as President Trump continues his unexpected turn from a hard line on China.",
       "source": "NYT"
     },
     "2": {
-      "title": "American Bar Association Fights to Keep Power to Vet Law Schools",
-      "link": "https://www.nytimes.com/2026/09/24/us/politics/aba-law-schools-dei-trump.html",
-      "summary": "Losing its accreditation ability would be a blow to the nation’s largest association of lawyers and another example of how the Trump administration is reshaping higher education.",
+      "title": "In San Francisco, It’s a Good Time to Be a Satirist",
+      "link": "https://www.nytimes.com/2026/09/24/us/san-francisco-ai-satire-artificial-intelligence.html",
+      "summary": "Artificial intelligence companies are becoming pervasive in the city, and a humorist finds them ripe for mocking.",
       "source": "NYT"
     },
     "3": {
-      "title": "‘Survival Mode Time’: Republicans Accelerate Their Break With Trump",
-      "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-republicans-midterms-break.html",
-      "summary": "The dissent reflects growing unease about the party’s prospects in November, as the G.O.P. struggles to overcome the president’s unpopularity.",
+      "title": "South Asians, a ‘Model Minority,’ Face Surging Racism in America",
+      "link": "https://www.nytimes.com/2026/09/24/us/politics/south-asian-indian-american-racism.html",
+      "summary": "Social media posts, including from the Department of Homeland Security and a Texas Republican candidate, have helped stir fear among people of South Asian heritage.",
       "source": "NYT"
     },
     "4": {
-      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
-      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-      "source": "BBC"
+      "title": "U.N. Live Updates: Abbas Criticizes Israeli Attacks and Failure of Gaza Peace Plan",
+      "link": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
+      "summary": "The Palestinian leader, Mahmoud Abbas, condemned settler violence in the West Bank, saying, ‘We will not leave our homeland.’ Prime Minister Benjamin Netanyahu of Israel will take the stage later today, weeks before pivotal elections at home.",
+      "source": "NYT"
     },
     "5": {
-      "title": "Families Urge Trump to Press Xi to Free Americans Detained in China",
-      "link": "https://www.nytimes.com/2026/09/24/world/asia/china-xi-trump-detained-americans.html",
-      "summary": "The Americans being held in China are U Min Zin, a scholar who studied Myanmar, and Youlin Chen, a seismologist who researched North Korean nuclear tests.",
+      "title": "Forced Eviction of 87-Year-Old Woman Spurs Outrage in Spain",
+      "link": "https://www.nytimes.com/2026/09/24/world/europe/spain-eviction-sanchez.html",
+      "summary": "Demonstrations broke out across the country over the woman’s eviction in Madrid, putting rising rents and affordability at the top of the political conversation.",
       "source": "NYT"
     },
     "6": {
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.",
       "source": "BBC"
     }
   }
