@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-25T13:07:14.229355-04:00",
+  "sent_at": "2026-09-25T15:07:13.985106-04:00",
   "items": {
     "1": {
-      "title": "After Tough Primaries, Democrats in Key States Feel Unified, New Polls Find",
-      "link": "https://www.nytimes.com/2026/09/25/us/politics/maine-michigan-democrats-unity-poll.html",
-      "summary": "A majority of Democrats in Maine and Michigan said the primary process strengthened their party heading into November.",
-      "source": "NYT"
+      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
+      "source": "BBC"
     },
     "2": {
-      "title": "A Small Hawaiian Island Rode Out a Storm With Faith and Little Help",
-      "link": "https://www.nytimes.com/2026/09/25/us/hurricane-lowell-hawaii-niihau-damage.html",
-      "summary": "Not much is publicly known about how Niihau, a privately owned Hawaiian island with fewer than 100 residents, fared during Hurricane Lowell.",
+      "title": "Beaches Are Disappearing in Southern California as El Niño Bears Down",
+      "link": "https://www.nytimes.com/2026/09/25/us/el-nino-california-beach-erosion.html",
+      "summary": "Beachfront homeowners and beachcombers are watching the sand vanish into the ocean as torrid waves strike the coast.",
       "source": "NYT"
     },
     "3": {
-      "title": "Not Long Ago, Trump Accused China of Election Meddling. Today, ‘Great Friendship.’",
-      "link": "https://www.nytimes.com/2026/09/25/us/politics/trump-china-election-meddling.html",
-      "summary": "President Trump softened much of his stance toward China as he prepared to host its leader. But his disregard of a topic that has consumed him — the 2020 election — was particularly stark.",
-      "source": "NYT"
-    },
-    "4": {
-      "title": "Supreme Court revives controversial US data system for citizenship checks",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
       "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "summary": "The system uses citizenship information and other sensitive data to filter alleged non-citizen voting.",
+      "summary": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
       "source": "BBC"
     },
-    "5": {
-      "title": "African Presidents Call for Permanent African Seats on U.N. Security Council",
-      "link": "https://www.nytimes.com/2026/09/25/world/africa/africa-security-council-representation.html",
-      "summary": "A host of African leaders including the presidents of Ghana, Liberia, Kenya and Namibia demanded the reform, while the U.N. Secretary General said the lack of a permanent African seat was “indefensible.”",
+    "4": {
+      "title": "Charges of A.I. Writing in a Lauded Novel, and a Fight Over the Literary Future",
+      "link": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html",
+      "summary": "“It Was Either That Or Die,” by the Haitian-Canadian author Thélyson Orélien, was the hit of the French literary season. Now it has been pulled from the shortlist for a prestigious prize.",
       "source": "NYT"
     },
+    "5": {
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
+      "source": "BBC"
+    },
     "6": {
-      "title": "Leo XIV, Trying to Be Everyone’s Pope, Tours Secular France",
-      "link": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html",
-      "summary": "After visiting Africa, Pope Leo’s four-day trip to France shows how he is seeking to appeal to Roman Catholicism’s original heartlands as well as to the church’s newest strongholds.",
+      "title": "Top Saudi Cleric Calls Fight Against Houthis a Religious Duty",
+      "link": "https://www.nytimes.com/2026/09/25/world/middleeast/saudi-mufti-houthis-yemen-war.html",
+      "summary": "The grand mufti urged Saudi-led forces to remain in “constant readiness,” suggesting that the kingdom might expand its campaign against the Houthis in Yemen.",
       "source": "NYT"
     }
   }
