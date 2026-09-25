@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-25T07:07:19.037755-04:00",
+  "sent_at": "2026-09-25T11:07:18.447819-04:00",
   "items": {
     "1": {
-      "title": "Alaskans Dismayed, But Not Moved, by Peltola’s Treatment of Her Staff",
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/09/25/us/trump-xi-summit-meeting-us-china/heres-the-latest",
+      "summary": "(No summary available from the source feed.)",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "Polls Show Advantage for Incumbent Parties in 4 Governor’s Races",
+      "link": "https://www.nytimes.com/2026/09/25/us/governor-polls-maine-michigan-new-hampshire-pennsylvania.html",
+      "summary": "Democrats hold wide leads in Maine and Pennsylvania, as does the incumbent Republican in New Hampshire, but Michigan appears closer, according to New York Times/Siena polls.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Alaskans Dismayed, but Not Moved, by Peltola’s Treatment of Her Staff",
       "link": "https://www.nytimes.com/2026/09/25/us/politics/24pol-peltola-alaska-senate-reaction.html",
       "summary": "Voters interviewed in Anchorage and Fairbanks on Thursday said news that Mary Peltola, the Democratic nominee for Senate, had used offensive slurs would not change their vote.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Colombia’s President Wears Gun to Santa Marta, City Shut Down by a Criminal Group",
-      "link": "https://www.nytimes.com/2026/09/25/us/colombia-de-la-espriella-gun.html",
-      "summary": "Abelardo De La Espriella, the new president, wore the gun to visit Santa Marta, a tourist destination shut down by an armed group after state forces killed a group leader.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "Michael Whatley, the Republican Senate Candidate in North Carolina, Sticks By Trump",
-      "link": "https://www.nytimes.com/2026/09/25/us/politics/north-carolina-senate-roy-cooper-michael-whatley.html",
-      "summary": "Republicans in Senate battlegrounds have started to break with the president. Not Michael Whatley of North Carolina, even as his race seems at risk.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "OpenAI Agents Hacked Into an Australian Government Website. Who’s Responsible?",
-      "link": "https://www.nytimes.com/2026/09/25/world/australia/openai-hack-australia.html",
-      "summary": "The first known breach of a government website by rogue artificial intelligence agents has prompted global calls for more regulation of the technology.",
-      "source": "NYT"
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+      "source": "BBC"
     },
     "5": {
-      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+      "summary": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
       "source": "BBC"
     },
     "6": {
-      "title": "Once Sentenced to Death, Mary Jane Veloso Receives Pardon in the Philippines",
-      "link": "https://www.nytimes.com/2026/09/25/world/asia/mary-jane-veloso-philippines-pardon.html",
-      "summary": "Mary Jane Veloso was convicted of drug smuggling and nearly killed by a firing squad in Indonesia. On Friday, more than a decade later, she was pardoned in the Philippines.",
+      "title": "87-Year-Old Evicted From Her Home Tells Spaniards to ‘Fight’ to Avoid Same Fate",
+      "link": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
+      "summary": "María del Carmen Abascal, whose case has become a symbol of Spain’s housing crisis, appeared in a video from her hospital bed after police officers removed her from her apartment.",
       "source": "NYT"
     }
   }
