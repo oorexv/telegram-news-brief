@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-26T13:07:13.019796-04:00",
+  "sent_at": "2026-09-26T15:07:14.561410-04:00",
   "items": {
     "1": {
+      "title": "Rahm Emanuel Makes His 2026 Play",
+      "link": "https://www.nytimes.com/2026/09/26/us/politics/rahm-emanuel-midterms-house.html",
+      "summary": "The longtime Democratic insider has emerged as a behind-the-scenes force in his party’s push to win back Congress. After that, he’ll think about 2028.",
+      "source": "NYT"
+    },
+    "2": {
       "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
       "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
       "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
       "source": "BBC"
     },
-    "2": {
+    "3": {
       "title": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
       "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
       "summary": "The president said the deal was not “acceptable” and demurred on whether he would restart military strikes after the midterm elections.",
       "source": "NYT"
     },
-    "3": {
-      "title": "In Coastal Towns, the Nor’easter Upended Wedding Plans",
-      "link": "https://www.nytimes.com/2026/09/26/us/noreaster-cancels-new-england-weddings.html",
-      "summary": "Across the northeast, couples were forced to postpone, relocate or cancel weddings they planned to hold outdoors this weekend.",
-      "source": "NYT"
-    },
     "4": {
+      "title": "Tenth woman's body found in South Africa suburb as police probe killings",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
+      "source": "BBC"
+    },
+    "5": {
       "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
       "source": "BBC"
     },
-    "5": {
-      "title": "Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "summary": "Around 700,000 people gathered in central Paris as the Pope celebrated an open-air Mass.",
-      "source": "BBC"
-    },
     "6": {
-      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+      "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
       "source": "BBC"
     }
   }
