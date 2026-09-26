@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-25T18:07:16.888578-04:00",
+  "sent_at": "2026-09-25T21:07:15.269851-04:00",
   "items": {
     "1": {
-      "title": "As Xi Leaves Washington, Divisions Still Simmer Beneath the Surface",
-      "link": "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html",
-      "summary": "President Trump welcomed Xi Jinping of China for a state visit that was heavy on pomp and ceremony. But surprisingly little time was spent on the issues that most divide the two superpowers.",
+      "title": "Supreme Court Ruling Could Have Limited Impact on Voter Screening in Midterms",
+      "link": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-voter-fraud-midterms-impact.html",
+      "summary": "Federal law requires a 90-day “quiet period” before elections, likely restricting the immediate scope of a decision that allows the use of a citizenship database to examine voter rolls.",
       "source": "NYT"
     },
     "2": {
-      "title": "Mississippi Hanging Was Staged After Drug Dispute, Investigators Say",
-      "link": "https://www.nytimes.com/2026/09/25/us/mississippi-tasia-fortune-killing.html",
-      "summary": "Tasia Fortune, 29, was found dead on Aug. 3, her body hanging from a tree branch behind an abandoned property in Jackson, Miss.",
+      "title": "Supreme Court Once Again Blocks Republican-Backed Voting Map in Missouri",
+      "link": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-missouri-congressional-map.html",
+      "summary": "A federal appeals court had sided with Republicans seeking to use redrawn congressional district boundaries to give their party an advantage in the midterms elections.",
       "source": "NYT"
     },
     "3": {
-      "title": "Black woman found hanging from tree was dead before body was 'staged' - US media",
-      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "source": "BBC"
-    },
-    "4": {
-      "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
-      "link": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
-      "summary": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
+      "title": "30 College Students Splattered With Condiments and Liquids in Hazing, Police Say",
+      "link": "https://www.nytimes.com/2026/09/25/us/hazing-madison-wisconsin-fraternity.html",
+      "summary": "Two University of Wisconsin-Madison students face charges of suspicion of hazing in the episode, which happened on Wednesday in a sweltering basement, officials said.",
       "source": "NYT"
     },
+    "4": {
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+      "source": "BBC"
+    },
     "5": {
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
       "source": "BBC"
     },
     "6": {
-      "title": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
-      "link": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html",
-      "summary": "“It Was Either That Or Die,” by the Haitian-Canadian author Thélyson Orélien, was the hit of the French literary season. Now it has been pulled from the shortlist for a prestigious prize.",
-      "source": "NYT"
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "source": "BBC"
     }
   }
 }
