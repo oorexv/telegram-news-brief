@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-26T18:07:15.850406-04:00",
+  "sent_at": "2026-09-26T21:07:11.824662-04:00",
   "items": {
     "1": {
+      "title": "700-Pound Sea Lion Is Found to Have Been Shot at Least 12 Times",
+      "link": "https://www.nytimes.com/2026/09/26/us/sea-lion-shot-dead-west-seattle-700-pounds.html",
+      "summary": "The California sea lion was found dead on a beach off the Duwamish River in West Seattle, Wash., this month. A motive for the shooting was unclear.",
+      "source": "NYT"
+    },
+    "2": {
       "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
       "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
       "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
       "source": "BBC"
     },
-    "2": {
+    "3": {
       "title": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
       "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
       "summary": "The president said the deal was not “acceptable” and demurred on whether he would restart military strikes after the midterm elections.",
       "source": "NYT"
     },
-    "3": {
-      "title": "Rahm Emanuel, Eyeing 2028, Makes His 2026 Play",
-      "link": "https://www.nytimes.com/2026/09/26/us/politics/rahm-emanuel-midterms-house.html",
-      "summary": "The longtime Democratic insider has emerged as a behind-the-scenes force in his party’s push to win back Congress. After that, he’ll think about the next presidential race.",
+    "4": {
+      "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+      "link": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+      "summary": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
       "source": "NYT"
     },
-    "4": {
-      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-      "source": "BBC"
-    },
     "5": {
-      "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
-      "link": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
-      "summary": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
+      "title": "Evicted 87-Year-Old Woman Urges Spaniards to ‘Fight’ to Avoid Same Fate",
+      "link": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
+      "summary": "María del Carmen Abascal, whose case has become a symbol of Spain’s housing crisis, appeared in a video from a hospital bed after being removed from her apartment.",
       "source": "NYT"
     },
     "6": {
-      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
       "source": "BBC"
     }
   }
