@@ -1,5 +1,5 @@
 {
-  "sent_at": "2026-09-27T07:07:15.299695-04:00",
+  "sent_at": "2026-09-27T11:07:15.738399-04:00",
   "items": {
     "1": {
       "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
@@ -8,21 +8,21 @@
       "source": "NYT"
     },
     "2": {
-      "title": "A ‘Big Problem’: Trump’s War With Iran Drags Down Republicans in Midterms",
-      "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html",
-      "summary": "As their November picture darkens, and gas and diesel prices soar, some Republicans who backed the war for months are now changing their tune.",
+      "title": "Saturday Night, No Mask Required, at the Last Ditch Lesbian Bar in Massachusetts",
+      "link": "https://www.nytimes.com/2026/09/27/us/last-ditch-lesbian-bar-covid-masks-massachusetts.html",
+      "summary": "Last Ditch, a bar and art space, ended its Covid mask requirement as a way to attract more people. What it got instead was outsized attention.",
       "source": "NYT"
     },
     "3": {
-      "title": "White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers",
-      "link": "https://www.nytimes.com/2026/09/27/us/politics/white-house-fraud-task-force.html",
-      "summary": "The ledger used by a task force created by President Trump is difficult to verify and includes cases that were identified and went to trial during the Biden administration.",
-      "source": "NYT"
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "source": "BBC"
     },
     "4": {
-      "title": "UK Deploys Bomb Squad Near R.A.F. Fairford, Air Base Used by US",
+      "title": "5 Men Arrested on Suspicion of Terrorism Offenses Near RAF Fairford, Air Base Used by U.S.",
       "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-      "summary": "British police said they had arrested several men on suspicion of offenses under the Explosives Act and had evacuated local residents near the R.A.F. Fairford base.",
+      "summary": "British counterterrorism police said the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
       "source": "NYT"
     },
     "5": {
@@ -32,10 +32,10 @@
       "source": "BBC"
     },
     "6": {
-      "title": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.",
-      "link": "https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html",
-      "summary": "You can still buy a Singapore Sling in the colonial-era hotel where it’s said to have been invented more than a century ago. Custom versions have arisen nearby.",
-      "source": "NYT"
+      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
+      "source": "BBC"
     }
   }
 }
