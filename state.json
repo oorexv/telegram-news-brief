@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-27T11:07:15.738399-04:00",
+  "sent_at": "2026-09-27T13:07:13.723198-04:00",
   "items": {
     "1": {
+      "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+      "link": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+      "summary": "A male named Ping Ping and a female named Fu Shuang landed on Sunday, days after China’s leader said he would dispatch “envoys of friendship” to the United States.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
+      "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
+      "source": "BBC"
+    },
+    "3": {
       "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
       "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
       "summary": "Ms. Peltola, the Democratic Senate candidate in Alaska, has complicated politics: She is pro-gun, pro-oil and pro-gas — but also pro-environment and especially pro-fish.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Saturday Night, No Mask Required, at the Last Ditch Lesbian Bar in Massachusetts",
-      "link": "https://www.nytimes.com/2026/09/27/us/last-ditch-lesbian-bar-covid-masks-massachusetts.html",
-      "summary": "Last Ditch, a bar and art space, ended its Covid mask requirement as a way to attract more people. What it got instead was outsized attention.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-      "source": "BBC"
-    },
     "4": {
-      "title": "5 Men Arrested on Suspicion of Terrorism Offenses Near RAF Fairford, Air Base Used by U.S.",
-      "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-      "summary": "British counterterrorism police said the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
-      "source": "NYT"
+      "title": "Two bodies found after avalanche hits Himalayan climbing group",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+      "source": "BBC"
     },
     "5": {
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "source": "BBC"
+      "title": "Iran Still Awaits ‘Official’ U.S. Response Despite Trump’s Rebuff of Cease-Fire Offer",
+      "link": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
+      "summary": "Abbas Araghchi, Iran’s foreign minister, said a history of contradictory messaging meant that President Trump’s rejection might not be a final position.",
+      "source": "NYT"
     },
     "6": {
-      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
+      "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
+      "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
       "source": "BBC"
     }
   }
