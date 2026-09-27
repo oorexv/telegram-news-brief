@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-27T15:07:13.382342-04:00",
+  "sent_at": "2026-09-27T18:07:17.967412-04:00",
   "items": {
     "1": {
-      "title": "Saturday Night, No Mask Required, at the Last Ditch Lesbian Bar in Massachusetts",
-      "link": "https://www.nytimes.com/2026/09/27/us/last-ditch-lesbian-bar-covid-masks-massachusetts.html",
-      "summary": "Last Ditch, a bar and art space, ended its Covid mask requirement as a way to attract more people. What it got instead was outsized attention.",
+      "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
+      "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+      "summary": "Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions.",
       "source": "NYT"
     },
     "2": {
+      "title": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
+      "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html",
+      "summary": "The ad, which ethics experts said could violate federal law, shows Mr. Trump vowing to “expel the warmongers” from the government and fight the “deep state,” even as he wages a war with Iran.",
+      "source": "NYT"
+    },
+    "3": {
       "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
       "link": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
       "summary": "A male named Ping Ping and a female named Fu Shuang landed on Sunday, days after China’s leader said he would dispatch “envoys of friendship” to the United States.",
       "source": "NYT"
     },
-    "3": {
-      "title": "Dee Brock, Who Created the Dallas Cowboys Cheerleaders, Dies at 96",
-      "link": "https://www.nytimes.com/2026/09/27/us/dee-brock-dead.html",
-      "summary": "As the first director of the troupe, she helped transform it from a high school squad into a global phenomenon.",
-      "source": "NYT"
-    },
     "4": {
-      "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
-      "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-      "summary": "The British counterterrorism police say the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
-      "source": "NYT"
-    },
-    "5": {
       "title": "Iran Still Awaits ‘Official’ U.S. Response Despite Trump’s Rebuff of Cease-Fire Offer",
       "link": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
       "summary": "Abbas Araghchi, Iran’s foreign minister, said a history of contradictory messaging meant that President Trump’s rejection might not be a final position.",
       "source": "NYT"
     },
+    "5": {
+      "title": "Serbia’s Longtime President Aleksandar Vucic Resigns Post",
+      "link": "https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html",
+      "summary": "Aleksandar Vucic, one of Europe’s longest-serving leaders, resigned as president, paving the way for him to become prime minister after elections next month.",
+      "source": "NYT"
+    },
     "6": {
-      "title": "Two bodies found after avalanche hits Himalayan climbing group",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
-      "source": "BBC"
+      "title": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
+      "link": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+      "summary": "New York Times journalists pressed the Canadian prime minister about a range of topics in an hourlong interview last week. Here’s a transcript of their conversation.",
+      "source": "NYT"
     }
   }
 }
