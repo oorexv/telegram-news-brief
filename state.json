@@ -1,29 +1,29 @@
 {
-  "sent_at": "2026-09-27T13:07:13.723198-04:00",
+  "sent_at": "2026-09-27T15:07:13.382342-04:00",
   "items": {
     "1": {
+      "title": "Saturday Night, No Mask Required, at the Last Ditch Lesbian Bar in Massachusetts",
+      "link": "https://www.nytimes.com/2026/09/27/us/last-ditch-lesbian-bar-covid-masks-massachusetts.html",
+      "summary": "Last Ditch, a bar and art space, ended its Covid mask requirement as a way to attract more people. What it got instead was outsized attention.",
+      "source": "NYT"
+    },
+    "2": {
       "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
       "link": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
       "summary": "A male named Ping Ping and a female named Fu Shuang landed on Sunday, days after China’s leader said he would dispatch “envoys of friendship” to the United States.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
-      "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
-      "source": "BBC"
-    },
     "3": {
-      "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
-      "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
-      "summary": "Ms. Peltola, the Democratic Senate candidate in Alaska, has complicated politics: She is pro-gun, pro-oil and pro-gas — but also pro-environment and especially pro-fish.",
+      "title": "Dee Brock, Who Created the Dallas Cowboys Cheerleaders, Dies at 96",
+      "link": "https://www.nytimes.com/2026/09/27/us/dee-brock-dead.html",
+      "summary": "As the first director of the troupe, she helped transform it from a high school squad into a global phenomenon.",
       "source": "NYT"
     },
     "4": {
-      "title": "Two bodies found after avalanche hits Himalayan climbing group",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
-      "source": "BBC"
+      "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
+      "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
+      "summary": "The British counterterrorism police say the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
+      "source": "NYT"
     },
     "5": {
       "title": "Iran Still Awaits ‘Official’ U.S. Response Despite Trump’s Rebuff of Cease-Fire Offer",
@@ -32,9 +32,9 @@
       "source": "NYT"
     },
     "6": {
-      "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
-      "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
+      "title": "Two bodies found after avalanche hits Himalayan climbing group",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
       "source": "BBC"
     }
   }
