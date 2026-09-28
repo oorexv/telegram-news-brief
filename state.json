@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-27T21:07:16.911881-04:00",
+  "sent_at": "2026-09-28T07:07:15.034573-04:00",
   "items": {
     "1": {
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-      "source": "BBC"
-    },
-    "2": {
-      "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
-      "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
-      "summary": "President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.",
+      "title": "Who’s Winning the Race for Congress?",
+      "link": "https://www.nytimes.com/2026/09/28/us/whos-winning-the-race-for-congress.html",
+      "summary": "It’s Sept. 28 — 36 days away from the midterms. Here’s the state of play.",
       "source": "NYT"
     },
+    "2": {
+      "title": "What we know about UK airbase counter-terror probe",
+      "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+      "source": "BBC"
+    },
     "3": {
-      "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
-      "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
-      "summary": "Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions.",
+      "title": "Under Trump, Commodity Futures Trading Commission Scales Back Enforcement, Worrying Farmers",
+      "link": "https://www.nytimes.com/2026/09/28/us/politics/cotton-trump-commodity-markets-cftc.html",
+      "summary": "The fate of two cotton brokers highlights how the Commodity Futures Trading Commission has scaled back its regulatory actions not just for crypto cases but also for the kinds of cases it has long policed.",
       "source": "NYT"
     },
     "4": {
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-      "source": "BBC"
+      "title": "Possible Foiled Terror Attack at U.K Air Base Used by U.S. Raises Questions Over Security",
+      "link": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html",
+      "summary": "Conflicting accounts from a bystander who called the police and from President Trump have led to questions about whether security services knew about the possible plot in advance.",
+      "source": "NYT"
     },
     "5": {
-      "title": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
-      "link": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
-      "summary": "New York Times journalists pressed the Canadian prime minister about a range of topics in an hourlong interview last week. Here’s a transcript of their conversation.",
+      "title": "Brazil’s Biggest Election Question?: Donald Trump’s Next Move",
+      "link": "https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html",
+      "summary": "As Brazil prepares to hold elections next month, Latin America’s biggest nation is taking steps to shield its democracy from potential American meddling.",
       "source": "NYT"
     },
     "6": {
-      "title": "Iran Still Awaits ‘Official’ U.S. Response Despite Trump’s Rebuff of Cease-Fire Offer",
-      "link": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
-      "summary": "Abbas Araghchi, Iran’s foreign minister, said a history of contradictory messaging meant that President Trump’s rejection might not be a final position.",
+      "title": "Trump Sparked a Gold Rush, and Venezuelan Gangs Take a Cut of Profit",
+      "link": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
+      "summary": "The administration is brokering deals in a notoriously corrupt industry, including one with a company that the United States deems a security threat.",
       "source": "NYT"
     }
   }
