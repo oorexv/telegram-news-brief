@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-28T07:07:15.034573-04:00",
+  "sent_at": "2026-09-28T11:07:13.844174-04:00",
   "items": {
     "1": {
-      "title": "Who’s Winning the Race for Congress?",
-      "link": "https://www.nytimes.com/2026/09/28/us/whos-winning-the-race-for-congress.html",
-      "summary": "It’s Sept. 28 — 36 days away from the midterms. Here’s the state of play.",
+      "title": "Andrew Bailey, a Deputy Director at the F.B.I., Leaves His Job",
+      "link": "https://www.nytimes.com/2026/09/28/us/politics/andrew-bailey-fbi-patel-bongino.html",
+      "summary": "Mr. Bailey, who was part of a three-person leadership team atop the bureau, lasted barely a year.",
       "source": "NYT"
     },
     "2": {
-      "title": "What we know about UK airbase counter-terror probe",
-      "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-      "source": "BBC"
+      "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
+      "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
+      "summary": "President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.",
+      "source": "NYT"
     },
     "3": {
-      "title": "Under Trump, Commodity Futures Trading Commission Scales Back Enforcement, Worrying Farmers",
-      "link": "https://www.nytimes.com/2026/09/28/us/politics/cotton-trump-commodity-markets-cftc.html",
-      "summary": "The fate of two cotton brokers highlights how the Commodity Futures Trading Commission has scaled back its regulatory actions not just for crypto cases but also for the kinds of cases it has long policed.",
+      "title": "Capable but complicated: The dual realities of Mary Peltola.",
+      "link": "https://www.nytimes.com/live/2026/09/28/us/midterm-elections/capable-but-complicated-the-dual-realities-of-mary-peltola",
+      "summary": "(No summary available from the source feed.)",
       "source": "NYT"
     },
     "4": {
-      "title": "Possible Foiled Terror Attack at U.K Air Base Used by U.S. Raises Questions Over Security",
-      "link": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html",
-      "summary": "Conflicting accounts from a bystander who called the police and from President Trump have led to questions about whether security services knew about the possible plot in advance.",
-      "source": "NYT"
-    },
-    "5": {
       "title": "Brazil’s Biggest Election Question?: Donald Trump’s Next Move",
       "link": "https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html",
       "summary": "As Brazil prepares to hold elections next month, Latin America’s biggest nation is taking steps to shield its democracy from potential American meddling.",
       "source": "NYT"
     },
+    "5": {
+      "title": "Pope Leo Praises Europe’s Democracy, Diverging Once Again From Trump",
+      "link": "https://www.nytimes.com/2026/09/28/world/europe/pope-leo-trump-democracy-europe.html",
+      "summary": "Speaking in France, the pontiff lauded postwar efforts to unify the continent. Experts saw it as a critique of President Trump’s repeated berating of European leaders.",
+      "source": "NYT"
+    },
     "6": {
-      "title": "Trump Sparked a Gold Rush, and Venezuelan Gangs Take a Cut of Profit",
-      "link": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
-      "summary": "The administration is brokering deals in a notoriously corrupt industry, including one with a company that the United States deems a security threat.",
+      "title": "Possible Terrorist Plot at R.A.F. Fairford Air Base in U.K.: What We Know",
+      "link": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
+      "summary": "Five British men were arrested as they approached R.A.F. Fairford, a base used by the United States in its war against Iran. The men are being held on suspicion of terrorism.",
       "source": "NYT"
     }
   }
