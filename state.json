@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-28T18:07:17.718015-04:00",
+  "sent_at": "2026-09-28T21:07:12.319928-04:00",
   "items": {
     "1": {
-      "title": "Couple Accused of Killing Their Son-in-Law in Bay Area Park",
-      "link": "https://www.nytimes.com/2026/09/28/us/jonathan-mckinsey-new-york-times-shooting-california.html",
-      "summary": "Jonathan McKinsey, an engineer who worked in the games department for The New York Times, was fatally shot Saturday in a San Francisco suburb. Police have accused his parents-in-law, both 76.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "Embarrassing Breach at F.B.I. Fuels Fears of Harm to Its Employees",
-      "link": "https://www.nytimes.com/2026/09/28/us/politics/fbi-shinyhunters-damage.html",
-      "summary": "In an internal memo, the F.B.I. said it believed the hackers may have stolen sensitive information on all of its employees.",
-      "source": "NYT"
-    },
-    "3": {
       "title": "Justice Alito Recuses Himself Days Before Major Climate-Change Case",
       "link": "https://www.nytimes.com/2026/09/28/us/politics/alito-suncor-supreme-court-recuse.html",
       "summary": "Justice Samuel A. Alito Jr. had faced pressure to recuse himself from the climate case because he owns stock in oil companies.",
       "source": "NYT"
     },
+    "2": {
+      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
+      "source": "BBC"
+    },
+    "3": {
+      "title": "How a Planned Steel Mill in Iowa Reveals Trump’s Midterm Strategy",
+      "link": "https://www.nytimes.com/2026/09/28/us/politics/trump-steel-plant-iowa-midterms.html",
+      "summary": "As President Trump travels the country, he is expected to focus on his economic accomplishments at a time when Americans have expressed deep frustration with his policies.",
+      "source": "NYT"
+    },
     "4": {
+      "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+      "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+      "summary": "If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years.",
+      "source": "BBC"
+    },
+    "5": {
       "title": "Possible Terrorist Plot at RAF Fairford Air Base in U.K.: What We Know",
       "link": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
       "summary": "Five British men who were detained near R.A.F. Fairford, a base used by American forces in the war against Iran, were being released on bail but remained under investigation.",
       "source": "NYT"
     },
-    "5": {
+    "6": {
       "title": "French PM warns against escalation of school protests after 164 arrested",
       "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
       "summary": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
-      "source": "BBC"
-    },
-    "6": {
-      "title": "Stand-up comic released after being convicted of insulting Erdoğan",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
       "source": "BBC"
     }
   }
