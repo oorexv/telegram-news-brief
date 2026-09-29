@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-29T15:07:21.125645-04:00",
+  "sent_at": "2026-09-29T18:07:15.941496-04:00",
   "items": {
     "1": {
-      "title": "Man Shot by ICE Agent in Austin Is Charged With Assault",
-      "link": "https://www.nytimes.com/2026/09/29/us/ice-shooting-driver-austin-charges-body-camera.html",
-      "summary": "Prosecutors say Wilber Garces Perez struck an agent with his car’s mirror before another agent shot him. The charge reveals the existence of body camera footage of the shooting, though that video has not been released.",
-      "source": "NYT"
+      "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+      "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
+      "source": "BBC"
     },
     "2": {
-      "title": "Chartering a Boat on the Kuskokwim River to Reach Peltola’s Alaska",
-      "link": "https://www.nytimes.com/2026/09/29/us/chartering-a-boat-on-the-kuskokwim-river-to-reach-peltolas-alaska.html",
-      "summary": "Ms. Peltola, the Alaska Democrat running for Senate, was shaped by growing up in remote villages in southwestern Alaska.",
-      "source": "NYT"
+      "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+      "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home.",
+      "source": "BBC"
     },
     "3": {
-      "title": "Number of National Guard Troops in Washington D.C. Drops Below 3,000",
-      "link": "https://www.nytimes.com/2026/09/29/us/politics/national-guard-troops-washington.html",
-      "summary": "The National Guard presence has dipped from a summertime high of more than 5,100 brought to the capital for July 4 celebrations.",
-      "source": "NYT"
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
+      "source": "BBC"
     },
     "4": {
+      "title": "More than 400 detained as France student protests escalate",
+      "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Students have been protesting conditions and resources in high schools since last week.",
+      "source": "BBC"
+    },
+    "5": {
       "title": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
       "link": "https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html",
       "summary": "The Trump administration announced new visa restrictions on the country days after receiving a letter that South African officials had hoped would bring down the temperature.",
       "source": "NYT"
     },
-    "5": {
-      "title": "Evicted Woman Set to Return Home as Spain Announces Plans to Fix Housing Crisis",
-      "link": "https://www.nytimes.com/2026/09/29/world/europe/spain-housing-eviction-maricarmen-abascal-madrid-protests.html",
-      "summary": "The eviction of an 87-year-old set off protests in the country, which has an acute housing shortage. The government presented legislation to protect renters.",
-      "source": "NYT"
-    },
     "6": {
-      "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed",
-      "link": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
-      "summary": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt.",
-      "source": "BBC"
+      "title": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline",
+      "link": "https://www.nytimes.com/2026/09/29/business/oil-saudi-east-west-pipeline.html",
+      "summary": "Saudi authorities had taken the pipeline offline this month after it was damaged in a drone attack by an Iranian-backed Iraqi militia.",
+      "source": "NYT"
     }
   }
 }
