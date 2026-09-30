@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-09-30T13:07:12.857025-04:00",
+  "sent_at": "2026-09-30T15:07:14.494898-04:00",
   "items": {
     "1": {
-      "title": "Court Pauses Execution of Christa Pike, Tennessee’s Lone Woman on Death Row",
-      "link": "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html",
-      "summary": "Christa Pike tortured and murdered a classmate in 1995. She had been set to die on Wednesday, the first woman executed in the state in 200 years.",
+      "title": "Hegseth Summons Troops for a ‘State of the Force’ Address",
+      "link": "https://www.nytimes.com/2026/09/30/us/hegseth-troops-address.html",
+      "summary": "The gathering comes as the defense secretary is facing precarious times as the public face of the Trump administration’s unpopular war against Iran.",
       "source": "NYT"
     },
     "2": {
-      "title": "Congress Set to Leave Washington for the Midterms With No A.I. Progress",
-      "link": "https://www.nytimes.com/2026/09/30/us/politics/congress-set-to-leave-washington-for-the-midterms-with-no-ai-progress.html",
-      "summary": "Senate Democrats were expected on Wednesday to block a measure that would encourage, but not require, states to protect consumers from power rate hikes as a result of data center growth.",
-      "source": "NYT"
-    },
-    "3": {
       "title": "What we know about Cornell University frat house rape investigation",
       "link": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
       "summary": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
       "source": "BBC"
     },
+    "3": {
+      "title": "California Couple Charged With Murder in Shooting of Son-in-Law",
+      "link": "https://www.nytimes.com/2026/09/30/us/jonathan-mckinsey-shooting-california-charges.html",
+      "summary": "Shouyong Zhang and Shili Chen were accused of planning the killing of Jonathan McKinsey, an engineer who worked in the games department of The New York Times, near a park in Dublin, Calif.",
+      "source": "NYT"
+    },
     "4": {
-      "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
-      "link": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
-      "summary": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
+      "title": "Live Updates: Plane to Israel Narrowly Averts Disaster After Pilot Stabbing",
+      "link": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots",
+      "summary": "Passengers said that they broke into the cockpit and subdued the attacker, who Israeli officials said was one of the pilots. The motive for the attack was not clear.",
       "source": "NYT"
     },
     "5": {
-      "title": "Live Updates: Passengers Arrive in Israel After Cockpit Clash on FlyDubai Flight",
-      "link": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots",
-      "summary": "Passengers intervened and “prevented a disaster” after one pilot stabbed another during a flight from Dubai, Prime Minister Benjamin Netanyahu said. The motive for the attack was not clear.",
+      "title": "In Fractious France, Politicians Agree on One Thing: Pope Leo Was a Hit",
+      "link": "https://www.nytimes.com/2026/09/30/world/europe/leo-france-pope-macron.html",
+      "summary": "In a four-day visit, Pope Leo XIV won praise across the political spectrum, even from its most avowedly secular figures.",
       "source": "NYT"
     },
     "6": {
-      "title": "Hundreds Detained in France as Some Student Protests Turn Violent",
-      "link": "https://www.nytimes.com/2026/09/30/world/europe/france-student-protest-arrests.html",
-      "summary": "French high schoolers are protesting teacher shortages and overcrowded classrooms, in France’s latest flare-up over education and public services.",
+      "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+      "link": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
+      "summary": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
       "source": "NYT"
     }
   }
