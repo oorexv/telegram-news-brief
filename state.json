@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-09-30T11:07:50.688756-04:00",
+  "sent_at": "2026-09-30T13:07:12.857025-04:00",
   "items": {
     "1": {
-      "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
-      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-      "source": "BBC"
-    },
-    "2": {
       "title": "Court Pauses Execution of Christa Pike, Tennessee’s Lone Woman on Death Row",
       "link": "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html",
       "summary": "Christa Pike tortured and murdered a classmate in 1995. She had been set to die on Wednesday, the first woman executed in the state in 200 years.",
       "source": "NYT"
     },
-    "3": {
-      "title": "Becerra and Hilton to Face Off in Televised California Governor Debate",
-      "link": "https://www.nytimes.com/2026/09/30/us/california-governor-race-debate-becerra-hilton.html",
-      "summary": "Xavier Becerra, a Democrat who served in the Biden administration, will debate Steve Hilton, a Republican former talk show host, in what’s likely to be their only face-off before the election.",
+    "2": {
+      "title": "Congress Set to Leave Washington for the Midterms With No A.I. Progress",
+      "link": "https://www.nytimes.com/2026/09/30/us/politics/congress-set-to-leave-washington-for-the-midterms-with-no-ai-progress.html",
+      "summary": "Senate Democrats were expected on Wednesday to block a measure that would encourage, but not require, states to protect consumers from power rate hikes as a result of data center growth.",
       "source": "NYT"
     },
-    "4": {
-      "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
-      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+    "3": {
+      "title": "What we know about Cornell University frat house rape investigation",
+      "link": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
       "source": "BBC"
     },
+    "4": {
+      "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+      "link": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
+      "summary": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
+      "source": "NYT"
+    },
     "5": {
-      "title": "Live Updates: Pilot May Have Attempted to Crash Flight to Israel, Netanyahu Says",
+      "title": "Live Updates: Passengers Arrive in Israel After Cockpit Clash on FlyDubai Flight",
       "link": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots",
-      "summary": "Passengers intervened and “prevented a disaster” after one pilot stabbed another during a flight from Dubai, Prime Minister Benjamin Netanyahu said. The plane landed safely in Saudi Arabia. The motive for the attack was not clear.",
+      "summary": "Passengers intervened and “prevented a disaster” after one pilot stabbed another during a flight from Dubai, Prime Minister Benjamin Netanyahu said. The motive for the attack was not clear.",
       "source": "NYT"
     },
     "6": {
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-      "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
-      "source": "BBC"
+      "title": "Hundreds Detained in France as Some Student Protests Turn Violent",
+      "link": "https://www.nytimes.com/2026/09/30/world/europe/france-student-protest-arrests.html",
+      "summary": "French high schoolers are protesting teacher shortages and overcrowded classrooms, in France’s latest flare-up over education and public services.",
+      "source": "NYT"
     }
   }
 }
