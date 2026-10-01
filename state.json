@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-10-01T15:07:16.441280-04:00",
+  "sent_at": "2026-10-01T18:07:14.494857-04:00",
   "items": {
     "1": {
-      "title": "Former Dallas Officer Who Killed Neighbor in His Home Is Granted Parole",
-      "link": "https://www.nytimes.com/2026/10/01/us/amber-guyger-parole-botham-jean.html",
-      "summary": "Amber Guyger served seven years of a 10-year murder sentence in a case that drew national attention and inflamed racial tensions.",
+      "title": "In the final months of his term, Tennessee’s governor confronts another failed execution.",
+      "link": "https://www.nytimes.com/live/2026/10/01/us/christa-pike-tennessee-execution/bill-lee-marsha-blackburn-executions",
+      "summary": "Gov. Bill Lee, who is limited to two terms, has announced an investigation into Christa Pike’s failed execution. His likely successor, Marsha Blackburn, has called for the return of the electric chair.",
       "source": "NYT"
     },
     "2": {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/10/01/us/christa-pike-tennessee-execution/heres-the-latest",
-      "summary": "(No summary available from the source feed.)",
+      "title": "Judge in Lindsay Clancy’s Case Declines to Find Her Not Guilty After Mistrial",
+      "link": "https://www.nytimes.com/2026/10/01/us/lindsay-clancy-motion-denied.html",
+      "summary": "Lindsay Clancy’s lawyer argued this week that the state failed to present enough evidence at trial to prove she killed her three children.",
       "source": "NYT"
     },
     "3": {
-      "title": "Judge permanently ends case against Olympian accused of Reflecting Pool vandalism",
-      "link": "https://www.bbc.co.uk/news/articles/c68jdjw7mydeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Judge said Trump might target champion canoeist because he was politically active and donated to Democrats.",
-      "source": "BBC"
+      "title": "Did You Buy $TRUMP Coin? Tell Us Your Experience.",
+      "link": "https://www.nytimes.com/2026/10/01/us/politics/trump-coin-experience-questionnaire.html",
+      "summary": "We want to hear from people who bought the $TRUMP memecoin, no matter the reason, and whether they made or lost money.",
+      "source": "NYT"
     },
     "4": {
-      "title": "Live Updates: Investigators Seek to Establish Motive in FlyDubai Attack",
+      "title": "Canada’s Proposed Oil Pipeline Offers Carney Relief From Domestic and Global Turmoil",
+      "link": "https://www.nytimes.com/2026/10/01/world/canada/carney-alberta-british-columbia-oil-pipeline.html",
+      "summary": "The new pipeline from Alberta’s oil sands to the Pacific Coast may lower separatist tensions in that province while also loosening energy ties with the U.S.",
+      "source": "NYT"
+    },
+    "5": {
+      "title": "Investigators Seek to Establish Motive in FlyDubai Attack",
       "link": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
       "summary": "The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu of Israel said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate.",
       "source": "NYT"
     },
-    "5": {
-      "title": "Christa Pike is in 'critical condition' after failed execution, her lawyers say",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
-      "source": "BBC"
-    },
     "6": {
-      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
       "source": "BBC"
     }
   }
