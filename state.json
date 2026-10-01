@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-10-01T11:07:16.209222-04:00",
+  "sent_at": "2026-10-01T13:07:13.339536-04:00",
   "items": {
     "1": {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/10/01/us/christa-pike-tennessee-execution/heres-the-latest",
-      "summary": "(No summary available from the source feed.)",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "Taking On Trump Immigration Agenda, Justices Will Review Migrant Detention Policy",
-      "link": "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html",
-      "summary": "The administration’s policy of detaining immigrants who crossed the border illegally years ago and holding them without a bond hearing has divided lower courts.",
-      "source": "NYT"
-    },
-    "3": {
-      "title": "After Failed Attempt to Execute Christa Pike, Tennessee Pauses a Planned Execution",
-      "link": "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html",
-      "summary": "Gov. Bill Lee, a Republican, ordered a review of the state’s lethal injection process after the botched attempt to put Christa Pike to death. She was hospitalized Wednesday.",
-      "source": "NYT"
-    },
-    "4": {
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
       "source": "BBC"
     },
-    "5": {
-      "title": "Live Updates: Investigators Seek Motive in FlyDubai Attack",
+    "2": {
+      "title": "Judge permanently ends case against Olympian accused of Reflecting Pool vandalism",
+      "link": "https://www.bbc.co.uk/news/articles/c68jdjw7mydeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Judge said Trump might target champion canoeist because he was politically active and donated to Democrats.",
+      "source": "BBC"
+    },
+    "3": {
+      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+      "source": "BBC"
+    },
+    "4": {
+      "title": "Live Updates: Investigators Seek to Establish Motive in FlyDubai Attack",
       "link": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
       "summary": "The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate.",
       "source": "NYT"
     },
-    "6": {
-      "title": "Finnish Lawmakers Report Suspicious Home Break-Ins",
-      "link": "https://www.nytimes.com/2026/10/01/world/europe/finland-lawmakers-break-ins.html",
-      "summary": "The speaker of Parliament said there were a “considerable” number of mysterious entries in which perpetrators appeared to have taken nothing.",
+    "5": {
+      "title": "Swiss Glaciers Vanished by Nearly a Fifth in Recent Years, Scientists Say",
+      "link": "https://www.nytimes.com/2026/10/01/world/europe/switzerland-glaciers-melting-climate.html",
+      "summary": "One researcher called it a “desperately needed warning sign” that countries need to tackle human-driven climate change.",
       "source": "NYT"
+    },
+    "6": {
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "source": "BBC"
     }
   }
 }
