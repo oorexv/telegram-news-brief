@@ -1,40 +1,40 @@
 {
-  "sent_at": "2026-10-01T13:07:13.339536-04:00",
+  "sent_at": "2026-10-01T15:07:16.441280-04:00",
   "items": {
     "1": {
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-      "source": "BBC"
+      "title": "Former Dallas Officer Who Killed Neighbor in His Home Is Granted Parole",
+      "link": "https://www.nytimes.com/2026/10/01/us/amber-guyger-parole-botham-jean.html",
+      "summary": "Amber Guyger served seven years of a 10-year murder sentence in a case that drew national attention and inflamed racial tensions.",
+      "source": "NYT"
     },
     "2": {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/10/01/us/christa-pike-tennessee-execution/heres-the-latest",
+      "summary": "(No summary available from the source feed.)",
+      "source": "NYT"
+    },
+    "3": {
       "title": "Judge permanently ends case against Olympian accused of Reflecting Pool vandalism",
       "link": "https://www.bbc.co.uk/news/articles/c68jdjw7mydeo?at_medium=RSS&at_campaign=rss",
       "summary": "Judge said Trump might target champion canoeist because he was politically active and donated to Democrats.",
       "source": "BBC"
     },
-    "3": {
-      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
-      "source": "BBC"
-    },
     "4": {
       "title": "Live Updates: Investigators Seek to Establish Motive in FlyDubai Attack",
       "link": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
-      "summary": "The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate.",
+      "summary": "The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu of Israel said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate.",
       "source": "NYT"
     },
     "5": {
-      "title": "Swiss Glaciers Vanished by Nearly a Fifth in Recent Years, Scientists Say",
-      "link": "https://www.nytimes.com/2026/10/01/world/europe/switzerland-glaciers-melting-climate.html",
-      "summary": "One researcher called it a “desperately needed warning sign” that countries need to tackle human-driven climate change.",
-      "source": "NYT"
+      "title": "Christa Pike is in 'critical condition' after failed execution, her lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
+      "source": "BBC"
     },
     "6": {
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
       "source": "BBC"
     }
   }
