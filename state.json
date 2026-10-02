@@ -1,22 +1,22 @@
 {
-  "sent_at": "2026-10-02T15:07:12.738461-04:00",
+  "sent_at": "2026-10-02T18:07:15.505896-04:00",
   "items": {
     "1": {
-      "title": "Former Florida Rep. David Rivera Sentenced to 10 Years in Venezuela Lobbying Case",
-      "link": "https://www.nytimes.com/2026/10/02/us/david-rivera-prison-sentence.html",
-      "summary": "David Rivera, a Miami Republican, was convicted of secretly lobbying officials in Washington on behalf of the Venezuelan government in 2017 and 2018.",
-      "source": "NYT"
-    },
-    "2": {
-      "title": "Christa Pike Was Unconscious and on Ventilator After Execution Attempt",
-      "link": "https://www.nytimes.com/2026/10/02/us/christa-pike-unconscious-what-next.html",
-      "summary": "The Tennessee inmate was brought to a hospital with burned and blistered arms after an unsuccessful attempt at lethal injection, her lawyers said in a court filing.",
-      "source": "NYT"
-    },
-    "3": {
       "title": "Judge Throws Out Another Confession in Sept. 11 Case",
       "link": "https://www.nytimes.com/2026/10/02/us/politics/confession-sept-11-terrorism-case.html",
       "summary": "Prosecutors have long considered the defendants’ admissions during interrogations in 2007 to be their best evidence.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "Christa Pike Unconscious and on Ventilator After Execution Attempt",
+      "link": "https://www.nytimes.com/2026/10/02/us/christa-pike-unconscious-what-next.html",
+      "summary": "Her condition raises questions about whether Tennessee could attempt to execute her again if she is incapable of understanding what is happening.",
+      "source": "NYT"
+    },
+    "3": {
+      "title": "Hispanic Voters, Souring on Republicans, Could Decide the Midterms",
+      "link": "https://www.nytimes.com/2026/10/02/us/politics/midterms-hispanic-voters-trump.html",
+      "summary": "Hispanic voters are souring on Republicans. Here’s why.",
       "source": "NYT"
     },
     "4": {
@@ -26,16 +26,16 @@
       "source": "NYT"
     },
     "5": {
-      "title": "Mass Shootings Surge in South Africa as Illegal Guns Flood Streets",
-      "link": "https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html",
-      "summary": "The country was shaken after nearly 30 people were killed in two separate mass shootings. South Africans are demanding greater government intervention.",
-      "source": "NYT"
+      "title": "Riot police clash with students as education protests rage in France",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+      "source": "BBC"
     },
     "6": {
-      "title": "Fighting Intensifies in Yemen, Raising Fresh Fears of All-Out War",
-      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/yemen-houthis-saudi-arabia-sanaa-taiz.html",
-      "summary": "Yemen’s capital, Sanaa, was bombarded overnight, after government forces reported some of the most intense clashes in years around Taiz, the country’s third largest city.",
-      "source": "NYT"
+      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
+      "source": "BBC"
     }
   }
 }
