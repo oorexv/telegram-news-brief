@@ -1,16 +1,16 @@
 {
-  "sent_at": "2026-10-03T11:07:19.792408-04:00",
+  "sent_at": "2026-10-03T13:07:12.416385-04:00",
   "items": {
     "1": {
-      "title": "Medical Plane Goes Missing on Flight From Bermuda to Boston",
-      "link": "https://www.nytimes.com/2026/10/03/us/medical-plane-missing-bermuda-boston.html",
-      "summary": "The plane, a Gulfstream G100 with 6 people aboard, lost contact at around 2 a.m. A search was underway Saturday off the coast of Nantucket.",
-      "source": "NYT"
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
+      "source": "BBC"
     },
     "2": {
-      "title": "In Texas, Talarico’s Strength in Senate Polls Inspires a Democratic Dream",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/texas-talarico.html",
-      "summary": "After a dry spell of more than three decades, Democrats are daring (yet again) to believe they can win one or more top-of-the-ballot races in a vast and stubbornly red state.",
+      "title": "Search Underway for Missing Plane Heading From Bermuda Off Nantucket",
+      "link": "https://www.nytimes.com/2026/10/03/us/medical-plane-missing-bermuda-boston.html",
+      "summary": "The plane, a Gulfstream G100 with six people aboard, lost contact at around 2 a.m. A search was underway Saturday off the coast of Nantucket.",
       "source": "NYT"
     },
     "3": {
@@ -20,21 +20,21 @@
       "source": "NYT"
     },
     "4": {
-      "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
-      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
-      "summary": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.",
-      "source": "NYT"
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
+      "source": "BBC"
     },
     "5": {
-      "title": "FlyDubai Co-Pilot Used Crash Ax in ‘Terrorist’ Cockpit Attack, Emirates Says",
-      "link": "https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html",
-      "summary": "The violent midair assault on a FlyDubai flight to Tel Aviv has deepened concerns about the safety of Israelis traveling abroad.",
-      "source": "NYT"
-    },
-    "6": {
       "title": "American High School Students Are Selling Guns Bound for Cartels",
       "link": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
       "summary": "Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.",
+      "source": "NYT"
+    },
+    "6": {
+      "title": "What We Learned About American Teenagers Supplying Guns to Cartels",
+      "link": "https://www.nytimes.com/2026/10/03/world/americas/american-teenage-gun-traffickers.html",
+      "summary": "Our reporting revealed how Mexican criminal groups are relying on teenagers and young adults in border states like Arizona to help supply their weapons.",
       "source": "NYT"
     }
   }
