@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-10-03T13:07:12.416385-04:00",
+  "sent_at": "2026-10-03T15:07:12.283262-04:00",
   "items": {
     "1": {
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
-      "source": "BBC"
+      "title": "Ex-Sheriff’s Deputy Acquitted in Fatal Shooting of Airman Roger Fortson",
+      "link": "https://www.nytimes.com/2026/10/03/us/air-force-shooting-florida-deputy-acquitted.html",
+      "summary": "The airman, Roger Fortson, had answered a knock at his home in Fort Walton Beach while holding a gun, and was shot within seconds. A Florida jury cleared the former deputy, Eddie Duran.",
+      "source": "NYT"
     },
     "2": {
-      "title": "Search Underway for Missing Plane Heading From Bermuda Off Nantucket",
-      "link": "https://www.nytimes.com/2026/10/03/us/medical-plane-missing-bermuda-boston.html",
-      "summary": "The plane, a Gulfstream G100 with six people aboard, lost contact at around 2 a.m. A search was underway Saturday off the coast of Nantucket.",
+      "title": "As Midterms Near, Justice Alito Says He Considers Each Year Whether to Retire",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html",
+      "summary": "The justice, the second oldest on the court at 76, told CBS News that he decided against stepping down last term. He could face pressure should Democrats win the Senate in November.",
       "source": "NYT"
     },
     "3": {
-      "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
-      "summary": "President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.",
+      "title": "Trump, Critic of Voting by Mail, Urges Republicans to Do It in Midterms",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/trump-republicans-mail-voting.html",
+      "summary": "It was the latest mixed messaging from President Trump, who regularly votes by mail, but has made baseless claims that the practice is “inherently corrupt.”",
       "source": "NYT"
     },
     "4": {
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
-      "source": "BBC"
-    },
-    "5": {
       "title": "American High School Students Are Selling Guns Bound for Cartels",
       "link": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
       "summary": "Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.",
       "source": "NYT"
     },
+    "5": {
+      "title": "Medical plane with 6 on board missing off Massachusetts coast",
+      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "source": "BBC"
+    },
     "6": {
-      "title": "What We Learned About American Teenagers Supplying Guns to Cartels",
-      "link": "https://www.nytimes.com/2026/10/03/world/americas/american-teenage-gun-traffickers.html",
-      "summary": "Our reporting revealed how Mexican criminal groups are relying on teenagers and young adults in border states like Arizona to help supply their weapons.",
-      "source": "NYT"
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "source": "BBC"
     }
   }
 }
