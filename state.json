@@ -1,41 +1,41 @@
 {
-  "sent_at": "2026-10-03T07:07:11.899478-04:00",
+  "sent_at": "2026-10-03T11:07:19.792408-04:00",
   "items": {
     "1": {
-      "title": "In Texas, Talarico Inspires a Recurring Blue-Tinted Dream",
+      "title": "Medical Plane Goes Missing on Flight From Bermuda to Boston",
+      "link": "https://www.nytimes.com/2026/10/03/us/medical-plane-missing-bermuda-boston.html",
+      "summary": "The plane, a Gulfstream G100 with 6 people aboard, lost contact at around 2 a.m. A search was underway Saturday off the coast of Nantucket.",
+      "source": "NYT"
+    },
+    "2": {
+      "title": "In Texas, Talarico’s Strength in Senate Polls Inspires a Democratic Dream",
       "link": "https://www.nytimes.com/2026/10/03/us/politics/texas-talarico.html",
       "summary": "After a dry spell of more than three decades, Democrats are daring (yet again) to believe they can win one or more top-of-the-ballot races in a vast and stubbornly red state.",
       "source": "NYT"
     },
-    "2": {
-      "title": "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html",
-      "summary": "A proposal to bolster relations with the Kremlin through the purchase of Russian energy assets is striking even for an administration that regularly mixes personal business interests with foreign policy.",
-      "source": "NYT"
-    },
     "3": {
-      "title": "How a Failed Execution Left Christa Pike Hovering Between Life and Death",
-      "link": "https://www.nytimes.com/2026/10/03/us/christa-pike-tennessee-execution.html",
-      "summary": "Her legal team had repeatedly warned that her execution could go wrong. On Wednesday, they were proven right.",
+      "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
+      "summary": "President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.",
       "source": "NYT"
     },
     "4": {
-      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-      "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
-      "source": "BBC"
+      "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+      "summary": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.",
+      "source": "NYT"
     },
     "5": {
-      "title": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
-      "link": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html",
-      "summary": "Flights between the neighboring countries had been halted after broad U.S. penalties on Iran’s aviation industry.",
+      "title": "FlyDubai Co-Pilot Used Crash Ax in ‘Terrorist’ Cockpit Attack, Emirates Says",
+      "link": "https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html",
+      "summary": "The violent midair assault on a FlyDubai flight to Tel Aviv has deepened concerns about the safety of Israelis traveling abroad.",
       "source": "NYT"
     },
     "6": {
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "source": "BBC"
+      "title": "American High School Students Are Selling Guns Bound for Cartels",
+      "link": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
+      "summary": "Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.",
+      "source": "NYT"
     }
   }
 }
